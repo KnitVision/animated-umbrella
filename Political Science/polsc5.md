@@ -20,6 +20,9 @@ aliases:
 > [!summary]
 > **Citizenship** is membership in a political community, ordinarily the state. It creates a direct relationship between the individual and the state and carries rights, duties, protections, and expectations. Citizenship must be studied through two questions: **Who is recognized as a citizen?** and **What does being a citizen entail?** Legal status alone does not guarantee substantive equality: people may be formal citizens yet remain unable to enjoy citizenship fully because of gender, class, caste, religion, ethnicity, disability, or migration.
 
+> [!info] Source key
+> **[Lecture]** comes from the class transcript or rough notes. **[Book: Roy]** is added from Anupama Roy's *Mapping Citizenship in India*. **[Lecture + Book]** means the lecture introduced the point and the book supplied further explanation or examples.
+
 ## The Two Questions of Citizenship
 
 | Question | Focus | Typical issues |
@@ -71,7 +74,7 @@ The principle raises difficult cases:
 - It may preserve membership across a diaspora.
 - Historically, descent rules have often been patriarchal, transmitting status through fathers rather than mothers.
 
-Anupama Roy shows that Indian law gradually shifted toward descent:
+**[Book: Roy]** Anupama Roy shows that Indian law gradually shifted toward descent:
 
 | Period of birth in India | General rule under the Citizenship Act |
 |---|---|
@@ -109,7 +112,7 @@ The concept assumes that the applicant has become integrated into the political 
 
 ### 5. Citizenship by Incorporation of Territory
 
-When territory becomes part of a state, the law may recognize its residents as citizens through an **incorporation order**. In India, citizenship orders were used in relation to territories including Goa, Daman and Diu, Dadra and Nagar Haveli, Puducherry, and Sikkim.
+**[Book: Roy]** When territory becomes part of a state, the law may recognize its residents as citizens through an **incorporation order**. In India, citizenship orders were used in relation to territories including Goa, Daman and Diu, Dadra and Nagar Haveli, Puducherry, and Sikkim.
 
 This is an exceptional route associated with territorial and constitutional change rather than an ordinary individual application.
 
@@ -186,6 +189,8 @@ The absence, threatened withdrawal, or unequal enjoyment of citizenship reveals 
 
 ### T.H. Marshall: Equal Membership
 
+**[Lecture + Book]**
+
 **T.H. Marshall** defined citizenship as a status bestowed on full members of a community, whose holders are equal with respect to the rights and duties attached to that status. He divided citizenship into three elements:
 
 | Element | Content | Associated institutions |
@@ -200,6 +205,8 @@ Marshall's framework explains why the right to vote alone does not produce full 
 > Marshall describes an egalitarian expansion of citizenship, but formal equality can coexist with capitalism and entrenched inequalities of class, caste, race, religion, and gender. Social rights may soften inequality without dismantling its underlying structure.
 
 ## Anupama Roy: Citizenship as Promise and Hierarchy
+
+**[Book: Roy]**
 
 Roy presents citizenship as simultaneously inclusive and exclusive.
 
@@ -227,6 +234,8 @@ Roy uses **forclusion** to describe more than simple exclusion. The outsider rem
 Liberal citizenship imagines an **abstract**, **unmarked**, or **masked citizen** whose caste, class, gender, race, religion, and culture are treated as irrelevant. This can be emancipatory because the law no longer openly assigns status by inherited hierarchy. It can also conceal inequality because people do not possess equal material ability to exercise formally identical rights.
 
 ## Differentiated Citizenship
+
+**[Lecture + Book]** The lecture introduces differentiated or incomplete citizenship; Roy supplies the constitutional framework and the distinction between individual and community rights.
 
 **Differentiated citizenship** recognizes that uniform treatment may reproduce inequality. Equal citizenship may require special rights, representation, protection, or resources for groups placed at a historical disadvantage.
 
@@ -366,6 +375,8 @@ Conversely, formal citizens may be denied effective political rights through dis
 
 ## Feminist Critique of Citizenship
 
+**[Lecture + Book]**
+
 Feminist theory asks whether supposedly universal membership rules were built around a male citizen.
 
 - Property ownership historically favoured men.
@@ -379,6 +390,8 @@ This critique does not simply seek to add women to an unchanged category. It ask
 A care-based conception argues that citizenship should include a collective responsibility to ensure that all members can live with dignity, rather than treating citizenship solely as an exchange of rights for duties.
 
 ## Multicultural Critique
+
+**[Lecture + Book]**
 
 Multicultural theory argues that a citizen's cultural, linguistic, religious, and ethnic attachments cannot always be erased in the name of abstract equality.
 
@@ -496,4 +509,29 @@ Does possession of citizenship documents make someone a full citizen when discri
 
 ## Source Note
 
-These notes synthesize the lecture transcript with the rough course notes in [[state & government]] and Anupama Roy's *Mapping Citizenship in India* (especially the Introduction and the discussions of citizenship at the commencement of the Republic, the 1986 amendment, differentiated citizenship, and citizenship's movement between encompassment and closure).
+### From the Lecture and Rough Notes
+
+- The two questions: **who is a citizen** and **what citizenship entails**
+- Citizenship as membership, a direct citizen-state relationship, and entitlements
+- Birth, lineage, registration, and naturalization as routes to citizenship
+- The distinction between substantive principles and procedures
+- The Tibetan-origin woman's experience of uncertain citizenship
+- Citizenship as meaning, respect, and recognition
+- Liberal, republican, and communitarian models
+- Locke, Rousseau, Switzerland, Quebec, Marathi-language rules, conscription, and UK Commonwealth voting as examples
+- India as a mixed model
+- Feminist and multicultural criticisms discussed in class
+
+### Added from Anupama Roy's *Mapping Citizenship in India*
+
+- The terms ***jus soli*** and ***jus sanguinis*** and India's shift from birth toward descent
+- Citizenship through incorporation of territory and the Indian territorial examples
+- Marshall's detailed division into **civil, political, and social citizenship**
+- Citizenship as a **momentum concept**
+- **Encompassment**, **closure**, the **constitutive outsider**, and **forclusion**
+- The **masked**, **abstract**, or **unmarked citizen** and the inequalities concealed by formal equality
+- **Differentiated citizenship** and the Constitution's simultaneous recognition of individuals and communities
+- Articles 14-17 and 25-30 and the Directive Principles as examples of differentiated and social citizenship
+- The tension between group protection and internal restrictions on vulnerable members
+- Overseas Citizenship of India as an example of expansion occurring alongside stricter citizenship by birth
+- The broader argument that legal citizenship can coexist with hierarchy, exclusion, and unequal lived citizenship

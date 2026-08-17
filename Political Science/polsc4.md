@@ -18,6 +18,9 @@ aliases:
 > [!summary]
 > **Citizenship** is a legally and politically recognized relationship of membership between an individual and a state. It gives a person a status, a set of rights and duties, and a claim to political participation and belonging. Citizenship promises free and equal membership, but its rules also distinguish insiders from outsiders and often produce unequal experiences among formal citizens.
 
+> [!info] Source notation
+> Sections marked **From the book** draw directly from Anupama Roy's *Mapping Citizenship in India*. Unmarked sections primarily reconstruct the lecture and rough notes. Sections marked **Legal clarification** correct transcript errors or update legal details not covered by Roy's book.
+
 ## From the Modern State to Citizenship
 
 The lecture begins by connecting citizenship to the modern state discussed in [[polsc3|State and Government: Features and Functions]]. The modern state need not always be secular, liberal, or democratic, but it ordinarily differs from older forms of rule by possessing impersonal **public institutions**, laws, procedures, and a permanent population.
@@ -77,6 +80,9 @@ The relevant questions are therefore:
 Citizenship thus links state power to constitutionalism, due process, and accountability.
 
 ### T. H. Marshall: Free and Equal Membership
+
+> [!book] From the book
+> Roy's Introduction uses T. H. Marshall's theory to explain citizenship as free and equal membership consisting of civil, political, and social elements.
 
 In *Mapping Citizenship in India*, Anupama Roy uses **T. H. Marshall's** influential account of citizenship as **free and equal membership in a political community**. Marshall divides citizenship into three elements:
 
@@ -194,6 +200,9 @@ India does not recognize full dual citizenship. **Overseas Citizenship of India 
 
 ### Constitutional Commencement: Articles 5-11
 
+> [!book] From the book
+> Roy's Chapter 1 explains Articles 5-11 through Partition, migration, displacement, and the transition from British subjecthood to Indian citizenship.
+
 The Constitution does not give a single abstract definition of "citizen." **Part II (Articles 5-11)** primarily determined who was a citizen at the Constitution's commencement in the exceptional context of Independence and Partition.
 
 - **Article 5:** citizenship based on domicile plus birth, parentage, or ordinary residence
@@ -208,6 +217,9 @@ Roy argues that these provisions must be read through **Partition**, mass migrat
 
 ### Citizenship Act, 1955
 
+> [!book] From the book
+> The five routes to citizenship and the Act's relationship with Article 11 are summarized from Chapter 1.
+
 Using Article 11, Parliament enacted the **Citizenship Act, 1955**, which provides principal routes through:
 
 1. Birth
@@ -219,6 +231,9 @@ Using Article 11, Parliament enacted the **Citizenship Act, 1955**, which provid
 The Act also regulates renunciation, termination, and deprivation of citizenship.
 
 ### Changing Rules for Citizenship by Birth
+
+> [!book] From the book and legal clarification
+> Roy traces the movement from broad birthright citizenship toward descent-based restrictions through the 1986 and 2003 amendments. The exact effective date ranges below are stated explicitly for clarity.
 
 India moved from broad territorial birthright toward increasingly qualified birthright citizenship:
 
@@ -232,11 +247,17 @@ This progression marks a shift from **jus soli** toward a stronger **jus sanguin
 
 ### Assam Accord and the 1986 Amendment
 
+> [!book] From the book
+> Roy's Chapter 2 treats Assam as a politics of place-making in which the migrant became a suspect or constitutive outsider. The lecture introduces the same tension between citizenship and migration.
+
 The Assam movement raised questions about migration, electoral membership, Assamese identity, and the detection of foreigners. The **Assam Accord (1985)** and **Section 6A**, inserted into the Citizenship Act in 1985, created special rules according to dates of entry into Assam. The 1986 amendment then narrowed citizenship by birth nationwide by requiring at least one citizen parent for people born from 1 July 1987 onward.
 
 Roy's broader point is that the migrant increasingly changed from a person seeking passage into citizenship after Partition to a category associated with suspicion and illegality. Citizenship law thus became part of a politics of **place-making**: defining the legitimate people of a territory by identifying outsiders.
 
 ### Citizenship Amendment Act and NRC
+
+> [!warning] Legal clarification
+> Roy's book predates the Citizenship (Amendment) Act, 2019 and the completed Assam NRC. This section clarifies claims made in the lecture and is not drawn from the book.
 
 The **Citizenship (Amendment) Act, 2019 (CAA)** was enacted, not merely proposed. It creates an expedited route to citizenship for specified Hindu, Sikh, Buddhist, Jain, Parsi, and Christian migrants from Afghanistan, Bangladesh, and Pakistan who entered India on or before 31 December 2014, subject to the Act's conditions. Its religious classification prompted major constitutional and political controversy.
 
@@ -259,6 +280,9 @@ The example remains relevant when long-term residents are declared foreigners or
 - **Proof of citizenship** from citizenship itself
 
 ## Anupama Roy: Citizenship's Central Paradox
+
+> [!book] From the book
+> This entire section summarizes the main conceptual argument of Roy's Introduction, including momentum, encompassment, closure, differentiated citizenship, constitutive outsiders, and residual citizens.
 
 Roy presents citizenship as simultaneously inclusive and exclusive.
 
@@ -406,3 +430,16 @@ The transition is never complete. As Gianfranco Poggi argues, modern states form
 - Lecture 4 transcript, `polsc4.refined.txt`
 - Rough course notes, [[state & government]]
 - Anupama Roy, *Mapping Citizenship in India* (especially the Introduction and Chapter 1)
+
+### Source Map
+
+| Material | Main source |
+|---|---|
+| Modern states, communes, religious states, three guiding questions, and classroom criteria for citizenship | Lecture transcript and rough notes |
+| Citizenship as civil, political, and social membership | Roy's Introduction, discussing T. H. Marshall |
+| Momentum concept, encompassment, closure, constitutive outsiders, formal versus substantive equality, and differentiated citizenship | Roy's Introduction |
+| Residual citizens and the practical exclusion of internal migrant workers | Roy's Introduction and Chapter 4 |
+| Articles 5-11 in the context of Partition and liminal citizenship | Roy's Chapter 1 |
+| Citizenship Act routes, narrowing of birthright citizenship, Assam, and OCI as simultaneous inclusion and closure | Roy's Chapters 1-3 |
+| *Toba Tek Singh* and classroom examples about belonging | Lecture transcript, with names corrected |
+| CAA 2019, Assam NRC, nationwide NRC status, and exact birth-rule dates | Legal clarification added to correct or update the lecture and book |
