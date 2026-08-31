@@ -18,371 +18,300 @@ aliases:
 # Citizenship: Differentiated Rights and Citizen Participation
 
 > [!summary]
-> Republican citizenship requires citizens to take part in collective self-government, but people do not have equal time, money, influence, or access to political institutions. **Group-differentiated citizenship** responds to this inequality by giving disadvantaged groups specific rights, representation, protection, or powers. **Sherry Arnstein's ladder of citizen participation** then helps distinguish genuine citizen power from exercises that merely inform, consult, placate, or manipulate the public.
+> Republican citizenship requires participation in collective self-government. Yet citizens do not have equal time, money, influence, or access to institutions. **Group-differentiated citizenship** responds by recognizing disadvantages connected to caste, class, gender, religion, culture, and migration. **Sherry Arnstein's ladder** then distinguishes genuine citizen power from participation that merely informs, consults, placates, or manipulates the public.
 
-> [!info] Source note
-> These notes reconstruct Lecture 6 from the transcript. Names and terms garbled by transcription have been corrected. The ladder is based on Sherry R. Arnstein's 1969 article, "A Ladder of Citizen Participation."
+> [!info] Sources
+> The main discussion comes from Lecture 6. **[Book: Roy]** marks material from Anupama Roy's *Mapping Citizenship in India*. **[Article: Arnstein]** marks material from Sherry R. Arnstein's "A Ladder of Citizen Participation."
 
-## Citizenship as Continuing Political Work
+## Citizenship requires participation
 
-The lecture continues the comparison of liberal, republican, and communitarian citizenship from [[polsc5|Citizenship: Membership, Entitlements, and Models]].
+The **liberal model** assumes that citizens elect representatives and public institutions then protect their rights. The **republican model** expects citizens to remain active. They monitor the state, raise grievances, petition, protest, deliberate, and pressure authorities to honour the social contract discussed in [[polsc2|The State: Theories and Critiques]].
 
-The **liberal model** assumes that citizens elect representatives and public institutions then protect their rights. The **republican model** demands more. Citizens must monitor the state, raise grievances, organize, petition, protest, deliberate, and pressure authorities to honor the political agreement on which the state rests.
+The Right to Information movement is an example. Workers associated with the **Mazdoor Kisan Shakti Sangathan** demanded access to muster rolls and expenditure records to investigate unpaid wages and corruption. Repeated public action helped turn a local demand for accountability into a legal right. Rights can therefore emerge through citizenship practice rather than arrive solely from elected representatives.
 
-This participation has produced concrete institutional changes. The lecture uses the **Right to Information** as an example. The law did not appear simply because elected representatives decided that transparency was desirable. Workers and activists repeatedly demanded access to official records, especially records needed to discover why wages had not been paid. Sustained public action turned a local struggle over government accountability into a legal right.
+### Participation and compensation
 
-> [!example] Participation and the Right to Information
-> The Right to Information movement is closely associated with the Mazdoor Kisan Shakti Sangathan's campaigns in Rajasthan. Workers demanded access to muster rolls and expenditure records so they could identify unpaid wages and corruption. Their struggle shows republican citizenship in practice: citizens forced the state to explain how it used public authority and money.
+Political participation usually does not offer personal monetary profit. Residents of a cooperative housing society decide whether to repair a roof or retain a playground because those decisions affect their shared life. The result, such as a fair examination system or better public service, is the benefit.
 
-## Why Participate Without Payment?
+This does not mean participation should be costless. **[Article: Arnstein]** Effective participation may require:
 
-A student raised a basic difficulty. Political participation requires work, but participants often receive no immediate monetary reward. Time spent attending meetings, filing petitions, organizing protests, or monitoring institutions competes with study, employment, care work, and rest.
+- Honoraria for citizen leaders
+- Reimbursement for travel and childcare
+- Funds for independent lawyers, planners, and technical advisers
+- Paid professional help with procedures such as filing RTI applications
 
-The lecture's answer is that citizenship is not ordinarily a paid transaction. Residents of a cooperative housing society may attend meetings and decide whether to repair a leaking roof, retain a playground, or spend common funds. They do not receive wages for every meeting. They participate because the decisions shape the place in which they live.
+Without this support, active citizenship may be limited to those who can afford unpaid work.
 
-The return from political participation is likewise usually **collective and indirect**:
+## Formal rights and unequal capacity
 
-- A faulty examination system may be corrected.
-- A corrupt practice may be investigated.
-- Public services may improve.
-- Authorities may recognize a neglected problem.
-- Future citizens may gain a right or protection.
+The republican ideal can hide inequality. People who work long hours, lack education or documents, live far from public offices, or fear retaliation cannot participate on the same terms as wealthy and well-connected citizens.
 
-The benefit may be real even when no participant receives money. If examination leaks stop after sustained student action, the fairer examination system is part of the return.
-
-### Professional political assistance
-
-Political participation can also become professionalized. Civil-society organizations may employ people who help citizens file Right to Information applications, understand procedures, gather data, or approach authorities. Payment for this work does not make the underlying citizenship claim a commercial exchange. It pays for expertise and labour used to help citizens make claims.
-
-The distinction is between:
-
-1. **Payment for professional assistance**, such as paying someone to prepare an application.
-2. **The purpose of citizenship**, which is to shape common institutions and secure rights rather than obtain personal monetary compensation.
-
-## Participation Is Unequally Distributed
-
-The republican expectation of an active citizen can hide a serious inequality. Many people work long hours, lack political education, live far from public offices, cannot obtain documents, or fear retaliation. Formal freedom to participate does not create an equal capacity to participate.
-
-States can reduce some barriers:
-
-- Election days may be public holidays.
-- Polling stations should remain geographically accessible.
-- Election officials may travel to remote settlements so that even a small number of citizens can vote.
-- Local institutions can bring decision-making closer to citizens.
-
-These measures help, but they do not eliminate differences of class, caste, gender, disability, language, residence, social status, or political influence.
+The state can reduce barriers through accessible polling stations, election holidays, local institutions, and outreach to remote areas. These measures help but do not erase inequalities of class, caste, gender, disability, language, residence, or political influence.
 
 > [!important]
-> A legal right to participate is only formal equality. Substantive political equality asks whether different citizens can actually use that right and whether institutions respond to them with comparable seriousness.
+> **Formal political equality** gives everyone the same legal right. **Substantive political equality** asks whether citizens can actually use that right and whether institutions respond to them with comparable seriousness.
 
-## Individual and Group-Differentiated Citizenship
+Examples from the lecture include:
 
-The liberal state often presents citizenship as an individual status. It claims to see each person as an equal bearer of the same rights, regardless of social identity.
+- Women may possess the vote but face restrictions on mobility, education, and public participation.
+- Some women elected to reserved seats act as proxies for husbands, families, or parties.
+- Urban middle-class environmental protests often receive more attention than tribal or rural protests.
+- Famous or wealthy citizens can influence infrastructure decisions more easily than ordinary residents.
+- Internal migrants may remain citizens but lose effective access to voting and welfare because systems assume a fixed address.
 
-**Will Kymlicka** and **Iris Marion Young** argue that this abstract individual model is insufficient. Citizens belong to groups whose histories and social positions affect their ability to exercise formally equal rights. Women, religious minorities, Indigenous peoples, lower-income groups, oppressed castes, migrants, and linguistic minorities may possess citizenship in law while lacking an equal political voice.
+## Individual and group-differentiated citizenship
 
-**Group-differentiated citizenship** gives specific rights, resources, representation, autonomy, or institutional access to groups whose members cannot otherwise enjoy citizenship on equal terms.
+Liberal citizenship treats each person as an equal individual bearer of rights. **Will Kymlicka** and **Iris Marion Young** argue that identical legal treatment is insufficient when social groups have unequal histories and power.
 
-| Model | State's approach | Main risk |
+**Group-differentiated citizenship** gives particular groups rights, resources, representation, autonomy, or institutional access needed for their members to participate as equals.
+
+| Model | State's approach | Risk |
 |---|---|---|
-| **Individual citizenship** | Treat every citizen through formally identical rights | Existing inequality remains hidden behind neutral rules |
-| **Group-differentiated citizenship** | Recognize group disadvantage and grant suitable rights or powers | Group leaders may dominate individuals within the group |
+| **Individual citizenship** | Apply formally identical rights to each person | Neutral rules can preserve existing inequality |
+| **Group-differentiated citizenship** | Recognize group disadvantage and provide suitable rights or powers | Group leaders may dominate members within the group |
 
-The distinction describes the state's point of view. Every human being is an individual, but the political question is whether the state treats citizens solely as isolated individuals or also recognizes the social groups that structure their opportunities.
+Differentiated citizenship is broader than reservation. It may include minority-language rights, religious accommodation, reserved representation, local self-government, Indigenous autonomy, accessible forums, and extra resources needed to exercise common rights.
 
-## Why Identical Rights Can Produce Unequal Citizenship
+### The abstract or masked citizen
 
-At independence, giving every adult the formal right to vote did not instantly give all citizens equal political power. Women faced unequal education, restricted mobility, dependence within households, and exclusion from public life. Representation could remain nominal even after seats were reserved. At local levels, some elected women have functioned as proxy representatives for husbands, families, or parties.
+**[Book: Roy]** Liberal theory imagines an **abstract**, **unmarked**, or **masked citizen** whose caste, class, gender, religion, and culture are treated as irrelevant.
 
-Other examples from the lecture make the same point:
+This was partly emancipatory because it rejected inherited rank. Its weakness is that ignoring social difference does not remove it. A legal right is less effective for someone who lacks security, education, mobility, money, documents, or public recognition.
 
-- A wealthy or famous citizen may influence a city's infrastructure plans more easily than an ordinary resident.
-- Urban middle-class environmental protests may receive more attention than long-running protests by tribal or rural communities.
-- Public services may be reliable in affluent neighbourhoods and poor in lower-income areas of the same city.
-- Police may enforce traffic rules differently across classes of vehicles and citizens.
-- Internal migrant workers may lack stable addresses, which weakens access to electoral rolls and welfare even though they remain Indian citizens.
+Roy contrasts citizenship's promise of a **horizontal camaraderie** of equal members with **graded citizenship**, in which formal citizens experience rights and state protection unequally.
 
-The law may declare all citizens equal while public institutions routinely treat them with unequal attention.
+### Differentiated universalism
 
-### The abstract citizen
+**[Book: Roy]** Young's differentiated citizenship seeks to make universal equality effective, not abandon it. **Differentiated universalism** keeps a common framework of citizenship while recognizing differences that affect the exercise of rights.
 
-Modern citizenship often imagines an **abstract citizen** with no relevant caste, gender, religion, language, income, or migration history. This can oppose inherited hierarchy, but it also assumes that the supposedly neutral citizen already has a fixed home, documents, education, leisure, and access to officials.
+- **Encompassment** expands democratic citizenship by including differently situated people and groups.
+- **Closure** denies membership, restricts rights, or incorporates people on inferior terms.
 
-Internal migrant workers expose this problem. Voting systems and welfare systems often assume a stable residence. A citizen who moves repeatedly for work may remain formally entitled to vote but be unable to register or return home on election day. The right belongs to the individual, yet the system has been designed around a kind of individual that many citizens do not resemble.
+The aim is equal citizenship through relevant differences rather than equality through blindness to difference.
 
-## Forms of Differentiated Citizenship
+### Constitutional recognition
 
-Differentiated citizenship is broader than reservation. It can include:
+**[Book: Roy]** The Indian Constitution recognizes both the **individual** and the **community** as subjects of rights.
 
-- Reserved political representation
-- Minority language and educational rights
-- Religious accommodation
-- Local self-government
-- Greater autonomy for Indigenous or tribal communities
-- Accessible local forums
-- Institutions through which marginalized groups can set priorities
-- Additional resources needed to exercise formally equal rights
+| Provision | Relevance |
+|---|---|
+| **Articles 14-15** | Equality and non-discrimination, with scope for special provisions for disadvantaged groups |
+| **Article 16** | Equal opportunity in public employment and compensatory measures |
+| **Article 17** | Abolition of untouchability |
+| **Articles 25-30** | Religious, cultural, and educational rights, including minority protections |
+| **Article 38** | Reduction of inequalities among individuals and groups |
+| **Article 46** | Protection of educational and economic interests of weaker sections, especially SCs and STs |
 
-The Indian constitutional system combines common citizenship with group-sensitive provisions. Tribal communities in parts of central and northeastern India, for example, have forms of local self-rule and legal protection connected to land, institutions, and customary practices.
+These provisions use two approaches. Some try to remove social disadvantage so individuals can participate as equals. Others protect cultural communities because language, religion, and culture shape individual identity.
 
-The lecture's North Sentinel Island example asks what citizenship would require if an isolated Indigenous community were incorporated into India. Simply issuing passports and directing residents to vote would not create substantive citizenship. Respect for the community may require local authority, protection from outside intervention, and decision-making powers different from those of an ordinary municipality.
+## Kymlicka and the limit on group rights
 
-## Kymlicka on Culture and Group Rights
+Kymlicka argues that a state is not neutral when public rules silently reflect the majority's language, dress, religion, or culture. Accommodation may therefore permit religious dress, the Sikh kirpan, minority-language institutions, or local autonomy.
 
-Kymlicka argues that culture affects the choices available to individuals and the meaning they attach to public life. A state is not genuinely neutral when it requires every citizen to follow the majority's language, dress, calendar, or social practices.
-
-Religious and cultural accommodations may therefore permit:
-
-- Sikhs to wear turbans or carry the kirpan subject to lawful safety rules
-- Muslims, Jews, and other religious communities to wear forms of religious dress
-- Minorities to maintain languages, schools, or cultural institutions
-- Indigenous or national minorities to exercise some local autonomy
-
-These accommodations do not treat cultural identity as irrelevant. They recognize that identical public rules may burden minorities more heavily than the majority.
-
-### External protections and internal restrictions
-
-Kymlicka places a limit on group rights. A group may receive **external protections** against domination by the wider society, but it should not receive unlimited power to impose **internal restrictions** on its own members.
+He distinguishes:
 
 | Type | Meaning | Example |
 |---|---|---|
-| **External protection** | Protects a minority from political, economic, or cultural domination by the majority | Language rights, representation, religious accommodation, or local autonomy |
-| **Internal restriction** | Allows a group to limit the freedom of its own members | Denying women education or punishing members who reject an approved practice |
+| **External protection** | Protects a minority from domination by the wider society | Language rights, representation, accommodation, autonomy |
+| **Internal restriction** | Allows a group to restrict its own members | Denying women education or punishing dissenters |
 
-A community's claim to preserve tradition cannot automatically override an individual's education, liberty, equality, or freedom of conscience.
+Group protection cannot automatically override individual liberty and equality.
 
-## Modernity and the Myth of Neutral Rules
+**[Book: Roy]** The proposed Jammu and Kashmir Permanent Residents Disqualification Bill, 2004, or **Daughters' Bill**, illustrates this problem. It sought to protect land and permanent-resident rights from outsiders but would have made women's status and property rights depend on whom they married. A measure framed as community protection could therefore make women within the community unequal.
 
-The class discussed Turkey as a state that promoted a common national identity while suppressing minority identities, including Kurdish language and political expression. A state can describe its rules as uniform and modern while defining the normal citizen through the dominant culture.
+## Arnstein's ladder of citizen participation
 
-This is a standard criticism of modern universalism:
+**[Article: Arnstein]** Arnstein defines citizen participation as **citizen power**. It is a redistribution of power that includes citizens excluded from political and economic processes in:
 
-1. The state says that every citizen is equal.
-2. It defines one language, dress, identity, or way of life as normal.
-3. Minorities receive equal rights only if they conform to that norm.
-4. Formally neutral rules then reproduce majority power.
+- Sharing information
+- Setting goals and policies
+- Allocating public resources
+- Operating programmes
+- Distributing public benefits
 
-Group-differentiated citizenship asks whose identity is hidden inside the supposedly neutral citizen.
+Participation without power is an **empty ritual**. Authorities can claim that everyone was heard while retaining control and preserving the status quo.
 
-## Sherry Arnstein's Ladder of Citizen Participation
+Arnstein developed the ladder through American urban-renewal, anti-poverty, and Model Cities programmes. Its basic question applies equally to universities, public hearings, neighbourhood bodies, and student parliaments:
 
-Sherry R. Arnstein developed the **ladder of citizen participation** in the context of planning and public programmes. The ladder ranks forms of public involvement according to how much decision-making power citizens actually possess.
+> How much power do citizens have over the final decision?
 
-> [!quote] Arnstein's central idea
-> Participation without a redistribution of power allows authorities to claim that citizens were involved while keeping the final decision under official control.
-
-The ladder has eight rungs grouped into three levels:
+### The three levels
 
 | Level | Rungs | Character |
 |---|---|---|
-| **Non-participation** | 1. Manipulation, 2. Therapy | Authorities educate, manage, or pacify citizens instead of giving them power |
-| **Degrees of tokenism** | 3. Informing, 4. Consultation, 5. Placation | Citizens may hear, speak, or advise, but cannot ensure that officials act on their views |
-| **Degrees of citizen power** | 6. Partnership, 7. Delegated power, 8. Citizen control | Citizens share authority, hold decisive power in an area, or control the process |
+| **Non-participation** | 1. Manipulation, 2. Therapy | Authorities manage, educate, or cure citizens instead of sharing power |
+| **Degrees of tokenism** | 3. Informing, 4. Consultation, 5. Placation | Citizens may hear, speak, or advise but cannot ensure action |
+| **Degrees of citizen power** | 6. Partnership, 7. Delegated power, 8. Citizen control | Citizens share, hold, or control decision-making authority |
 
-Higher rungs represent greater public control over outcomes. The ladder is a tool for evaluating institutions, not a claim that every policy area must always operate through complete citizen control.
-
-## The Eight Rungs
+## The eight rungs
 
 ### 1. Manipulation
 
-Authorities place citizens on advisory bodies or invite them into a process mainly to manufacture support. The appearance of participation legitimizes a decision already made.
+Authorities place citizens on advisory bodies to manufacture support for a decision already made. The body acts as a rubber stamp or public-relations device.
 
-The lecture uses a committee formed after campus protests as an example. If the committee receives grievances and issues recommendations but the institution never intends to implement them, it may calm opposition without redistributing power.
+The lecture's example is a committee formed after campus protests that collects grievances and issues recommendations without any intention of implementation.
 
-**Diagnostic question:** Were citizens included to influence the decision, or to endorse and legitimize an official position?
+**Test:** Are citizens influencing the decision or legitimizing the authority's position?
 
 ### 2. Therapy
 
-Authorities treat citizens' attitudes or behaviour as the problem rather than address the policy or structure producing their grievance. Participation becomes an attempt to adjust people to an existing decision.
+Authorities treat citizens' attitudes or behaviour as the problem instead of addressing the institution or policy causing the grievance.
 
-In planning, residents of informal settlements may be told that their way of living is the problem and that relocation will improve them. Meetings then persuade residents to accept a scheme rather than let them shape housing policy.
+Arnstein describes housing programmes that tried to change tenants' values and cleanliness while ignoring arbitrary evictions, segregation, and delayed repairs. The lecture similarly discusses slum rehabilitation meetings that persuade residents to accept relocation rather than let them shape housing policy.
 
-**Diagnostic question:** Is the institution changing policy, or trying to change citizens so they accept the policy?
+**Test:** Is the institution changing policy or trying to make citizens accept it?
 
 ### 3. Informing
 
-Authorities give citizens information about a plan, decision, or programme. Accurate information is necessary for participation, but one-way communication does not give citizens influence.
+Authorities tell citizens about rights, plans, or decisions. Information is necessary, but one-way communication provides no power to negotiate.
 
-For example, a government may announce that traffic congestion requires a flyover and explain the plan's benefits without asking residents whether the diagnosis, location, or proposed solution is sound.
+It remains tokenistic when information arrives late, discourages questions, uses inaccessible technical language, or offers no route for feedback.
 
-**Diagnostic question:** Can citizens respond and alter the decision, or are they merely being notified?
+**Test:** Can citizens respond and alter the decision, or are they merely notified?
 
 ### 4. Consultation
 
-Authorities invite opinions through surveys, hearings, portals, polls, or meetings. Citizens can speak, but officials are not required to use what they hear.
+Authorities collect opinions through surveys, hearings, polls, portals, or meetings but are not required to use them.
 
-The lecture's Smart Cities example involved extensive surveys asking residents what their city needed. People might identify flooding, water, or sanitation as priorities, but the consultation remains tokenistic if planning and budgets ignore those results.
+The lecture cites Smart Cities consultations in which residents identified water, sanitation, and flooding as priorities without assurance that plans or budgets would respond. Counting attendance or questionnaires proves only that consultation occurred.
 
-**Diagnostic question:** What mechanism connects public input to the final decision?
+**Test:** What mechanism connects public input to the final decision?
 
 ### 5. Placation
 
-Citizens gain limited influence, often through selected representatives on committees or boards. Officials retain enough votes or procedural power to overrule them.
+Citizens gain limited influence, often through a few selected representatives on a board. Established authorities retain enough votes or procedural control to overrule them.
 
-A school or university may appoint a student representative whom administrators consider suitable. The representative can raise concerns, but students may not choose or remove the person, and the institution can ignore or replace them.
+Representation remains weak when members are hand-picked, unaccountable to a constituency, or denied independent expertise.
 
-**Diagnostic question:** Are citizen representatives accountable to the people they claim to represent, and can they affect the outcome?
+**Test:** Are representatives accountable, and can they materially affect the outcome?
 
 ### 6. Partnership
 
-Citizens and authorities share planning and decision-making through joint committees, negotiated rules, or other structures. Both sides possess enough power that cooperation is necessary.
+Citizens and authorities share planning and decision-making through negotiated arrangements. Ground rules cannot be changed unilaterally.
 
-Some university committees approximate partnership when students and faculty jointly discuss policy, receive relevant information, and exercise meaningful votes. Mere presence in the room is insufficient. Partnership requires an actual division of authority.
+Partnership works when citizens have an organized base, accountable leaders, financial support, independent advisers, and mechanisms for resolving deadlock.
 
-**Diagnostic question:** Must authorities negotiate with citizens, or can they proceed unilaterally?
+Arnstein's Philadelphia example gave a neighbourhood federation seats on the policy committee, funds for staff, authority to initiate and review plans, and the power to require negotiation before plans advanced.
 
-### 7. Delegated Power
+**Test:** Must authorities negotiate with citizens, or can they proceed alone?
 
-Citizens receive dominant decision-making authority over a defined programme or policy area. Officials may supply resources or expertise, but citizens decide.
+### 7. Delegated power
 
-A municipality might allocate land for a neighbourhood garden while allowing residents to decide its design, planting, and rules. The central negotiation then occurs among residents rather than between residents and the state.
+Citizens hold dominant authority over a defined programme or policy area. They may have a board majority, specified control over budgets or hiring, a counter-veto, or responsibility for operating a programme.
 
-**Diagnostic question:** In the specified area, who has the final say?
+In Arnstein's New Haven example, a resident corporation received most of a planning grant, hired its own staff, and held a majority on the relevant board.
 
-### 8. Citizen Control
+**Test:** Who has the final say in the specified area?
 
-Citizens control the policy or institution, determine its operation, and decide the terms on which external experts or authorities participate.
+### 8. Citizen control
 
-A cooperative housing society deciding how to repair its roof is the lecture's example. Engineers may present options, costs, and risks, but residents choose their priorities and make the final decision.
+Citizens govern a programme or institution, control policy and management, and decide the terms on which outsiders participate.
 
-Complete citizen control is uncommon in large states. It is more plausible in neighbourhood institutions, cooperatives, local communities, and limited policy areas. Defence and other specialized national functions are unlikely to operate through direct citizen control.
+The lecture's housing-society example captures the principle. Engineers may explain options for repairing a roof, but residents choose the priorities and make the decision.
 
-**Diagnostic question:** Can citizens set the agenda, choose the solution, control implementation, and hold outside actors accountable?
+Citizen control is not absolute power. If a city council or another authority retains final approval, control remains incomplete.
 
-## Applying the Ladder
+**Test:** Can citizens set the agenda, choose the policy, control implementation, and hold outsiders accountable?
 
-The ladder converts the vague claim that "your voice matters" into questions about institutions and outcomes:
+## Applying the ladder
+
+The existence of a meeting, survey, committee, or representative does not establish meaningful participation. Ask:
 
 1. Who set the agenda?
-2. Who selected the participants or representatives?
-3. Did participants receive the information needed to judge the issue?
-4. Could citizens propose alternatives?
+2. Who selected the representatives?
+3. What information and expertise did citizens receive?
+4. Could they propose alternatives?
 5. Was the authority required to respond?
-6. Could citizens block or amend the decision?
+6. Could citizens amend or block the decision?
 7. Who controlled money and implementation?
-8. Who had the final decision?
-9. Could representatives be held accountable or removed?
-10. Did participation produce a visible change?
+8. Who had the final say?
 
-The framework can evaluate a city plan, public hearing, university committee, student parliament, residents' association, or government consultation.
+For example, a student parliament merely calming students resembles **placation**. If an institution must negotiate with it, the relationship approaches **partnership**. If students control a defined part of policy, it approaches **delegated power**.
 
-### Campus example
+## Limits and barriers
 
-The lecture applies the ladder to student participation in decisions about teaching-assistant policy. A student parliament's public opposition to an institutional decision may communicate student preferences, but its position on the ladder depends on its power:
+Arnstein calls the ladder a simplification.
 
-- If it merely calms students while accepting the institution's decision, it resembles **placation**.
-- If the institution must negotiate with it and share decision-making, it approaches **partnership**.
-- If students possess final authority over a defined part of the policy, it approaches **delegated power**.
+- Real processes contain blurred gradations.
+- Citizens and powerholders are not homogeneous groups.
+- Different stages of one policy may occupy different rungs.
+- A citizen's employment or committee membership may build power, buy off criticism, or provide only symbolic inclusion.
+- Local citizen control may still exclude minorities within the community.
+- Full control is not practical or desirable for every public function.
 
-The label depends on institutional mechanisms, not on whether representatives use democratic language.
+Arnstein also identifies barriers:
 
-## Limits of the Ladder
+| Powerholders | Excluded citizens |
+|---|---|
+| Racism, paternalism, and resistance to redistributing power | Weak organization, limited technical knowledge, lack of money, distrust, alienation, and difficulty creating accountable representation |
 
-Arnstein's ladder is useful because it focuses on power, but it simplifies some political situations.
+The ladder must therefore be combined with differentiated citizenship. Asking how much power "citizens" possess is incomplete unless we ask **which citizens** can use it.
 
-- Different stages of the same policy may sit on different rungs.
-- Citizens are not a single group with one interest.
-- Representatives may be formally elected yet unaccountable in practice.
-- Technical expertise and public control need not be opposites, but experts should not quietly replace political choice.
-- Full citizen control is neither practical nor necessarily desirable for every function.
-- A process can grant local power while excluding marginalized people within the local community.
+## Exam-ready synthesis
 
-The last point links Arnstein to differentiated citizenship. Asking how much power "citizens" possess is incomplete unless we also ask **which citizens** can use that power.
+1. Republican citizenship requires continuing participation rather than voting alone.
+2. Formal rights do not guarantee an equal capacity to participate.
+3. Group-differentiated citizenship uses special rights, resources, representation, or autonomy to make citizenship substantive.
+4. Roy's masked citizen explains how neutral rules can hide structural inequality and produce graded citizenship.
+5. Differentiated universalism recognizes difference within a common framework of equal citizenship.
+6. The Indian Constitution recognizes both individual and community rights.
+7. Kymlicka supports external protections but rejects internal restrictions that violate members' rights.
+8. Arnstein defines citizen participation as redistribution of power.
+9. Manipulation and therapy are forms of non-participation.
+10. Informing, consultation, and placation allow voice without guaranteed influence.
+11. Partnership, delegated power, and citizen control transfer increasing decision-making authority.
+12. Partnership requires negotiation, accountable organization, resources, and independent expertise.
+13. Delegated power gives citizens dominant authority in a defined area.
+14. Citizen control includes policy and managerial control but does not mean absolute power.
+15. Participation should be evaluated through agenda-setting, resources, accountability, implementation, and final decision-making.
 
-## Connecting the Lecture's Main Arguments
+## Key terms
 
-The lecture brings together three claims:
-
-1. **Republican citizenship requires participation.** Citizens must do more than periodically elect representatives.
-2. **Participation is socially unequal.** Formal invitations do not give all groups an equal voice.
-3. **Participation must redistribute power.** A meeting, survey, committee, or elected body counts as meaningful only when it can affect decisions.
-
-Group-differentiated citizenship addresses the second claim by recognizing unequal social positions. Arnstein's ladder addresses the third by measuring how much authority public participation actually transfers.
-
-## Central Tensions
-
-### Equal rules versus equal power
-
-Should the state apply one rule to all citizens, or vary rights and resources so that disadvantaged groups can participate as equals?
-
-### Individual liberty versus group autonomy
-
-How can a state protect minority communities from majority domination without allowing those communities to restrict their own members?
-
-### Participation versus time and resources
-
-Can active citizenship be a fair expectation when citizens have sharply unequal workloads, incomes, safety, education, and access to institutions?
-
-### Voice versus decision
-
-Does an opportunity to speak amount to participation if the authority can ignore everything said?
-
-### Expertise versus control
-
-When should experts advise citizens, and when does expert authority displace political choice?
-
-## Exam-Ready Synthesis
-
-1. Republican citizenship treats participation as a continuing responsibility rather than an activity limited to elections.
-2. The return from participation is generally a change in collective conditions, not direct monetary compensation.
-3. Professional organizations may assist citizens, but paid assistance is distinct from the purpose of citizenship.
-4. Formal political rights do not produce equal participation when citizens differ in time, money, education, residence, safety, and social influence.
-5. Kymlicka and Young criticize the abstract individual citizen for hiding group-based disadvantage.
-6. Group-differentiated citizenship uses representation, accommodation, autonomy, and other group-sensitive measures to make equal citizenship substantive.
-7. Kymlicka supports external protections for minorities but rejects internal restrictions that violate members' individual rights.
-8. Internal migrants show how institutions built around permanent residence can weaken the rights of formal citizens.
-9. Arnstein's ladder distinguishes non-participation, tokenism, and citizen power.
-10. Manipulation and therapy do not give citizens genuine influence.
-11. Informing, consultation, and placation allow increasing voice but leave final control with authorities.
-12. Partnership, delegated power, and citizen control transfer increasing decision-making authority to citizens.
-13. The existence of a committee, survey, parliament, or representative does not prove meaningful participation.
-14. Participation must be judged through agenda-setting, accountability, control of resources, and power over final decisions.
-15. Arnstein's question, "How much power do citizens have?", must be paired with the differentiated-citizenship question, "Which citizens have that power?"
-
-## Key Terms
-
-- **Political participation:** Citizen activity intended to influence collective decisions, institutions, policies, or officeholders.
-- **Republican citizenship:** Citizenship centred on active participation in collective self-government.
-- **Substantive political equality:** Effective and reasonably equal capacity to use political rights and influence institutions.
-- **Abstract citizen:** A formally equal individual imagined without socially relevant differences such as caste, class, gender, culture, or migration.
-- **Group-differentiated citizenship:** Rights, powers, resources, or representation adjusted to the position of particular social groups.
-- **External protection:** A group right protecting a minority from domination by the wider society.
-- **Internal restriction:** A rule through which a group limits the liberty or equality of its own members.
-- **Arnstein's ladder:** An eight-rung model ranking public involvement by the degree of citizen power.
-- **Non-participation:** Processes that manage or educate citizens without transferring power.
-- **Tokenism:** Limited public voice without reliable control over outcomes.
-- **Citizen power:** Participation through which citizens share, receive, or control decision-making authority.
-- **Manipulation:** Use of nominal participation to manufacture support for authorities.
-- **Therapy:** Treatment of citizens rather than the policy or institution as the source of the problem.
+- **Political participation:** Citizen activity intended to influence collective decisions or institutions.
+- **Substantive political equality:** Effective and reasonably equal capacity to use political rights.
+- **Abstract or masked citizen:** A formally equal citizen whose social location is treated as irrelevant.
+- **Graded citizenship:** Unequal lived citizenship among people with the same formal status.
+- **Group-differentiated citizenship:** Group-sensitive rights or powers intended to make equal citizenship effective.
+- **Differentiated universalism:** Common citizenship that recognizes relevant social differences.
+- **Encompassment:** Expansion of democratic citizenship through inclusion of difference.
+- **Closure:** Restriction, denial, or unequal distribution of citizenship and its benefits.
+- **External protection:** A group right protecting a minority from wider domination.
+- **Internal restriction:** A group rule limiting the liberty or equality of its own members.
+- **Citizen participation:** In Arnstein's account, redistribution of power to excluded citizens.
+- **Empty ritual:** Participation without enough power to affect the outcome.
+- **Non-participation:** Processes that manage citizens without transferring power.
+- **Tokenism:** Voice or advice without reliable control over outcomes.
+- **Citizen power:** Shared, delegated, or citizen-controlled decision-making.
+- **Manipulation:** Nominal participation used to manufacture support.
+- **Therapy:** Treating citizens rather than unjust institutions as the problem.
 - **Informing:** One-way communication from authorities to citizens.
-- **Consultation:** Collection of public opinion without an obligation to act on it.
-- **Placation:** Limited citizen influence under continued official control.
-- **Partnership:** Negotiated sharing of planning and decision-making power.
-- **Delegated power:** Citizen authority over a defined policy area or programme.
-- **Citizen control:** Citizen command over agenda, policy, implementation, and the terms of outside involvement.
+- **Consultation:** Collection of opinion without an obligation to act.
+- **Placation:** Limited citizen influence under continuing official control.
+- **Partnership:** Negotiated sharing of decision-making power.
+- **Delegated power:** Dominant citizen authority over a defined area.
+- **Citizen control:** Citizen control over policy, management, and outside involvement.
 
-## Questions for Revision
+## Questions for revision
 
-1. Why does republican citizenship require more than voting?
-2. How can participation benefit citizens without paying them?
-3. Why is formal permission to participate insufficient for political equality?
-4. What is the difference between individual and group-differentiated citizenship?
-5. How does the abstract citizen conceal structural inequality?
-6. Why are internal migrant workers an example of incomplete political citizenship?
-7. What forms can differentiated citizenship take besides reservation?
-8. How does Kymlicka distinguish external protections from internal restrictions?
-9. Why can culturally neutral rules reproduce majority power?
-10. What are the three broad levels and eight rungs of Arnstein's ladder?
-11. Why are manipulation and therapy classified as non-participation?
-12. What distinguishes informing from consultation?
-13. Why does placation remain tokenistic?
-14. How do partnership, delegated power, and citizen control differ?
-15. How can Arnstein's ladder be applied to a university or student parliament?
-16. What are the ladder's main limits?
-17. Why must the question of citizen power also ask which citizens possess it?
+1. Why does republican citizenship require more than elections?
+2. Why are formally equal political rights not always substantively equal?
+3. What is group-differentiated citizenship?
+4. What does Roy mean by the masked citizen and graded citizenship?
+5. How does differentiated universalism differ from abstract universalism?
+6. How does the Indian Constitution recognize both individuals and communities?
+7. How do external protections differ from internal restrictions?
+8. Why does Arnstein equate citizen participation with citizen power?
+9. What are the ladder's three levels and eight rungs?
+10. Why are manipulation and therapy forms of non-participation?
+11. What distinguishes informing, consultation, and placation?
+12. How do partnership, delegated power, and citizen control differ?
+13. What conditions make partnership effective?
+14. How can the ladder evaluate a student parliament or university committee?
+15. What are the ladder's principal limits?
 
 ## Sources
 
 - Lecture 6 transcript, `polsc6.transcript.txt`
-- Sherry R. Arnstein, "A Ladder of Citizen Participation," *Journal of the American Institute of Planners* 35, no. 4, 1969
+- Anupama Roy, *Mapping Citizenship in India*, especially the Introduction
+- Sherry R. Arnstein, "A Ladder of Citizen Participation," *Journal of the American Institute of Planners* 35, no. 4, 1969, pp. 216-224
 - Connections to [[polsc5|Citizenship: Membership, Entitlements, and Models]]
