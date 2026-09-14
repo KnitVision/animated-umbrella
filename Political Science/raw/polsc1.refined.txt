@@ -1,0 +1,301 @@
+I guess the act of people coming together to decide how to govern themselves, what kind of policies to implement in society, the ideas of cooperation, conflict, etc. But the problem with this definition is, what do we mean when we say policy? What do we mean by government? What do we mean by cooperation? What do we mean by conflict, right? It's a good blend of terms that we know in everyday usage. Because we know that there are government policies, we know that citizens are in conflict, citizens work together, etc. And the term people is a good enough term, right? When I say people, it's generally accepted I'm talking about everybody, right? But political science as a discipline goes a little bit further because it's precisely that is the sign of inquiry. It's interested in knowing what do we mean when we say the people, who can be the people, who cannot be the people, etc.
+
+So somewhere, someone decided at some point of time that everybody below 21 is not people, only above 21 is people. Then they're like, maybe below 18 is people, but above 18 is people, but below 18 is not people. So this idea of the people also changes. My favorite was, whenever I teach democracy, I used to say Greece is the best kind of democracy there is, right? But in Greece, people meant you had to be a landlord, you had to be a taxpayer, you had to be male, you had to be above a certain age. So that was a very malleable meaning.
+
+So what I'm trying to say is, while this is correct, political science is a science of inquiry. How do we decide the people? What do we mean when we create a policy or implement a policy? And there's a big question of what does it mean to govern? Because that's precisely the question where students got into a conflict: is the government governing over us? Or are they practicing power over us? Or are they controlling us? Or do I even want to be governed? Is that a question, right? And the idea of governance is very vast. We'll come back to that. And cooperation, conflict as processes that help us achieve this. Fair enough. What else is politics?
+
+Abdullah?
+
+I believe it is any person having an opinion about the power structure of politics.
+
+Any person having an opinion about the power structure.
+
+For example, we had a part, something about the 21st century, but then there's a lot of questions about whether governing, cooperation, politics, but it's still politics.
+
+Yeah, but what is a person?
+
+Anyone.
+
+What do you mean anyone? In the United States, constitutionally, an unborn fetus is a person.
+
+I have to agree to argue with you.
+
+No, but I'm saying that law has been created through politics. Law has been overturned. So even—no, I'm not agreeing with you that, of course, it's about opinion, it's about power, etc. What I'm trying to say is, even if you were trying to be vague and abstract, for the political scientists, this idea of who is a person, who is a violent person, who is a citizen are important questions. This notion of opinion: where does opinion matter? Of course, all of us have opinions, but do these opinions really matter in politics? How do you capture that opinion?
+
+The big part of the puzzle is what is power? Because, yeah, you and I conventionally have a common view of power: that I have practiced power over all of you. But what does it really mean when we say that something has power or somebody has power, right? So for the political scientist, it's an important question that if I'm going to determine that an individual's opinion will change power structures, okay? So I don't know, Anna, Asari, or Mamchu, if that is a suggestion that somebody made that this person is important enough that their opinion will change the structure of power, then the political scientist's practice is interested in understanding how do we understand opinion, how do we gauge opinion, how do we measure a change in power as well, okay? So you're right. I'm not saying you're wrong. I'm just merely here trying to tell you what the discipline does, okay? What else is politics?
+
+Sir, in some kind of a protest, other forms of government.
+
+Other forms of?
+
+Government, macro society.
+
+Yeah, so this is a big part of government. So this, and what you were talking about, is forms of government. So this is a big, big question in political science that historically, conventionally, you and I say things like democracy is the best form of government, somebody may say dictatorship, etc. But there is, for the political scientist, coming up with a model of government, analyzing what models of government, how they work, whether they're successful or not, is the model of inquiry as well, okay?
+
+And this is, I'm going to take it a bit forward, because that's one of the most central ways in which political science studies things, which is what we call the empirical versus normative debate, okay? Now, essentially, in the discipline, there are two broad, not factions, but two broad parts. One part says that we need to think of ideas of what should be the type of government, who should have an opinion, how should power be shared, who should constitute the public, okay? These are all questions of which they are making normative claims. Have you come across the term normative before?
+
+Yeah, maybe.
+
+Okay, what does normative mean?
+
+Normative basically means a person or a group of people who base their opinions or ideas on a topic based on their personal conscience. For example, let's say we have a—
+
+No, you're thinking—I mean, you're right, but that's someone who's thinking normatively. That's not my question. My question is, what does normative itself mean?
+
+What's that?
+
+Empirical means?
+
+No, not really. What did you say?
+
+Okay, ethics is definitely a part of normativity, but it's not fully it.
+
+Yeah, exactly. So think of it this way, and I'm going to use computer science vocabulary, right? So you think of a system architecture. A system architecture looks like this, or a system architecture looks like that. But someone somewhere has said, you know, the system architecture should look like this because it will be ideal for this purpose. So somebody says, I'm going to use whatever the free program is used in Raspberry Pi.
+
+RISC-V?
+
+Huh?
+
+RISC-V?
+
+No, I'm not thinking about the architectural framework. What are those standards used for?
+
+CPU support?
+
+I'm supposed to be a computer scientist.
+
+Okay, but anyway, so someone may say that ideally computing systems should be designed to consume the least amount of energy. Somebody else would say computing systems have to be designed to calculate the fastest regardless of energy consumption. They have not actually built the machines, okay? They are just saying this is what the fundamental design should be. Why? Because one person says that energy consumption is the topmost priority. For somebody else, time is the topmost priority. Somebody else would say I have to design a system which uses the least amount of environmental resources, for example.
+
+So each of these three have a particular view of architecture. An engineer or a chip producer is going to use these principles to make specific kinds of chips, to make specific kinds of computing systems. Now, the first set of people who say this is how it should be are normativists. They say that these are the norms which we should follow. These are the values which we should have before we set out to do anything else.
+
+This was a big debate in computing about centralized systems versus federated systems. Have you come across this debate? There was one group of people who said that computing systems, you have to put everything into one uniform, singular machine. Others said the multiple—not even modules we have, but separate computing entities we have—which is the disaggregated system, it is going to be better. Because the more you split computing into smaller parts, it will help reach the goals of computing much faster than if you try to build an all-powerful centralized machine.
+
+So these were two normative models of computing, which said that you create a centralized computing framework or create a federated framework. Which is similar, in order to make a very long jump, to somebody saying that having a centralized power-making authority in the form of a dictator is the best form of government as opposed to multiple smaller parts making government.
+
+What I am trying to say is normativity is the larger principled approach to the study of anything, normally political science, which looks at ideas, which looks at concepts, which looks at theories, which looks at possibilities. While the empiricists are the ones who are actually saying this is how it should look. This is what a democracy should look like. That I agree that everybody should have an opinion as a norm. In principle, I think everybody should get one vote. But everybody should also get punishment that they do not want. Somebody else says no punishment, let it be voluntary. So there will be different empirical models of each other.
+
+Now, political science as a discipline has always been interested in these two domains. One, which is the domain of philosophy and theory, is how do we create a good society, how do we create a political system, how do we create a stable country, etc. And the other, people have been studying existing systems, people have been recommending existing changes in political systems over the years.
+
+So, the way that democracy started being adopted in the 1800s, in the mid-1900s, you had a lot of countries becoming free from the colonizers, as we discussed in the last couple of sessions. Now, imagine you have 2,000 years of normative theory about democracy. But at that point of time in the 1940s and the 1950s, lawmakers, citizens, political parties, constitutionalists had to decide and say, in my country, democracy will take this particular empirical form. You get the distinction between the two?
+
+Okay. Now, this is common in many disciplines. But in political philosophy, and this is one of the reasons why we—some of us, sometimes—call it a coaching discipline because we take a little bit from every discipline. So, we take normativity from political philosophy. We look at political behavior, which comes a little bit from economics and things like this. We'll talk about that as well.
+
+So, the large distinction that we need to keep in mind is this distinction of empirical and normative, and we're going to talk in class—we are going to talk about both sides of it. In fact, we've already done a bit of normative political philosophy. When? We were studying Marxist movement.
+
+Okay, Marxism was one of them.
+
+Yeah, liberalism, libertarianism, or the liberal bombs.
+
+Yeah. So those are all normative ideas when you were doing equality also, right?
+
+Yeah.
+
+So those are all normative ideas. Whether a society is equal or not, whether India is a free country or not, is an empirical question. Okay. That exploration is an empirical question.
+
+So when we study politics, these are the two broad distinctions going further down. So we spend a lot of time talking about ideas. So every time somebody says, oh, we are living in a globalized world, the political scientist will say, what do you mean by globalized world? What are the features of globalization?
+
+So the ideas that shape the world is something that's central. Then we look at different levels, we look at individuals, we look at collectives, and we look at groups. So individuals would be why does a person make this kind of political decisions, or why does this group of people make this kind of political decisions, or why does a political party have this kind of agenda.
+
+We look at institutions, so the courts, the legislature, the bureaucracy, these are all political institutions and their functions. They all perform certain tasks in a legal country.
+
+We look at processes of politics, by which we mean to say elections are a process, government formation is a process, creation of laws is a process. It's not like suddenly somebody takes offense to moral words, everybody cries in the right-wing sector. It's a process by which somebody creates these.
+
+And politics also studies scales of operations, which means I can study political groups on a campus—well, not this campus, but a campus like JNU—or it can be a city, or it can be a state. So we look at Maharashtra politics versus Bihar politics, or we look at how Mumbai is governed differently from the governments of Delhi as different from the governments of Patna, or we look at how countries behave. So what does India's politics look like, what does Pakistan's politics look like, what does France's politics look like, or it can be at an international scale, what we call international relations. Why do these countries interact with each other in a certain way?
+
+So these are broadly some of the—I don't know the little themes—but these are things that we study when we study politics. There are also subfields of political science, which means that you will not—perhaps you will, but generally this is when you go for a higher level of political science study, when you have to do a Master's or a PhD or anything like this.
+
+So if you are a normativist, you would study political philosophy or you would study political theory. But comparative politics is when you don't look only at one particular case, but, for instance, if you want to see two countries which became independent at the same time, India and Pakistan, how have their political trajectories differed and what can be the reasons for this difference. That would be a site of comparative politics.
+
+So often when you want to study elections or you want to study political parties, people use comparative politics as a framework. One, because we know what is happening in other parts of the world, we have that information to compare it among us. We can say that, look, in a small country like Estonia, direct democracy is possible because it has only 5 lakh population. If it has only 5 lakh population, everything can be electronic, voting can be electronic, this is debating and voting, etc. You can't have that in India because it is 1.5 million, right? 1.2 million.
+
+There is a question of political behaviour: why do they all make decisions the way that they do, either as individuals or as groups. So people say after every election, when the newsreaders are screaming on the screen, sometimes they have these panelists—what are the psychologists, P-S-E-P-H-O-L-O-G-I-S-T-S, psychology—where they say things like, oh, this time the OBC has decided not to vote for this particular political party, but this political party has got the female vote. Like, what are these statements? So these are statements about political behaviour.
+
+For me, an interesting question of political behaviour is why do students not do anything, politically speaking? Like, why is only a small percent of a IIIT campus political, while a large population is not political. So even when somebody chooses not to be political, it's a question for political science because it's a question of political behaviour. Why do we consider certain models of government better or worse? Why do we make certain choices? Why do we sometimes vote on the basis of religion? These are all political behaviour questions.
+
+Then there is the domain of public administration, which I used to, in my undergraduate days, consider very boring, but I find it very interesting now. It's essentially how does bureaucracy function, how does bureaucracy work, how does bureaucracy get involved, right? So it's essentially administering the public. It does not necessarily mean people here; it means the public space.
+
+So, for example, in a city like Hyderabad, I'm looking at traffic issues, but somebody is making decisions about, yeah, we need a flyover, we need to cut these trees, we need to increase electricity in this particular area, we have to make sure water reaches there, right? Behind the scenes, there is a large mechanism that is making sure that our places work. They may work badly, but they work.
+
+I mean, it's a very big area. Even in the most difficult places in the country, even in the world, even in poorer countries, there is always some sort of public administration that is trying to make sure that people are able to go from one place to another place, that people have access to some water, some electricity, some healthcare. So there's a functioning bureaucracy behind this, and how this bureaucracy actually functions and actually delivers things is a question of public administration.
+
+One big question is the question of rules, laws, governance, how to do the governance, right? So how do I make sure people follow the rules? What are the rules going to be based upon? Is there going to be a large constitutional rule? This is all the domain of public policy: rules, laws, constitutions.
+
+And last is how countries interact with each other, and that's generally international politics and international relations. That's something I did not enjoy in my—actually, that's something I used to enjoy in my contemporary years, but I don't enjoy it anymore. I get really bored of it.
+
+But generally, these are the subfields of politics. Okay, so before I tell you what we are going to study in the class, do you have questions?
+
+What's the difference between philosophy and political theory?
+
+Great question. Generally, we think philosophy and theory are the same. I'm looking for media articles on both of them to have the same image. It says political theory also has political theory.
+
+Really? The beginning of—We should look in Stanford's entry. It will have separate ones.
+
+So broadly, to answer your question, political philosophy is deeply concerned with the normative question. So it says this is how things should be. These are the ideals that we need to work with. Political theory originally started like that, but over the years, especially after 1905 or 1910, something like this, there was something called the American Political Science Association Congress. And they had this big debate about normative versus empirical. And this big debate was essentially: why do we need to keep talking about ideals when we should simply start measuring people? Because that's the best way to understand human behavior and things like this based on psychology.
+
+So if you look at any American university today, and so it started out in the early 1900s, and in the 1940s and 1950s it became very common. So in the 1940s, we have this massive Second World War and then we have post-polarization. Now this is the time when, not yet, but also political scientists started saying things like, you know, we have philosophized too much. Now we need to start thinking about how things work. And so they started doing political science in a way: let me try and measure it.
+
+So I theorize that if you have a political system with so-and-so proportion of the population, then it tends to result in an autocracy within 25 years. Similar to the Pythagorean theorem, it says if these conditions are met and those conditions are met, that will be the outcome. And so political science started doing a lot of that, especially after the 1940s.
+
+In fact, in American political science today, if you do political theory, you are doing hardcore data crunching. You are doing a lot of human behavior data, merely to theorize the possibilities of human political actors and institutions.
+
+So, for instance, one of my favorite political theorists is this guy called Maurice Duverger, who was a Belgian. And Duverger said that generally, if you take a multiparty democracy, multiparty democracies will start with multiple numbers of parties, then there will be one party that will become dominant, then there will be two parties that will become dominant, then there will be multiple groups that will become dominant. India follows broadly similar patterns over the years.
+
+Now Duverger's theory, when it came out, there was—I mean, it could not be tested on the UK, which was a two-party system, could not be tested in the US, but as more and more countries after the 1940s became multiparty democracies, Duverger's theories started being evaluated. So theory nearly takes that normative and tries to put it into an evaluable format. That's the key distinction.
+
+Having said that, most political scientists outside the United States hate American political theory because it does this. Because it says, oh, if African American incomes decrease by 7%, then they will vote for Republicans. You know, it's a very clinical way of looking at society and looking at politics.
+
+So there have been political theorists who say a number of things. In the 1990s, there was this guy called Francis Fukuyama, and Francis Fukuyama declared—he wrote this big fat book called The End of History and the Last Man—and he says ideology is dead. Nobody cares about ideology anymore. Everyone is about democracy and liberalism. And those are the only two ideologies that matter. Everything else is bullshit.
+
+And he was one of the big political science departments in the US, and it was a big thing when somebody declared that normative political theory and normative political science is completely out the window, and we should stop looking at it because ideology is dead, communism has collapsed, so on and so forth.
+
+Two years ago, he wrote a reply saying, no, no, actually I was wrong. And Fukuyama actually led a big part—in fact, after this term, Fukuyama, this became a major thing in international politics—where they said that, you know, India-Pakistan shouldn't be measured based on historical realities. India-Pakistan should not be about understanding colonization. India-Pakistan relationships should not be understood through its citizens. Just understand India and Pakistan through numbers.
+
+So if Pakistan's military troops move within 15 kilometers of the border, India's propensity to attack decreases by 55%, right? Like this is the sort of vocabulary that international relations started having, which in the '90s seemed like a great idea because, I don't really know this, but in Eastern Europe, with the Soviet Union collapsing and many countries going through civil war, people really started thinking, hey, we do mathematical calculations like this, maybe Ukraine will stop attacking this particular region, okay?
+
+So people were doing this calculation. But over a period of time, there will be a bit of a pushback, but that debate still remains. So there are still some empiricists who are very, very—there are many empiricists who are very, very cut, cut, cut, let's do number crunching, let's do data crunching.
+
+This became a big thing after Cambridge Analytica. Do you remember this? Where basically somebody realized that, you know, people who scroll Facebook for a certain amount of time, if in the morning they scroll more than 30 items and they like at least 15 cat videos, and if you ask them in the afternoon who they will vote for, they will say Republican. But if in the morning you continuously show them photos of war happening in Iraq, then they will vote for Democrats.
+
+And Cambridge Analytica figured out that let's use big data and let's make people behave in a certain way by showing them things. So they did a lot of experiments and things like this with political trouble, but that was probably the worst of political empiricism that's been going on.
+
+Isn't that how Trump won his first election?
+
+Yeah, I mean, that is what many people say is how Trump won and also won—I mean, the American political—
+
+So do you notice that India has the Election Commission, right? The U.S. also has this big election commission, which also counts the votes, but not really. Do you notice that they have polled the election?
+
+No?
+
+Okay.
+
+Yeah, so what happens is the actual number of votes does not really matter. News channels decide who wins, who they think has definitely won. So by the end of the day of voting, the big news agencies declare that, okay, according to our predictions, because we have done exit polls, etc., Trump has won this, this, this. And if the biggest news channel declares it, then everybody else starts declaring it, and they say, okay, this is the winner.
+
+In fact, in George W. Bush's second election and Donald Trump's second election, and also one of the previous elections as well, their actual counting, because it's paper votes, takes like three months, four months. They found out that, you know, he didn't win. But because it was already declared that he's won and because everything's done, they just move along with it because challenging that is very, very crazy and they don't want to have destabilization.
+
+So in the U.S., I think part of this is: how do you mobilize 70 percent of the constituencies in a way that the news channels will declare they have won in 70 percent of the constituencies? Because, and it's like, it's literally people behaving, right? So it's terrible, but this is how it has been used in American elections.
+
+Other questions?
+
+Cool. So let me tell you what we are actually going to study. Okay, so the first couple of classes will talk about what is the state, what is government. That's the most—state is by far—there's only two things you have to learn about political science. You have to learn what is the state and what is the citizen. That's like the most core of political science because essentially when they're saying people, they are talking about citizen. When they're talking about government, when they're talking about power, when they're going to talk about country—when they're going to talk about any way in which political society functions, they're talking about the state.
+
+You cannot escape the state. Even if you do not vote, you are following the state one way or the other. So the first couple of classes will talk about what is state, what is government. Then we'll talk about what is citizen and citizenship. Then we'll talk about four integrated concepts, which is power, equality, legitimacy, and obligation.
+
+Because while we use the generic term power, there's a difference in the way a policeman practices power over you to how an administrator practices power over you to how individuals behave in certain situations. So we look at power and authority and legitimacy and obligation.
+
+Then we'll do a quick introduction to understanding political ideas and ideologies. So we will not spend time doing specific ideologies like Marxism or liberalism because you have done that before. But I will help you translate what we learned as ideas the last time into ideologies that are understood as political ideologies.
+
+Then we'll talk a little bit about what are public policies and we'll talk about political actors. So outside the people and outside the state, who else is a political actor?
+
+What you'll notice here is you will do in-class assessments, which will be like short half-page assessments, which will be based on those dates. So for CA1, it will be on state and government. CA2 will be on citizenship. CA3 will be power and authority. So we'll do two classes. You go home. You go through the textbook a little bit. You come and sit in class and you write a half-page note based on the question that you read.
+
+So that's a consistent thing. You will have five CAs. You have to ideally do all five. So that will be the best of four scores. But in case you miss one, you get the fifth one as a pass. And another question is, in case you want to do a retest, you can do a retest. So that is where 20 points out of 50 points will come from.
+
+And the second is the mid-semester exam, where you'll do two questions for the entire syllabus, but it will be an offline question, which will be 15 and 15, which is my suggestion. But if you would rather have something else, you can let me know and I will consider it from my position of power and authority. Because it's not a full course and I don't want to keep burdening you with doing group presentations and projects and things like this.
+
+Today I'll ask you—this is the only time I'll be democratic—is this splitting up okay?
+
+Okay, cool. Think about it and welcome.
+
+Okay, so there's the first thing I wanted to slow you down.
+
+Then, yes.
+
+Do we have an assigned TA for this course?
+
+Assigned TA?
+
+Yes, there is a TA. I will put their name up on Moodle. So it was finalized only yesterday, so I took a bit of time to do this.
+
+And from this TA—from this TA—is there something you would want to study in greater detail? Is there something you should think about? Like, this is what I will cover in terms of pure themes, but if there are specific examples you want to look at—for instance, like I won't do international relations in this, but apart from that, if there are specific instances of Indian politics or European politics that you would like examples of, we will cover it.
+
+So think about it. We can do political behavior as well.
+
+Political behavior?
+
+Yeah, we'll do political behavior certainly as a part of political actors maybe and public policies, but, yeah.
+
+I don't know.
+
+Yeah, so just think about it and I will keep adding it. So even if it doesn't appear as a major theme, it will become—I will use it as examples to connect it.
+
+It's also a lot of political science students, CA students, think that doing a voter behavior thesis is exercise-free. It is—you don't get it wrong—but in a different way, computing voting is definitely a core part of—
+
+Yeah, one back on it, we didn't have a class about what kind of computational methods can be used in political science because it will play a big role in my system.
+
+Cool. I'm going to get a couple of seniors who made—
+
+Yeah. So, wait, say that again.
+
+Kind of computational purposes in political science.
+
+So there's, for instance, you know, there's a lot of computational methods to public policy, for instance. Classically, people read public policy for its text to see how governance of health welfare is designed, for example. And so we would see that a policy says this about women, this about rural women, this about nutrition, etc., etc. And then we would see the implementation of the policy on the ground.
+
+So a lot of that is turned into computation because through voter associations and other digitally based methods, there have been interesting ways of doing a quantitative analysis of public policy. That was a policy literally focused on when it is creating itself. So, yeah, we'll do that.
+
+Okay. Cool.
+
+So my final question before you go is, are you political animals? Are you a political animal?
+
+I guess so.
+
+What is guessing? Come on, be in control of your own power. Are you a political animal?
+
+Yes.
+
+Influence.
+
+Influence, yes. So we typically consider influence under power, theoretically. We'll talk about that. But influence is one kind of power. So definitely you can have a physical practice of power like arresting somebody or killing somebody. But you can also have—so my favorite example is to give is, you know, how things are likely to be that you behave. It's not because somebody has to behave a certain way, but because you're always scared of being watched, right? So which means somebody has an influence on your actual behavior, but that influence is seen as a practice of power. So we'll do that.
+
+Okay. Are you a political animal?
+
+Siddharth, you're a political animal? Mansi, yeah? Good. What about you? Both of you? Yes?
+
+Okay. How many have been to an informal protest in the last—I mean, that's okay if you don't go to a protest. It's fine. I don't go to a protest. But you went to a protest? Which one?
+
+I went to the Janata one.
+
+You went to the Janata one? Dadar. Dadar? Delhi? Okay, cool.
+
+So, I mean, there is a fundamental question which I think is interesting because, I mean, following these social media trends, there is this new discourse out about: can you express your opinion about authority? Like, there's this thing that, oh, these young people are rude and they're saying nasty things about people in authority. So should young people be able to have an opinion and should be able to voice their opinion about a person in a sense of power and place of power and authority, right? It's essentially a political science question.
+
+I mean, I don't want to agonize your protest experience, but it's central. And the resolution of that is, you know, we come from different kinds of political atmospheres, where in the UK or the US there is this tradition of flag voting as a sign of protest, right? In India, I mean, flag touching the floor is, you know, you're going to be beaten up, right? So there are different traditions, of course, so the way of expression, the mode of expression is going to differ.
+
+However, this need to have a political expression is something that is common. And we need to understand why it differs in different cases and why people choose one kind of form over the other as well.
+
+There's some questions about the protest going on.
+
+Yeah, I mean, so what is the current discourse? Okay, so my first question is, this is my attempt to understand the youth. Within the youth, is there a binary of this positioning? Like, online you can see that there are some people saying, oh, you know, you should protest and, of course, things are wrong, but it's not really going to matter, right? And there's one group which is saying—
+
+Okay. It's my impression from social media. So what are your feeds telling you? Because let's face it, politics has become a social media process.
+
+Yeah, I said for protest, especially when it comes to the agreement being done.
+
+I agree with you, but what is social media?
+
+My friends.
+
+I've got friends from both the ways.
+
+Okay. How many are getting both sides of it, please?
+
+Yeah.
+
+Because otherwise it tends to be fairly polarizing. And how many are of the opinion, okay, protest, but we need to talk about it? And, you know, you went into the agreement and from that I could see that no one actually did what happened before people even connected that you get the plan to do stuff on the plan.
+
+Yeah, okay. You didn't agree with either of those two?
+
+No, so not necessarily on the other side either, but I don't think we should just be fine with what's happening. See, I think the major issue that happened after the whole C4Z organization was made was people started seeing the entire protest as, like, they saw it as something which was kind of—
+
+So I think that's where a lot of arguments started coming up. Oh, they're doing this. So that's why protest has started. But a lot of people don't realize that CWP is just an entity which started a movement. You may or may not agree with what they're saying, what they're doing, but the protest and movement itself is something different.
+
+Which was, I think, in some ways, it was a lesson that we already learned from India Against Corruption and Anna. But we didn't really learn it. Because at one point, I mean, I agree that this confusion started happening and people—it becomes easy to say, yes, BJP is valid, while you know that there are many other kinds of people in that. And this is a big part of gauging political behavior. That today, if you want to say that the youth of the country is angry, we need to understand the diversity of youth that can be measured to understand that politically.
+
+I think another argument which is very popular is people who wouldn't even have anything to do with the NEET exam were protesting. And they're saying, oh, we will do the FIR, we should post your NEET admit card or any NEET admit card in the class, then we will do the FIR. Again, personally, it doesn't make sense to me, or the NEET students, but, yeah, that was another popular argument.
+
+Yeah, I mean, it's still ongoing. I saw some new developments with some hands, some saying something and all that. But, yeah, it's going to be a fun two weeks for people to study politics.
+
+There's another protest now—movement—where people are bringing up reservations.
+
+Oh, yeah, that has been added as well. I mean, I think that this is another—many of us in the country, especially the urban population, it's not easy to protest, it's not easy to get out there, it's not easy to face up. I mean, I'm sure your parents should be the first line of barrier to let me die. I mean, it's true, it's average experience for myself, but that's certainly, yeah, it's good to see where this goes because for the longest time it was interesting that you guys were seen as a non-political entity, but now suddenly everybody is like, ah, that's a good question.
+
+This is a serious question, okay? How many want to go and, like, back to peace?

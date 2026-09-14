@@ -1,0 +1,331 @@
+So if you have any follow-up questions about normativity and empiricism, ask.
+
+So, in the same way, in the last class, we were talking about social contract. Social contract is also a normative. That these is a normative rule because all three people are presenting what they think are ways in which the state was created.
+
+Why do we use this complicated name? Well, I think in normativeness, we're always trying to say, okay, this is how I think it should be. What is complicated? Normative is such a complicated word. It's super simple. Norm. Norm means value. If I try to ascribe value to anything, I'm being normative.
+
+All students should go to bed at 10 o'clock in the morning and wake up at 8 o'clock. I'm being a normative individual. At 10 o'clock in the morning? Sorry, 10 o'clock in the morning and wake up at 8 in the morning. I'm being a normative individual. Even if I say the reverse, I'm being a normative individual.
+
+So, very simply, if I'm promoting norms, if I'm saying this is how it should be, this is how you should behave, this is what is the most ideal situation that things... So India will be a wonderful country if all students stop protesting, study hard, respect their elders in the prime minister, and make a normative individual. An empirical individual could have far more critical things to say.
+
+They are looking at the reality of things. Normativists are not always pulling things out of their ass, like Plato when he says 40,000 people. Normativists are also...
+
+A great question to understand the differences between normativists and empiricists is Marx. When Marx does a detailed empirical analysis to show that historically a majority of the population has not done well economically, a minority of the population has done extremely well economically. This is in Marx's empirical writings. What does Marx do with this information? Marx says that, considering this has historically been proven to be scientifically, economically, statistically true, I am now normatively prescribing a society where there will be equality.
+
+So he's creating a normative position, but he's creating his normative position from an empirical study that he has done. So quite often, when you read political thinkers, when you read political writers, not even politically, but economists, right? So if you look at people like Amartya Sen, who straddle both economics and philosophy, if you read other people like Hayek, or the people that we were talking about in the last semester when talking about the polity, these are all, even when Fukuyama says that ideology is dead, you don't need ideology in this world, these are not like random statements based upon what they have empirically studied.
+
+There is a group of people who make random statements with no relation to history or no relation to science or no relation to an analysis of the past and things like this, and that's also normative. So that is typically what you would find in religious texts, that is typically what you would find in gurus, you would find in abstract areas rather than in certain disciplinary areas, that you will find certain principles of what you should eat, what you should not eat, how you should live, etc., because somebody somewhere has just created their norms.
+
+It may not necessarily be a reflection of reality, it may not necessarily be empirically studied, but they still consider something as right or wrong and therefore they are promoting it in a certain way.
+
+So, to quickly summarize, anything that should be, anything that is asking for a future projection or a prescription is a normative thing; anything that is understanding or studying the status of something, that is an empirical thing. Normativists depend upon empirical, empiricists try to formalize and evaluate normativity, but the only reason we do this sort of broad classification is perhaps with the state and with the government, it will become abundantly clear.
+
+That people have said normatively a state is one. So, for example, according to law, a state is one which should perform the role of a main person. It should not interfere in people's liberty; it should only step in when individuals' liberty is interfered with. It's a normative statement.
+
+For Hobbes, the state should be the largest, most powerful organization and institution there is. All individuals should concede that their rights and liberties come from the state. It's an extremely normative statement to make.
+
+Rousseau, if the state does not uphold, first statement he made is the state should represent the general will of the people. Second normative statement, if the state does not represent the will of the people, the general will of the people, then the people should have the power of replacing the state.
+
+These are three different ways of looking at the state, three different normative positions about the state. In fact, if you look at Locke's position and if you look at Hobbes' position, they're completely opposite.
+
+One says the state should be minimal, the other says the state should be maximum. One says the state should not interfere with liberties, the other says the state should decide what liberties are granted and what liberties are not granted. So you can have normative positions that are absolutely different from each other, and that's precisely the point: that we try and create more and more normativity in order to see what actually works and what actually doesn't. That is the job of the empiricists.
+
+Would some normative claims come across as being empiricists? For example, instead of prescribing that the Leviathan is the only way to have a government, it makes the empirical claim that the truth right now is the only way. If you say, across multiple countries, the only way to have a functioning government is to have a Leviathan, would that be an empirical claim or a normative claim?
+
+If it is based upon a detailed study, which says, after having studied 100 countries, I find that a majority of the countries tend to have stable governments when they have totalitarian governments, it's a valid claim. But are totalitarian governments good? Is stability the only thing governments need to have? Are normative questions. So, sure, you can make that claim if you have the evidence to back it up.
+
+If you're even able to say, so for example, an ideal state is one which reflects the general will of the people, an empiricist would say, how do I measure the general will of the people? How do I measure that the state indeed reflects the general will of the people? Today, if you were going to take a poll, would you have the same kind of agreement about the laws that the government is passing? Are they in tandem with what the citizens want?
+
+And this is something that's not easy to do, but empiricists try to do this through a variety of methods and tools. You may or may not study some of these methods and tools, but this is important because many of you will do your computational social science when you try to measure things in society and things in politics, or things in economics.
+
+And this is one thing that I regularly find when I talk to computer scientists—sorry, when I talk to coders and developers working in companies—is they have a terrible empirical understanding of what normativity is.
+
+So I'll give you an example. One app that was designed for government, they said, "Oh, we want to promote democracy." Normative. "We want to engage citizens and get their views." Normative. Therefore, we have included an upvote and downvote button.
+
+So now they have a specific idea about how to measure democracy. If somebody upvotes or downvotes, that person is an empowered citizen, according to the designers of the platform. Now, normatively, and they went on to say that our key performance indicators show that 90% of users put an upvote or downvote.
+
+Now, if I was to use this and say users of this app are the most democratic people, I would be a stupid political scientist, because I would be taking the company's view that upvote and downvote equals democracy. I would say democracy is many other things. Voting is just one part of the democratic process. There are other things that need to be designed into the platform.
+
+But a theorist would—sorry, an empiricist, a political scientist—would say, how do I really measure democracy? How do I really measure participation? Do I do it only on the basis of upvotes and downvotes, or are there other factors, et cetera?
+
+So when you are going to do your thesis work, when you are going to do your computational work, you will have to make decisions on what I consider as important to measure this particular thing. So if I want to study inequality, do I study inequality using only this, or do I use this? So you're going to make empirical choices, I ask, for what you purposely want to do. That's the connection I'm trying to make.
+
+Any other follow-up questions? It's fine, we'll figure it out as we go along.
+
+So now that we have, so we look at, so even the critical views of the state that I introduced to you, for example, the state and the capitalist critique of the state, these are normative critiques, which means that somebody says, "Hey, I'll state—I mean, we'll sit on the streets of India and say that the government or the state is all about Aranya and Mani, okay?" So then I will say, okay, this is a normative statement somebody is making, and now I'm going to empirically evaluate if this is true.
+
+So how do I empirically evaluate it? I may look at laws that are passed, I may look at contracts that are awarded, I will look at the benefits and growth of the Indian economy in comparison to the growth of Aranya and India. And if it turns out that 99.99% of criminals are poor people, then clearly the state prefers to protect the rich people versus the poor people. Then I can say this is a state that does this particular kind of thing.
+
+So there is this... No, that's it. I'm not going to complicate it further.
+
+So I hope you get the ways of differently looking at normativity versus empiricism. If you have questions as we go along, you can ask them as we proceed.
+
+So we looked at the idealistic view of the state. We looked at the social democratic view of the state. And now we look at two specific empirical ways of looking at the state.
+
+So first is a very generic, general understanding that within the discipline of political science, the state has come to mean a certain number of things: that there are four or five features that define a state. So if I were to tell you, evaluate whether something is a state or not a state, you can use this as a criteria to do so.
+
+So tomorrow, if you, as a group of people, declare that this classroom and cinema star are a state, does it match the standards for political science which is called a state? This is what we are going to do.
+
+So the first very easy definition of the state, characteristic of the state, or feature of the state is population. If you do not have people, you do not have a state. It may sound a bit silly, but state's membership population does not only mean that there is a group of people; it also means that these are members of that state. So you and I may travel to other countries and become temporarily a part of the membership population, but we are not members of the state.
+
+So population has other implications as well. Population has implications for size. As we were talking about 40,000 states, we have large states, we have small states, etc. Who is a legally recognized population is also an important question, because all states define who their citizens are and who their citizens can be.
+
+Typically, as a large generalization, many—okay, so I just want to establish something. When I'm going to give you these features, or when I'm talking about a general baseline for understanding anything, we are going to refer to the context of modern liberal democratic states.
+
+Modern, which is that we are not talking about monarchies and kingdoms; we are talking about states as entities after the 1940s, after colonization has ended, after monarchies have ended, etc. That's one.
+
+Second is states which have some liberties that are granted to citizens. So we are not talking largely of North Korea most of the time; we are talking about a general average country.
+
+And finally, as we are talking about contexts of democracy, these are—the reason I'm making this very clear is quite often through the semester you will say, "What about non-liberal?" And yes, non-liberal does not fit into certain things easily. Other countries may not fit into certain things easily, and that's perfectly fine.
+
+So these indicators are most based—most empirical studies that we are going to refer to will talk about modern liberal democratic nations. However, we will also have examples of non-liberal, non-democratic nation-states from time to time. We are not going to use examples of non-modern states when we go.
+
+Yes, so population in any modern liberal democracy entails citizenship, entails membership, entails a certain size. There are questions about what is the ideal size of the state.
+
+So famously, Mao tried to limit the number of children that would be born into the state of China. So there are some states that have a mandate about how many kids you can have and how many you cannot have. There are some states nowadays which try to encourage people to have kids because people are not having kids. I hope you know this. Japan has a negative population growth rate.
+
+And so there are different strategies that states may have regarding population. But having a population, having an identified membership, is one of the most primary prerequisites for being a state.
+
+Have you heard of St. Kitts and Nevis? What do you know about St. Kitts and Nevis?
+
+Yeah, they are islands in the Caribbean which are like these elite islands. If you are members of—which means if you have citizenship, if you have a passport of St. Kitts and Nevis—you have visa-free entry almost anywhere in the world. But it's a very, I don't know how to put it, it's a citizenship that can be purchased.
+
+So there are people who spend lots and lots of money trying to get a St. Kitts and Nevis passport. But it's not really—I mean, it's not like really you are full members of the state, which we'll see why.
+
+Okay, so apart from population, the other key feature is that there should be a identifiable boundary and territory. So states are supposed to have clearly recognized territory which they claim is their own.
+
+This, of course, does not apply in the case of Israel and Palestine, where the boundaries are not clearly demarcated, but there is a way of circumventing that, if you will.
+
+But generally, most states have a clearly defined boundary which says, you know, like India had a point of independence, the Radcliffe Line, and the creation of the maps. We had this clear idea that even though the Andaman and Nicobar Islands are 3,000 miles away from the Indian capital, they're still ours; they still belong within our territory.
+
+Have you guys heard of border enclaves? So until like four years ago, these were not mistaken. So this is the India-Bangladesh border. So this is India, and this is Bangladesh. So inside of India, there would be a Bangladeshi enclave, which means people who live here are actually citizens of Bangladesh. Within this enclave, there would be another enclave which belonged to India. And there were similar multiple enclaves. And these are, of course, problems of colonization, but they're also problems of mapmaking. They're also problems of which communities belong where historically and things like this. These types of enclaves exist between the Netherlands
+
+within Beijing also today. Like, there are states within states within states. It creates some of the most fundamentally absurd situations where a person here in this enclave needs to do SIR or needs to get a passport. So in order to get a passport, they need to visit the regional passport office, which is here. But in order to visit the regional passport office, which is there, they have to cross here, for which they require a passport which they do not have.
+
+So I think it was four years ago when, again, Bangladesh had an agreement where we simplified many of these enclaves and recognized some as Bangladesh and some as not, but it's still not fully resolved. But I'm using this extreme example to show how territoriality really matters in terms of membership: who really is a member of the state, what really is your resource versus another country's resource, etc.
+
+Boundary is maybe historical, as we have seen in the map of Africa, if you remember, these long, straight lines. They are either a result of colonization like this, they may be a result of treaties and agreements that have taken place, and in real practice they can include as well. Like within India and Pakistan and within India and Bangladesh, I don't know if you know this, but there are people still who go across the border, who go on the other side every single day because their farm is on that side of the border, their village is on this side of the border. These are daily practices that never get reported in the majority of newspapers. But not only in India, in many other countries there are people who work and live between boundaries and things like this.
+
+The third is this idea of sovereignty, which is nothing exists above that state. So in India, sovereignty lies in the Constitution; there's nothing above the Constitution. In the US, sovereignty lies in the Constitution; there's nothing above the Constitution. But for a place like Reunion and Martinique, these are overseas territories that belong to France. They are far away from France; they are somewhere near Madagascar and somewhere near the Caribbean, but they are part of France. They live autonomous lives generally, but France, the French Constitution, and the French government determine everything in these two regions. So these two regions cannot be considered as a state because they do not have absolute sovereignty; they do not have absolute independence. There's something above that.
+
+There are still a couple of places in Africa that are not really states because they don't have absolute sovereignty, which means they are not really controlled by one particular authority. Western Sahara is one such region, and there are other small conclaves and things that exist.
+
+But generally, this is by far one of the most—and this is also why it's a good way of distinguishing between non-modern states and modern states—in the colonial period, there were many places which were independent but they were not really sovereign. So remember that even under some of the kingdoms, India was independent but it still reported to the Queen or to the King, to the British, right? So you would not have full sovereignty.
+
+So have you done sovereignty as a topic in this class before?
+
+Something somewhere? Okay. So sovereignty in politics basically means it's rule; it's literally self above all rule. Not self—it means top-down rule. So anything—there shouldn't be any kind of authoritative power above that particular state. So you are a true sovereign individual if you have nobody telling you what to do. But none of us are sovereign individuals because we have the state telling us what to do, we have the government telling us what to do, we have our family members telling us what to do, etc.
+
+I don't know if any of you have seen these memes and reads about sovereign citizens in the United States. Okay, so there are... I've seen it through, like, TV shows. Yeah, you've seen it through. I mean, these are idiots who think that—sorry, I should not be so judgmental—but they are idiots who think that there is no authority above them. They call themselves sovereign citizens. They say, "I refuse to believe in the power of the state. I refuse to participate. I refuse to give money," because giving money is... I mean, they need money, but I don't recognize the power of the state above.
+
+There is one gentleman on an island in Australia who's made that island his own island, and he says, "This is my sovereign territory." He's made his own postage stamp, he's made his own visa stamp, etc. So you go to that island and stamp your passport. It all means nothing because simply Australia owns that piece of land.
+
+And one example that was really popular was, like, when Ben and Ben got a solve, and the point is that he has some money, but Jimmy is the lawyer for him. So he almost repaid him in his own country's money. So, these guys try to make the argument that there is nothing that controls them, there is nothing above them. So there is no external rule.
+
+So states ideally should be sovereign. They should not have any external influence, and they should determine their own identity. Can we say states like Hong Kong, Taiwan, and so on? No, because even though Hong Kong is a... what is the new place? What is the new country they call it? Mainland China and... Yeah, they call it the two-systems thing, but... Special administrative region. Special administrative region, no? So it's a special administrative region. The minute you say this, you are indicating that it is administered by us. Even though it is administered differently, it's still administered by us.
+
+So places like Macau, Hong Kong, etc., are not fully fledged sovereign states because they do have an authority above them. What about Taiwan? Taiwan is a bit tricky. I mean, for all its purposes, Taiwan is a state, but this will... the last one will help us identify whether it was a state or not. But Taiwan is in Hong Kong; it's considered its own country. No. The government there does not recognize it as a country, either as mainland China or as a... Yeah, because the last time they did that, there was... even after the government... there was a protest, but they didn't sustain it.
+
+So that's what I mean: that a special administrative region does not mean sovereignty. It just means that under the banner, you are administered differently. So it's technically not a state? Technically not a state, no. It's part of the administration.
+
+When we're talking about sovereignty, we don't mean the whole territory, because there are many places that do not have control over their territory. For example, in Sahara, the government has control over the territory. Yes. And on the other side, the police have control over the territory. While in the government, there are states that do not have control over their territory. Yes, so that's the sixth one. So we'll come to that.
+
+So, yeah. So population, territorial boundary, sovereignty. Remember, when we say this, we recognize that there are problems like this, war, etc. Sorry. But similarly, population has its own problems. But we're saying these are the bare minimums that we need in order to declare something a state.
+
+Next is there should be a government. A government that clearly administers it. That goes hand in hand with sovereignty in a certain way.
+
+Sometimes it happens that the government collapses. In that case, we call it a failed state. This is something that's often reported in news and things like this. But generally, when a government is unable to administer and govern and maintain sovereignty and maintain the territory, etc., we call it a failed state. It's a slippery slope because you are suggesting that there is absolutely no control over that region and that population. So it's not an easy thing to make. But having a government is essential, and we'll come to government. Yes?
+
+No, so state and government in political science are considered as two separate concepts. So first we're doing the state. In the second half of this lecture, I'm going to talk about government. That will help you distinguish why they are separate. But what I want you to remember is that government is only part of a state. It is not the state. It's one component of the state.
+
+You can think of this as a corollary to this, that the state has a set of institutions which are public. And we'll use this again when we come to government a little bit. Essentially, what we're arguing by this, by saying this, is that you don't only have a leader and you don't only have a prime minister and council of ministers and an army, but you require multiple institutions in order to make that government rule.
+
+You need to have a judiciary, you need to have an executive, you need to have bureaucracy, you need to have authorities that build roads, you need to have institutions that manage the finances of the country, that pay the salaries, etc. So when we say government, we use the larger term government, but the first keyword for any state, you are required to have institutions that are managing this inquiry of the state. The second important point is this: this set of institutions are publicly owned. They are not owned by a particular individual or a group of individuals, but in fact are funded by public money and are accessible to the population.
+
+What if there was a hypothetical private government? Say there was some territory, it was recognized as a state, its population was one of those where you could choose to enter and stuff like that, they could get services and stuff like that, but all of it is private. It's owned by one citizen, everyone's happy, there is a democracy for specifically the people who are doing the leadership and stuff like that, so it is a democratic country. Would that still be a state?
+
+You are describing my own moon child. You are describing a gated community.
+
+Oh, but what if it's recognized as a state? Would that be a state if it's private?
+
+Yes, so that is a type of state that we call a minimalist state, which follows from Locke's principle that the state should not do anything, but still need somebody to build the roads.
+
+Yeah, no, the state doesn't necessarily even need to be minimal. The whole idea is like it's acting like a company. Its taxes are its profits, and people have voluntary citizenship. They can choose to be a candidate and stuff like that, and so, yeah, it's doing all the functions of a government, it's doing all the functions of public institutions, but everything is private and owned by, say, one specific corporation.
+
+Yeah, but you're describing a residential gated community. What makes it a state?
+
+No, but it has all the other things, right? It has population, it has boundaries. Let's say for now that it's recognized as a state, and it's a big law.
+
+And people buy and sell into this?
+
+Yeah, sure.
+
+So how is membership decided?
+
+Yeah, by the approval from the government that is there.
+
+Okay, and there's nothing about this?
+
+No, and they have a military, they have all of that.
+
+Okay, and they have a government?
+
+Yes.
+
+Who funds the government?
+
+The corporation, where they're spending money in order to make the country better so that they can charge more taxes.
+
+So who's the money that they're spending?
+
+There's a corporate body which raises capital.
+
+From where?
+
+From other people.
+
+Huh, so through taxation?
+
+Yeah.
+
+Huh, so it's a public body?
+
+This is still my home, Bhujahalli, at the end of the day.
+
+You're giving different labels, but this is something that I criticized in our last semester. You're happily able to apply it, huh?
+
+Gen Z, John Locke.
+
+Gen Z what?
+
+John Locke.
+
+Gen Z John Locke, yeah. I mean, the minute you say, "I will take money from everybody to build a community hall where everybody can buy property," you have created a public institution. Because tomorrow, if you say, "I want to paint this red in color," somebody else will say, "I will paint it red." Why? Because it's a public institution. So the minute you take money from the people to build something for the people is the right public. I mean, it sometimes blows my mind, and this is what I'm trying to tell you, but generally in the younger generation, this idea of public ownership, that really this belongs to us, is really lost sometimes. That the sidewalk does belong to us, that every time there is a contract given for a building, it is literally, like when I say literally, even when you buy a cigarette, it's that passer-by who's going to build that building, right? So that's something that people don't realize very easily.
+
+Basically, because there is a non-linear movement that says you should not use public money, you should use private money. And that is a distinction. So there is a privatized state, there is a minimal state. So there are models of corporatized states. What you're referring to is a corporatized state, which tries to argue that, yes, we should run the country like a company. This became a big part of political science and public administration in the 1980s and the 1990s. There was actually what was known as new public management. It says that a government and citizens—and it's not about ideology, and it's not about the right thing or the wrong thing and things like this—it's about how can we run the country like we're in a company. So how can you make sure that it's profitable, that we're able to build good quality, that consumers are able to obtain, etc.? Most of the world moved away from new public management in the 2000s. We are still stuck in certain views of new public management. But that's a side point. So public institutions is a corollary, which we can call it even 4.5 here.
+
+But this is something that really defines the state. And finally, states need to be recognized internationally, which means you can't simply say, "People living here, people paying this kind of money, is the royal state of Yashwantpur." But it needs to be recognized by other states that, yes, you are indeed a core member.
+
+Now, this again is a big characteristic of modern states after one particular event or one particular institution was created: the UN, the Second World War, and the aftermath. Remember that the Second World War began very specifically with interference in sovereignty, interference in boundaries, interference in government, and interference in populations. The Nazi expansion was based upon who can be a member of the state, whose territory belongs to whom, and whether I should be able to rule over the secondary territory or not.
+
+In the aftermath of the Second World War and the formation of the UN, a big thing is this recognition of states, which is one of the big confounding problems: there is one group of states that recognizes Israel but does not recognize Palestine; there's another group of states that recognizes Palestine but does not recognize Israel; there's a third group of people who recognize both of them.
+
+So what about, say, the state of Kashmir? India recognizes it as its own sovereign, but internationally, the boundaries are not defined. So how do you justify that? You don't. So the question is, do we consider Kashmir a state or not? So by these characteristics, you cannot consider it a state because it does not fully conform to any of these. Similarly, it doesn't have its own independent sovereign government, for example, as a region. Similarly, one could argue that, oh, is POK Pakistan or Kashmir a sovereign area? So by that sense, that claims sovereignty. We know that practically there is no sovereignty.
+
+...are not necessarily saying that states are defined by the government. The reason we're saying this is because certain countries do not have standing militaries. Switzerland doesn't have a standing military. It has a standing air force, but it doesn't have a ground warfare agreement. Does it have enough? Oh, since when? Okay, yeah.
+
+So, yeah, they are parts of these, but they're not necessarily the characteristic feature or identifying features of the state. Why should we have that? Why should we have other states that can have their land as well and therefore need to protect their land? For example, I think much bigger than not standing anything on their island. Who does not? Or the city. Yeah. How do they have an army?
+
+Okay, now, also, a lot of this history is extremely Eurocentric. It's really because the third cousin of the king of one particular region in Scotland decided to wage war against somebody else. It's fascinating, but sometimes it can be very confusing.
+
+Okay, any questions about these structures, certain features?
+
+So is it not required for a state to have military power?
+
+Military power? No, it is required for a state to have military power. Why not? Military power definitely comes between government and institutional authority and sovereignty. Military power is also a power move, basically, right? So when we say public institution, the army is a public institution. The paramilitary are public institutions. They are tasked with performing certain things. But I would say it encompasses here, encompasses here, encompasses here. We don't identify it.
+
+So, for example, if you notice, it doesn't say economy also. So we are not necessarily saying that states are defined by economy. The reason we're saying this is because certain countries do not have standing communities. Switzerland does not have standing communities. It has a standing air force, but it doesn't have a ground warfare agreement. Does it have enough? Oh, since when? Okay, yeah.
+
+The paramilitary are public institutions. They are tasked with performing certain things. But I would say it encompasses here. We don't identify it. So, for example, if you notice, it doesn't say economy also. So we are not necessarily saying that states are defined by economy. The reason we're saying this is because certain countries do not have standing communities. Switzerland does not have standing communities. It has a standing air force, but it doesn't have a ground warfare agreement. Does it have enough? Oh, since when? Okay, yeah. So, yeah, they are parts of these, but they're not necessarily the characteristic feature or identifying features of the state.
+
+Why should we have to deal with other states that can have their land as well and therefore need to protect their land? For example, I think much bigger than not standing anything on their island. Who does not? Or the city. Yeah. How do they have an army? I mean, you sit at a table like, I don't know how to explain this. Sometimes, Peter and I have to do this to each other's arms while writing, you know? It's a problem. Those things happen at scale of a country as well. They may be disagreements.
+
+You're also assuming that countries need to be neighborly. There can be other external forces. You're also assuming that your neighbor's neighbor is also nice. So sometimes you need to protect yourself and your neighbors from your neighbor's neighbor. There are sometimes, in very, very extreme cases, you send your military against your own people, like has been done in the case of the United States and India, which should not happen, but it has happened. I'm not saying that is a good reason to have a military. But basically, to protect the borders and to protect the population, and in order to—and this may result out of any contingency—there may be a revolution in your neighbor's state one day. So even if your neighbor recognizes you, the next day the youth of that country take over, then what happens to the attack on the country? You know, Nepal is out of the packers. There's certainly a journalism there, that's what they do.
+
+So, yeah, that was what I was about to ask. I can recognize a state and still, you know, attack if I find incentive enough. So just recognizing a state doesn't mean protection anyways. Yeah, it doesn't necessarily mean friendly relations either. I mean, the US recognizes that Iran is a country, is a state, but it doesn't necessarily have good relations with Iran.
+
+What state? What does he want to do about change or protect itself or dispatch military in these countries? But also remember, in thinking and knowing the human sciences, we are learning about the discipline. And what I'm communicating to you is these are the things that the discipline considers important to study and to understand. When there are studies of countries in place, you will find they are organized quite significantly along these axes from time to time.
+
+Well, there can also be a recognition of a state without recognizing it. But that's the government. Well, there's not, right? Does it recognize the government over that? No. Because it was born out of a revolution in this place. But it does recognize the state. Yeah, yeah. So this is, so for example, this is very helpful in recognizing citizenship and populations. You may come from a state which—a person of state A may go to state B. Even if state B does not like state A, does not like the government of state A, as a disciplinement, the government of state A and things like this. So it's perfectly fine to not like a particular state, but you do recognize the population, you do recognize that the people living there are doing their best. So you, yeah, sometimes you don't recognize the government as elections. That's okay. But you recognize that it has a government, that it's functioning as an independent state.
+
+Okay, the last thing I want to do, even though we were supposed to do government—oh my god, we don't have any time for that, as always. So just now, let me get to the last thing. Is this guy called—is a political scientist called Michael Mann, M-A-N-N. We need to look at the names, but anyway. There's another mission man who writes on Indian politics, and there's a third Michael Mann who makes great films. I don't know if you've seen Heat or Collateral; they are all films by Michael Mann.
+
+Okay, so Michael Mann says that, you know, generally all of these characteristics and features are fine, but there is a—states essentially perform four functions. The first is states promote ideology. So each state has its own ideology, and in fact, this is its own ideology. By this, he does not necessarily mean Marxism versus capitalism; he just means that each company, each state has its own way of being. It may take the form of socialism, it may take the form of Marxism, etc., but that's one part of the ideology of the state.
+
+The second is the state: the institution that manages the economy, that makes sure that markets are being fine, that the economy is a reflection of the ideology, and things like this. For Chirag especially, Michael Mann said, the state performs a militaristic function, which is that of protection, and importantly, he argued that the state is the practice of political power, which I'm not going to go towards into. We're going to do power and authority separately. In fact, when you start reading the books on state and government, you'll find many of them start talking about power and authority pretty fast. Let's try to read it just now. But I'm not going into the conceptual understanding of power right now. I just want you to—Michael Mann considers it to be a central feature of the state. Yeah, it's part of the IAP model, or MAP model, or something like that.
+
+But Michael Mann is not about recognizing states as having certain features, but he's making a non-major statement based upon an empirical historical study, where he says that, broadly speaking, all states perform these broad functions. Everything that happens in a state can be understood within these broad functions. I'm not giving you a lot of gap about it, but I just want you to be aware of it.
+
+Okay, so the final thing we are going to do—not final, but for now—is we will talk about government. So the very first thing I want to establish, clarify, and put at the top of the board is: government is not equal to the state, government is not equal to the country, government is not equal to the nation, government is not equal to the economy, and so on and so forth. Government is only one part of the state. The government is not conflatable with anything else. The government is temporary; the state is permanent. And what follows from this large statement is: criticizing the government is not criticizing the state, opposing the government is not opposing the state, and those two things have to be kept separately as far as our vocabulary is concerned.
+
+Okay, so if I were to ask you, according to you, what is government, what is Sarkar, what would you say? What is Sarkar?
+
+A foreigner says they make the policy of the state.
+
+So are you talking about the body that makes—what did you say?
+
+The body that has the power to make policies, to decide what's good for the nation.
+
+Okay, it's something that helps perform certain things or certain tasks in relation to the population.
+
+So, what is it when I say “to govern”? Because when I say “government,” it means a set of these things. But what is “to govern” then? So, the government governs the state. But what does “govern” mean?
+
+So again, the act of putting things into motion.
+
+Okay, what else?
+
+Sorry?
+
+Okay, so there is a form of control. There is a form of making sure that things work, et cetera. So yeah, absolutely. I mean, but there is—I'm surprised that you are not using a political answer.
+
+So, one other distinction before we go to these particular things that we spoke about is this dual understanding of government: that there is a popular understanding and there is an academic understanding. The popular understanding of government is Sarkar. Modi Sarkar is the current government in charge. It means a particular party or group of people in charge of the current term is also referred to as the government.
+
+Yes? News to the nation, Modi Sarkar, the Modi government has declared this one a support.
+
+So that is one narrow journalistic or popular way of understanding government. But for us, as we are concerned, we are concerned with the larger institution, or rather group of institutions, that perform the task of government. And what do we mean by government? Exactly as you said, we are talking about practicing controls, setting up objectives, deciding, making decisions, figuring out how to make certain things work, making sure that certain things are being delivered, and so on and so forth.
+
+So whenever we talk of government and so on, we are talking about the larger idea of government, not the specific instance of a particular form of government. So this time, what I'm going to do is I'm going to do the empirical side a little bit first, and then I'll do a normative side. When I understand the state, we did it reverse, but this time I'm switching the order of things.
+
+So first, yes, what we recognize is the first notable feature of a government is that the government is a set of public institutions, public and formal institutions and processes. That is not one thing; it's a number of things and multiple processes that are possible. But two things that we keep in mind are that it is public and that it's formal. When we say it's formal, which means that there are rules written down about it. It's not something that somebody randomly has created that is an administration, but rather that something somewhere, either the Constitution or another form of rule, has decided what form each and every institution should take.
+
+So, very clearly, who governs the economy in this country? The Finance Ministry. Okay, the Finance Ministry governs the economy in this country. But does the Finance Ministry control money? The RBI. The RBI. So, someone somewhere has decided that the regulation of money is not under the Ministry of Finance; it is under the Reserve Bank of India as a separate entity according to these laws. There are certain overlaps and there are certain committees because they are supposed to supervise each other. But the relationship between this has also been formalized.
+
+So, it's a bit surprising that we are targeting Nitin Gadkari over his introduction of E20 fuel, which I don't think is following the current government's working good. Because Gadkari is for road and transport, so he's not for petroleum. So why shouldn't he be saying these things about the petroleum industry, which is not his ministry? There is a formal set of rules about what is regulated by which ministry.
+
+The point I'm trying to make is, when I say formal and public institutions, that any decision that any government institution makes, or individual makes, or process that is made, has to be set out in some codified form of rule or law. So whenever we use the word formal, we use that understanding: that it's codified, it's written down, that it's not somebody's random practice or power.
+
+So the first thing we clearly identify is states are formal and public set of institutions with their own processes. Typically, one way of understanding formality also is constitutionalism, because the Constitution lays out a lot of the formal rules in case of today. And the second is that of accountability. So if somebody makes a particular, takes a particular action, somebody in government takes a particular action, you can ask them, where is this written down? Where do you perform this act?
+
+So generally, most cases of police picking up young people for smoking or hanging around with the other gender or for drugs, etc., are always thrown out of the court, because the very act of taking somebody without giving them consent is considered not a formal process. That's a—whether the police, the Constitution says, police are not supposed to go. It's not a formal means of communication. A formal means of communication is that the police has to set a register later to your house to ask you to come to the police station. So if anything happens outside that, it is illegal, it is unaccountable.
+
+And so you need to have, when we say formality, you need to follow a set of rules and processes, which may be the Constitution, which may be the other documents. But importantly, formality also means accountability: that you're able to identify what exactly is the source of that decision-making or the source of that action that the government is taking.
+
+The second is that government makes laws and makes decisions. So remember that the first point: this is a formal set of institutions. The government can produce itself. Tomorrow, the government can declare, say, next vote, this thing will be under the new ministry. We have done this before. We have shifted things around and made something a part of this thing. It's a part of the government process. But even the process to do so is a formalized process. It's not like randomly tomorrow you can say, “I disband all the ministries and keep only three ministries.” It doesn't work that way. There is a certain way in which those decisions have to be made.
+
+But the government is responsible for making laws and making decisions. Third is, not only the making of laws, the government is responsible for implementing them as well: making sure that they are met, making sure that the goals of those laws are fulfilled.
+
+Did you hear a question?
+
+No, I am just doing three movements.
+
+Yeah, no, just keep my lap.
+
+That's perfectly fine, but I am just letting you know that it's always expandable. I suggest we take that off.
+
+Wow, so generous. You know, there are all the kinds of things that I can add to this.
+
+The government is also responsible for regulation of not only public institutions, but also regulates private institutions within the country. Remember this: the example of housing colonies, the reason I use that as an instance is also because private residential colonies can make all the rules as much as they want, but those rules have to conform to the public governmental rules of the place where the public resides.
+
+So the government regulates, monitors, moderates private institutions and processes. The fifth is the government has power and the government has authority. I am not elaborating on this because the power and authority is separate, but very simply, the policeman does have the authority to give the warrant, the government does have the authority to decide whether you are eligible to vote or not. It's very much within the power and authority of the state.
+
+And finally, governments, and this is a normative statement, have to represent the vision of the people. Governments perform for the benefit of the population. Remember, it's a public body; it's an institution that's taking care of the people. But the reason I'm calling it normative is because while we want this to be true, it's not always that governments have representation. It's not always that governments are truly democratic, that they actively have the hearts of the better of humans, such as the citizens of that land.
+
+So, to summarize, first, government is a formal set of institutions and processes. Second, the government can make laws and decisions.
+
+Fifth, the government is responsible for implementing laws and decisions. Fourth, the government regulates public and private institutions and processes. Fifth, the government is endowed with power and authority. But remember that it is a set of formal rules which endow it with power and authority. It's not random. Sixth, the government should represent the general will or the interest of the people.
+
+Normatively speaking, there are things that people have said. So, the minimalist theory of the state, or the laissez-faire theory of the state, says that there should be minimal government. It goes to libertarianism, it goes to whatever is the spin-off, but that is one normative idea: that the state should have a minimal presence. It should not be visible too much.
+
+There is another group of normativists who believe that the state should not exist. We don't need a state. These are collectively referred to as the anarchists. For the anarchists, it does not mean there are no rules. It means there is no ruler. So, anarchism has various forms, but the broad general position of anarchism is we don't need the state, we don't need the government. These are not entities that are required to do.
+
+Third is the totalitarian theory of the state, which means the state needs to be absolute. The Soviet Union was a totalitarian state; Nazi Germany was a totalitarian state, in the sense not only that it practiced power over its people, but that it wanted to have total control over everything. So, in Soviet Russia, a committee would decide that this particular bar in this particular region of this particular oblast, et cetera, et cetera, had to produce this particular crop at this particular time, and next year it has to produce that particular. That's totalitarianism. It's a completely expansive power of the state.
+
+And finally, what I mentioned the last time, which is the new public management of the state, which believes that the state should be run like a corporation rather than a public entity, that you should have privatized services, the government should not provide free services.
+
+I know you will have a lot of questions raging in your heart right now, but I want you to reflect upon this and come in the next class, and you can ask me questions about the government.
+
+So, the first part of the class is you're going to do an assignment, which will be like one word or two half-page paper size, so please bring paper and pen to class. The syllabus is what we have taught in class; the resource materials are the readings that are uploaded, so feel free. You can read beyond that as well. The world has a library for you.
+
+But yeah, cool. I'll see you next time. But are there any important questions you want to ask? I'm willing to answer them, even though my class is over.
+
+No? Okay.

@@ -1,0 +1,479 @@
+After that, I'm audible like this. Let's see, you can even turn on the microphone here. It's almost like playing control over the video. Well, that's fine. It's basically, I do have another straightforward story. I think—I don't know how many of you were present in the last discussion we were having. I'm sure Shoria was not there. I don't remember Shoria being there. So, I'll just give a brief overview of what we are discussing and then move on.
+
+So, this idea of social reproduction, right? From a Marxian sense, what we know is that Marx said, or in his theory, that any new value that is produced in the world is produced by laborers. So, it requires humans. That's the Marxist argument. And in that case, what the social reproduction scholars are coming and saying is that is true, but why are you only interested in the production sphere? Why are you only interested in the factory, in the shop floor, or in the office, let's say, of Belo at Meta and other places? Other places like a household, right, or communities and spaces which are outside the productive sphere—what is happening there? How do we understand that?
+
+Which brings us to the question: when we think about AI, how many of you know about what happened two weeks—two days—back in the world of AI? Yes, there was a Millennium Problem which was hanging there for 90 years, and nobody could solve it. And it is said that it is—I'll say, I'm—I don't know, it's still being doubted, like, how did this happen in its own way. But anyway, so I think right now the idea here is that it has been solved by OpenAI's agents. It's interesting that they are called agents.
+
+Now that research is solved, the question that still remains, again, is a question of the product. So, what is going to be solved even with the latest technology? There are still questions of the productive theory. So, again, the question that social reproduction theorists will ask: isn't there anything that's happening at the level of the household? Do the people who remain in the homes or the villages and don't really go to work work? Are they completely useless? That is the question.
+
+And that is where social reproduction theory comes and claims that that domestic sphere that exists beyond the purview of the productive sphere is also productive. It is not that it is unproductive. It is productive because it reproduces biologically the next generation of workers in that sphere: children born who are the workers of the future. And the second is, when the people return from their offices in the productive sphere, they are taken care of in that household. Thus, the regeneration of the labor itself, the capacity to work, is regenerated in that household. That's why it's important.
+
+So, we'll start from here, Shoria. Okay. Now, there have been a lot of discussions of social reproduction. One is that it started off in the 1950s, specifically with the feminist movements in the European context. And interestingly, they were fighting this phenomenon called housewifization, which means that most of the women land up being housewives. And they were like, why are they not in the productive sphere?
+
+And then comes the question that they started raising: women have been segregated in the care economy altogether. They are only doing reproductive work. Thus, they need to be brought out to come to the productive sphere, and we want more female participation. This question is a bit after also. Around that time, the universal suffrage issues—those discussions are going on in the first wave of feminism, as is the second wave of feminism, kind of the situation.
+
+The other, I'll say, accusation that the scholars—German feminist scholars—put towards Marx is there's a missing calculation when it comes to Marxist ideation of surplus value: that it is not only the workers in the productive sphere that produce new value; it is, in addition to them, the workers in the reproductive sphere. Thus, they have rights. Thus, they need to be paid very similarly to the minimum wage issue of the productive sphere; they need to also be paid a minimum wage. Thus, this entire sphere is suffering chronically, even today, from the question of wagelessness. And that is their argument.
+
+We also went on to discuss how this is being naturalized to patriarchy. For example, mother's love. Somebody said that there is a—what is the price of a mother's love? People might get very angry. How can you buy mother's love? But people do buy mother's love and care from the market. When they hire a nanny, when they hire household help, they're actually doing all those things.
+
+The other question that I have is—and this is a discussion I had with Chaitanya last year, and I was just thinking about that—when we think about AI, right, and it's solving problems of today, of tomorrow, I'm sure, it's a utopia that we all…
+
+Isn't there any labor in it? What kind of labor goes into when an AI solves something? Let's say I write to Claude right now, "Give me a brilliant essay on social reproduction." If I'm keeping the context of Latin America, it's going to write a very beautiful essay right now, if I tell it to do that. I have to check a few references; it can easily do that. When it is doing that, what kind of labor exists there, except for my prompting? Just me, with my prompting and my intellect that has worked in it, or is there any other form of labor? And what kind of labor is it?
+
+Yes, Krish, the annotation, the annotators would be in the world. Yes, the annotation. Annotators who would train the model.
+
+Yeah, yeah. Basically, they are doing the tagging of things to names, basically. It's a question of semantics. What else? What's the other level? Not just the annotators, but the people who made the data themselves originally, the people who created the original works that it is trained on.
+
+What does it mean? Can you give me an example of that?
+
+I mean, the people who originally wrote about social reproduction, who had those original thoughts in their head—okay, that was all fed into a model. And that training of the model allows it to produce this asset.
+
+So, in that sense, the question of social reproduction, if you take that as a case, these people you're talking about, they are the data annotators. They have categorized and bucketed things into categories, into theorizing them, right? But what Krishna was talking about is also the animators of much smaller things, let's say.
+
+Right? So, this is a bottle. How does a camera know that this is a bottle? Somebody has to annotate that this is a bottle. So, there's a historical idea of this shape containing water is a bottle. I don't see a lot of people can. Let's say sauce in a bottle. Sauce or fluid could be put up in a bottle like this. Nobody will do it. There is knowledge around this kind of bottle and what it should hold, right? So all those things can be fed into that.
+
+So, annotators and what he's saying is the past knowledge creators. What else? The technical people who are setting up the servers and keeping the model running. That is all. The technical people who are setting up the, putting the wires in, or getting layers of stacks on which this is running.
+
+Can I also say the people who made the servers?
+
+Yeah. It also goes on to the realm of the mining that has happened because we make those chips and things.
+
+What is most interesting, and I think Jeethan, you should talk about the dead labor thing that you were talking about. You were saying last year, we were walking, we were saying about the entire question of dead labor, right? It seems like there is no living labor here.
+
+Yeah, so basically, Marx has this idea of dead labor versus living labor. Dead and living labor is basically the labor of the workers who go to the shop floor to actually do work. And then there is the idea of dead labor, which is the capacity to do work that is already in the machine. Like, if it's, e.g., some sort of a car assembly factory, then the robotic arms that come and put together the chassis—there is some knowledge or process that is embedded within that robotic process. But that process also comes from labor that was previously within, which has been sort of captured in that contraption. So that is the idea of dead labor.
+
+Now AI is taking us to even beyond that, exactly what you were saying: the knowledge of people who have written about social reproduction or whatever. That has become the dead labor that is being captured by artificial intelligence.
+
+And a great example would be how many of you have ChatGPT-generated photographs of me in the '80s? How many of you are in Tabanga? So it's just a theme right now. International social. Everybody's posting photographs: How would I have looked in the '80s?
+
+This entire idea of the aesthetics of the '80s, right? So I remember there's somebody called Giorgio. So there's a song by Daphne Park. It's called Moog Modular. Okay, it's ADMR. It's ADM. So Giorgio comes and talks about how this Moog Modular comes into form, right? And he's saying that I used to live in this, just outside the nightlife, as in the park, discs, and live in a car in Germany. He's not from Germany; he's from Italy. He used to live there because he couldn't afford a home and used to go inside, play his set, and he used to come, right? It became the sound of the '70s, to be very honest. The first time synthetic music enters, it's the '70s and '80s, right? The question is, those people are either dead or they will be very soon dead. That labor has been contracted in the aesthetics of the '80s and '70s.
+
+Today, if you want to make a 70s track with that kind of a beat, with that kind of a language, an AI model would be able to do it for you because it mimics that aesthetic, it mimics that age. It is a color for every age, it has music for every age, right? It does that.
+
+The question here is to think about what the SRT scholars are saying: there's a relegation of care work, and it is not being valued for the first time in the history of humankind at this scale. Even productive work is being devalued at this scale.
+
+If OpenAI today comes and says, "I can generate music," or, "I can literally produce music that was being produced by, let's say, a band like OpenAIA," what has it done to do that? It's not going to say it is producing Coldplay. It's going to say, "Sound like Coldplay." What has it done? It has captured the essence of that music, thus devaluing it altogether.
+
+What has it devalued at the same time other than this? It has devalued the process through which an art comes into existence. Because, as I said, clean a photograph of me in the 80s—that question, or get me a photograph—that is still possible now, right?
+
+So basically, I remember when I was in Delhi, there used to be certain days that dressed in Bollywood 70s. So people used to go to Chor Bazar, Chardni Chag, and Ada to get books. Kind of plots, make such kind of plots. It's almost like "go as you like," exactly like that, right? And you have those theme parties.
+
+People used to actually dress, think about the hair, the skin, what I wear to wear, what dress to wear, so that they look like the ideas. That aesthetic used to be created by active labor. Does it need to be done anymore? Thus, that process, the laboring process itself, has been devalued to a certain extent.
+
+Art and aesthetics. Let's say you get into pure labor. Let's have a factory worker who is sitting and, you know, making parts of metal. And if a machine is replacing him to do it today, it's no more dead labor, right? And this goes very fitting with Marxian.
+
+This guy who was alienated before can now again take a step back and look at the whole process, which he couldn't have done. So basically, what he's saying is that now that this happens, if somebody really is moving out of the labor process, that person is going to feel at least less alienated.
+
+Why? Because he'll again—let's say I'll take the very crude example of somebody in the metal manufacturing chain of production. So they will be individualized to each task like they are generally done in the factories. And let's say one person has the capability of overlooking the whole process with the machine taking over. So he knows the end product, he knows how to make it, and especially now if he has an AI ecosystem and he is building, let's say, a software, he no more needs a team of 30 engineers and so on and so on and so on and so on.
+
+But there is one thing that he is not able to do. That's why, even if there is only one person in that possibility, what is that? There's one person that this entire thing is missing. And that's the start of Marx's idea of alienation. What was laboring, right? You're laboring to make, let's say, build up this entire table on your own. That was the knowledge of the possible, and you're basically breaking it down to basically screwing apart. Thus, there is a desktoping going on, thus a question of variation.
+
+What is the other thing that's missing here in this man that you're talking about, this one-man shoplord? At the end of the day, he is still isolated with himself. The other thing is that the moment you put knowledge, contracted skills—contracted—there is no possibility of creativity anymore. That sound would be like Coldplay. There won't be another new band in this world.
+
+That's fine. I mean, there will be people who will wipe out 40 and not have any users because things already exist better, so they'll just take up on other things. How is that again fitting into this picture?
+
+I mean, here I guess this specific case, what I would say is that the people you're saying who used to be alienated are not alienated now. But that's not really the case, right? The people who used to actually work in the factory aren't just not alienated; they're just without labor. They cannot work anymore because these robots have replaced them. And the person who was managing it, they were initially managing people but have switched to managing robots, which I would argue is more alienating. I would rather interact with people at my work than interact with robots.
+
+If people are not working the shop floor, what are they capable of doing now? That's my question. But you see it as a replacement, like a machine replacing a human being. But why don't we see it as a refactoring instead of replacing?
+
+Are you saying about a completely automated situation in which people are freed of their time and they can do what they want?
+
+Ideally. The question is, how would a person do anything they want if they don't have a wage in this world?
+
+I'm just saying, in this specific scenario, I would see that most of these people would be left laborless, not actually being able to get a separate wage themselves so they can do whatever they want.
+
+That is why what you're saying is the actual dream. You know, incentive is tied to wage. I mean, imagine incentive goes beyond wage. I need a table, so I build a table. How do you build a table?
+
+Again, in our hypothetical situation, let's say I automate a process, a complete process without any labor. The question here is that, okay, let's just—this is a question. This is not a question of labor only. This is a question of what is technology. So what is the technology? What is AI? Where does it come from? What is the genesis of computing?
+
+What is the genesis of computing? What is genus? Let's get a more simple question. What is the genus of the internet? Let's start there. What is the genus of the internet? How did the internet come into place? Wasn't it like, in a particular college, two people who wanted to send files to each other? The U.S. military in the Cold War situation was trying to send faster files, so DARPA is created and the internet appears.
+
+Who creates the knowledge? The state? It's basically labs. It's basically university labs. I mean, labs are working for this. Who appropriates it? The first company that appropriates it is Microsoft. Impossible computing.
+
+You live in a world in which you live in a capitalist world, in which everything is segmented into class. In this situation, people are alienated. If you can build a utopia of your own where technology is there to free people's time, when everything of that person and the family is taken care of by the state or by the community, then it's fine.
+
+In this situation, nobody can realize surplus if people are given freebies. That's the part. In your case, they are not alienated if they are able to do some work which they like to do. But that possibility is not here.
+
+There's another suggestion that is there from global economic leaders: let's try to bring down work and employment to zero, as close to zero. So how will people live? You need food. How do you live if work is not to zero?
+
+But the work required to make food also comes to zero.
+
+No, so, for example, there are certain sectors. What I'm really talking about, let's say, is the service sector, which can be automated to a maximum. Even later on, agriculture might also be, right? But the question is that, if you want employment to be zero, then how do people survive in this world?
+
+The government gives the evidence. The government gives it. So that is where the idea of universal basic income comes. Because they know that if unemployment goes on increasing, there are going to be mayhem and riots on the streets. People are going to die without food, so you require a UBI.
+
+Exactly in that case. But what does a UBI mean? UBI means that it's going to be just for your existence. UBI means, from that, you won't be able to create them in that space, in that one. Surviving is the best.
+
+Till COVID-19, it started. Even today, this government is giving 80 million people a free ration a month. It started during COVID because there was no work. That means those works have not returned as of now. That's why it's been subsidized by Russian proper state, right?
+
+These are all ways in which India is already working for that ultimate state you're talking about. But yes, in your whatever ideation, these people are going to be taken care of, they can do what they want, thus they are not eliminated.
+
+But then it's not just doing it in actuality. Let's say I am still somebody who, at the end of the day, is a small cog in the process. But if I'm aware of how the whole process is done, what the final product is, that awareness and that degree of freedom is what is against alienation. So you need not reach the ideal state; you can still be at the end of the child.
+
+I'm telling you something because I've been teaching sociology for quite some time, and I've also been probably active at some point of time. I know how the process works. But I'm going to tell you that this process of teaching is very alienated. What does it change? I have knowledge about the thing, but that doesn't mean that I am not alienated.
+
+I would again like to tie it to effort. So, let's say, if you want to break out, or let's say you have—you want to get on to the next level of this process. So, if you take teaching, let's say, and the hierarchy.Are you saying about a completely automated situation in which people are freed out their time and they can do what they want?
+
+Ideally. The question is, how would a person do anything they want if they don't have a wage in this world?
+
+I'm just saying, in this specific scenario, I would see that most of these people would be left laborless, not actually being able to get a separate wage themselves so they can do whatever they want.
+
+That is why what you're saying is the actual dream. You know, incentive is tied to wage. I mean, imagine incentive goes beyond wage. I need a table, so I build a table. How do you build a table?
+
+Again, in our hypothetical situation, let's say I automate a process, a complete process without any labor. The question here is that, okay, let's just—this is a question. This is not a question of labor only. This is a question of what is technology. So what is the technology? What is AI? Where does it come from? What is the genesis of computing?
+
+What is the genesis of computing? What is genus? Let's get a more simple question. What is the genus of the internet? Let's start there. What is the genus of the internet? How did the internet come into place? Wasn't it like, in a particular college, two people who wanted to send files to each other? The U.S. military in the Cold War situation was trying to send faster files, so DARPA is created and the internet appears.
+
+Who creates the knowledge? State? It's basically labs. It's basically universal labs. I mean, labs are working for this. Who appropriates it? The first company appropriates it is Microsoft. Impossible computing.
+
+You live in a world in which you live in a capitalist world in which everything is segmented into class. In this situation, people are alienated. If you can build a utopia of your own where technology is there to free people's time, when everything of that person and the family is taken care of by the state or by the community, then it's fine.
+
+In this situation, nobody can realize surplus if people are given freebies. That's the part. In your case, they are not alienated if they are able to do some work which they like to do. But that possibility is not here.
+
+There's another suggestion that is there from global economic leaders: let's try to bring down work and employment to zero, as close to zero. So how will people live? You need food. How do you live if work is not to zero?
+
+But the work required to make food also come to zero.
+
+No, so, for example, there are certain sectors. What I'm really talking about, let's say, the service sector which can be automated to a maximum. Even later on, agriculture might also be, right? But a question is that you want employment to be zero, then how do people survive in this world?
+
+The government gives the evidence. The government gives it. So that is where the idea of universal basic income comes. Because they know that if unemployment goes on increasing, there is going to be mayhem and riots on the streets. People are going to die without food, so you require a UBI.
+
+Exactly on that case. But what does a UBI mean? UBI means that it's going to be just for your existence. UBI means from that, you won't be able to create them in that space, in that one. Surviving is the best.
+
+Till COVID-19, it started. Even today, this government is giving 80 million people a free ration a month. It started during COVID because there was no work. That means those works have not returned as of now. That's why it's been subsidized by Russian proper state, right?
+
+These are all ways in which India is already working for that ultimate state you're talking about. But yes, in your whatever ideation, these people are going to be taken care of, they can do what they want, thus they are not eliminated.
+
+But then it's not just doing it in actuality. Let's say I am still somebody who, at the end of the day, is in a part, a small cog of the process. But if I'm aware of how the whole process is done, what the final product is, that awareness and that degree of freedom is what is against alienation. So you need not reach the ideal state, you can still be at the end of the child.
+
+I'm telling you something because I've been teaching sociology for quite some time and I've also been probably active at some point of time. I know how the process works. But I'm going to tell you that this process of teaching is very alienated. What does it change? I have a knowledge about the thing, but that doesn't mean that I am not alienated.
+
+I would again like to tie it to effort. So, let's say, if you want to break out, or let's say you have—you want to get on to the next level of this process. So, if you take teaching, let's say, and the hierarchy.
+
+I'm just assuming a structure here, but let's say director and sublevel and sublevels all the way down to directors, by the way, also alienated. I didn't mean that only I am alienated. No, a director is alienated as well. Every director is alienated in every college.
+
+But then, if you have equal knowledge as the director on how the whole system is end-to-end, I might have better knowledge than the director of how the system is. Yeah, you might have better knowledge of that, because I have a critique of the system. The director might not have a critique of the system, also. Might be. Might not be right.
+
+I'm telling you that we live in a capitalist world, and that also means in a production process. Why did I say that I know that this process is also illegal? Why did I say that? I said that because, at the heart of it, I know from the teaching that I am doing, right, there is a surplus that's been generated. There is a certain type of examination evaluation that I have to stick to. I cannot try out a lot of things here. All these are just not rules; these are basically guardrails through which surplus is maintained for everybody.
+
+I'm not saying that anybody is not alienated, right? But the only question here is that my alienation also comes with a lot of privileges. For those who sweep the back road, at around 11 in the morning, they sweep the front roads in the early morning because people will watch those roads, right? They sweep the back road where the cars are kept at around 11-ish when I enter, right? They are also eliminated without those privileges. So a director is alienated, but with a lot of privilege.
+
+Because none of us are here—at least, I'm—I want to make bidding for this work, think that we are not really directly drawing on a lot of surplus, which a capitalist can do. But you go to a college like Bennett, which is run by the Times Group, or to another college, let's say, which is run by a company, private enterprise, right? Over there, teachers are just said something, something like, "You have to teach 20 hours a week." Doesn't matter what you teach; 20 hours a week is your quota. That is a space which is literally living on the idea that I need to take out labor and I need to create a surplus. I have to show off profit.
+
+The only good thing here is that we don't need to show profit. It does exchange space. That's the difference. But then, at the end of the day, each and every one of us works for this surplus, right? Yeah, for somebody else's surplus. And all of us work for the privilege that we have.
+
+Do you want to say something to add to that question? Also, what I wanted to make as an argument is it's not only reproductive work that is facing wagelessness today; it might be also living labor that is pushed towards wagelessness. Because there are ways to get work done without somebody working on something actively. But the cause of that wagelessness, isn't that cause also resulting in wages? So, say charging is making X amount of people wages, but aren't the people who are working for OpenAI getting their wages?
+
+I know the gap is increasing, but it's not a gap in your sense. What's the gap in the game? The gap between the number of people who will end up wageless and the number of people who will get the wages. That gap is increasing, but it will never go down to zero.
+
+No, no, the idea is always that it will never go down to zero. Even the companies know it, right? The companies also know it, and it's always tending towards, you know. Right. So, in that sense, I'm not saying that you would not require developers tomorrow. You'll still require developers. But they want to squeeze that number out.
+
+For example, there were a lot of people who used to test software. There are testers there, right? Why would you require a tester in today's time? It can be done, if it can be done by an LLM or whatever is an automated process of it, you at least take some part of the name of yourself. That's the idea, right?
+
+I'm not saying so. Basically, the idea here is that what the capitalist system in itself is saying: your job will not go because you are at the top of the merit scale. So, you are always going towards that 10 people. So, for a lot of people in this campus, they would like to—they don't say it to my face. I've asked this question four times in the last two years. Nobody says that I want to be Sundar Pichai. I don't believe that. Nobody wants to be Sundar Pichai. Somebody likes Sundar Pichai because he is irreplaceable. That's the least privileged, one of the most privileged. Even though he is also a worker, in that sense, it works for people, right?
+
+So, the idea here is that you will always be in that small amount of people. You will always work, but you are displacing many more people. And now the question is about knowledge. You are displacing knowledge, you are usurping knowledge, but not without paying them back. That's the question. Did you have any question? Okay.
+
+I'll just go back to social reproduction. The very term social reproduction, as also acknowledged by social reproductive theories, is meant to be far broader than the notion of care, and it encapsulates both the reproduction of life and capitalist relations at once. That's for both labourers and labour power. That's exactly what I said: that you reproduce the next generation and also, through care, reproduce the labouring capacity for the next day.
+
+Now, there's a difference. The moment these scholars, the feminist scholars, enter India, Latin America, and Africa, they are shocked. Because here, the question is not so much about how to bring women to the market. It's much more dangerous, first of all, because in the economies that they were working, these are mostly formal economies. Formal work was much more. People, men, used to go to the office. Women didn't go to the office; they were at home, they were caring. That was the idea, right?
+
+The moment they enter these kinds of spaces, the Third World or the Global South, they find 85% of the population is in the informal sector. What does informal sector mean? Informality here means that even the men are not getting a dignified wage. It was when men were getting a dignified wage in the West, you were asking for dignity for women. You have entered India, and we are saying that there is no dignified work at all. People are fighting the questions of minimum wage here. 1960s, 1970s are full of labour union movements in this country for minimum wage.
+
+It is in this context: how do you understand this gender relation? The other important part is the question that in India, even during that point of time, it depended—you are a woman, but what is your caste and what is your class? Data shows, anecdotes show, that in Dalit communities in India, women participate in the labor force. There hasn't been a time when they have not participated in the labor force, even today. It is working through centuries. They had to work, and I mean productive work plus reproductive work.
+
+The question here is that then, if you came in this country, the Global South, especially India, astrologers from India, with that lens that women are always behind the four walls, right, and men are outside working, it is only taking care of a certain part of the population. It needed to have a certain kind of a castle, colony, as well as a plus colouring. So that can't happen. So, how do we study gender relations here? That's the question that's been asked.
+
+And where this goes is, if today you go to a construction site in Hyderabad—don't go anywhere else in Hyderabad, the big constructions that are happening—you find there are men and women. Was it in your mother's talk about? So, there are these two classes of workers in a construction. So, we have discussed this last year. We have discussed this, right?
+
+So, in that sense, the women will always get lesser. So, this is what is known as conjugated oppression. Conjugated oppression means where surplus generation or oppression for surplus generation in a capitalist economy is not the only thing, but there is also an oppression done by patriarchy. Two of them would have to work together to create this idea that a woman working in the same place as that of a woman laboring in the same sector gets lesser than that, no matter doing the same work. This is called conjugate operation, when capitalism itself and the atheity are working together.
+
+And thus, the other question here is that gets asked: we're talking about global—did we talk about global trade also? No, I don't think so. So, in global trade, if you think about it, how did China develop? China is a very developed country now. It's said to be the next-generation imperial power almost, today's time. How did China develop? I'm not sure about, but I feel like this is what I've heard. This is the story I've heard: it just became more capitalistic. It opened up its markets to other countries to invest in. It opened up trade with other countries, and it itself, in its own internal model, allowed there to be companies that are profit-making, and thus, all of that led to just making more money and thus becoming richer.
+
+Extremist policies and extremist policies and opium trading. And opium trading, yes, and I'll go more broader and say that there are the people who get into acceptance higher than any other people. Flexibility, let's say. So people in terms of their social status and, let's say, the workers, they adapt really quickly.
+
+And so we're talking about the post-2010s sort of growth that they've had, right? Or like two post-2000s. About history, I'm talking about the 1970s and onwards, maybe 1948 and onwards at India. Okay, before Mao, what did you say? I forgot. Just like they opened up the markets, they became more capitalistic. But my question is: we have opened up floodgates.
+
+The India Gate and the Gateway of India has been opened up for investment to come to India. It doesn't come here. Why? It comes there, not here? Labour costs are much lower over there. Really? Labour costs are much lower? Okay. Are they higher? I might be wrong about that much. No, no, you don't need to. I will stick to my flexibility theory that they very quickly offered a solution that others won't put on the market without taking choice.
+
+What is that they did? What are you talking about with flexibility? The last thing that happens is, there's a beautiful book called Fanshen. You should read it. It's called Fanshen, a book about the Chinese Revolution and Maoist cultural revolution. The other experimentation that is happening is business as a culture. It is a culture. Entrepreneurship is a culture, and this is state-led entrepreneurship.
+
+So they start something called TVE, Town and Village Enterprises. This is the modern-day tinkering labs. What do you call tinkering labs? So, where you'll go, you know, a 3D printer—you can use that 3D printer. It's commons. So, this room full of technology, or if it's, let's say, a jam room for musicians, the musical instruments are there. We come there, we play, we go. A close phase.
+
+And the first thing that they started in this TVE is skilling. They're skilling at that level, and any child could just go inside and learn a new skill. Now the question that happens is, when you are saying that it's less rates, yes, the rates were much lesser earlier. Now they charge much more than the Indian minimum wage because that kind of skill is not possible. That finesse is not possible in any other country. That's why it's all there.
+
+But the question here is, how did they become so industrialized? They couldn't—they didn't have money to set up factories there. They shifted production. They divided it across villages and areas, and in each household, somebody was producing something. Somebody was producing the strap. Somebody was just producing this knob here, which is getting kicked. And it became so much about this enterprise household—the household as an enterprise.
+
+Today there are households in China which can literally produce an entire watch. And there is common tinkering glass in each village. I am not talking about the entire object, but there are certain locations these happened.
+
+What it means is, in the context of the global commodity chain—which means that the iPhone is produced in 52 countries—or the other way to say it is, labourers from 52 countries contribute to the production of an iPhone. In the case of China, the entire reproductive circuit was opened up to the world market. And that really happens in India as well.
+
+A great example of this is COVID-19. It's a bit abstract, but it's okay. We can be a bit abstract. What does the word work from home mean in the context of COVID-19? What does the word work from home mean?
+
+Yes. So it just means that you're working from a place where you're not going to socialize. You're working from a place where you're not going to be physically socializing. You're not physically socializing. Are you organizing? You're socializing with only a limited number of people or the same people.
+
+What else is work from home?
+
+Yes. You're not obligated to show up as a collective to a spot and work. You're not obligated to show up at a collective spot. Basically, the shop floor is closed, so it's happening.
+
+What else does it mean?
+
+Whatever you want to comment on.
+
+A bunch of companies made their offices smaller.
+
+Yeah. Right. What else?
+
+We are applying our skills from home itself. There it was a particular birthplace, like everybody wanted to.
+
+So, I think I can relate it to this China model because, like, every household is producing something new. So, in this case also, every person in different households is contributing into a bigger project which is being used by some other company or something.
+
+The main thing is that it, for the first time, operationalized in India for a certain class of people. Again, it is always there. In a place like Shantiniketan and Tiruppur and Tamil Nadu, household-level enterprise is there. But a certain class of people is, first-hand, with the household and the production space collapsed. The reproductive and the productive space just collapses into each other, and now the place where a woman is supposed to care is also the place in which a woman is supposed to work.
+
+COVID-19 meant a disease, a pandemic. The requirement of care, I'm sure, tripled or quadrupled. So many people falling sick. But take care of the older people, because if they get this disease, they might just pass off.
+
+In this situation, in that space itself, you have brought in work. You just collapse the stop space. In its own way, it's not an experimentation, most of them. The idea here is the household itself also can be a productive space, which also means that reproductive labour gets more devalued.
+
+A mother on a call couldn't say, “Well, my child has been crying for a long time. I should go and check.” They were crying with somebody. I'm sure the father was there, or let's say somebody was there, but she couldn't move because she was on a call at that point in time. These were excuses.
+
+Okay. The other interesting part is, just think about schoolchildren. Were you all in school when COVID happened? Which class? Eight. Not that small. I was just wondering when I was seeing this Keegel class 2 and 3 or 1, and they were sitting in front of the laptop and they were supposed to wear a uniform. Does anyone have a brother or sister over in class 2–3? Okay.
+
+I was thinking, what is this synthetic idea of efficiency? The child doesn't want to sit straight in home. He doesn't know that home is a safe space for the child, right? That person wants to fall there. That's where people say that it's good that he fell here in the home. What would have happened if he fell outside? Or things like that? It's the same sort of thing.
+
+Suddenly, you bring in regimentalization, you bring in uniforms, as if that's the practice. In many ways, caregivers, as well as people who demand care, are all being brought into this idea of being productive. And the other thing is, why should there be any factories anymore? Sorry, rather, these kinds of Deloitte and other companies, if they can work from home. Industria again had to call everybody back to offices. A year back, all the work from home ended. Not a year back, I don't come feels bad. Till then, still, it was 30%, 40%; everything was stopped. And they again had to come back. I don't know why. I don't have the reason, but I just know that people had to go back up to the home.
+
+I think the question there was, they understood that people are not working enough. They are in go out as well, chilling and doing their work, so just bring them back to the office. I think that's the idea.
+
+The other important question that I have related to this is that when you read that Mesa 3 essay, I've uploaded that essay, all right? There's a statement that she makes: “It deepens social improvement theory, deepens labour control far beyond work time.” So the way a labourer would behave or think about life is actually controlled even beyond the working class.
+
+One very simple example is what we are talking about: the work-from-home kind of situation. In a work-from-home situation, and that's why today, if you see a lot of people, their bosses will call them on a Saturday and just say that—and these are violent videos that are there on YouTube and all—and see that this is a work.
+
+Sunday morning, this guy calls another guy and he's like, “Where are you, Prashant?” And Prashant is like, “I'm on my way to Lorambala.” He's like, “Just stop your car or something, just stand in a cafe and get this work done. It's just going to take 3 h.” And Prashan finally loses it, gives three slants in Hindi and Marathi, and then Prashan goes off in his lie to Gunabala and says, “I quit.”
+
+I'll say these are all stories. Stories in which really inspirational stories. But the question here is that there is a labour control that's beyond this idea.
+
+There's a guy called Jan Brevin, who's a labour sociologist, who has studied labour for the last 35 years in India, and he states that in Surat—this field was Surat. Doesn't anybody of Surat here? I've lived there for two years. Did you like living in Surat? Yeah. Good. No, he doesn't say very bad things about Surat, don't worry, Jan.
+
+So Jan says that in Surat, a lot of industries were coming up. It's a very industrial town. A lot of people were coming in to work there as migrant labours. Very interestingly, what Yan is robotic is, it's just not about where they will work that there's a control. The control was, where will you live? What kind of food will be cooked in that case or served in that sense?
+
+This is called the dormitory labor regime, in which your productive activity beyond the productive activity will lie. Life is also very much controlled by the subcontractor. And you have to imagine the fact that when I am talking about migrant labor traveling, they are sometimes travelling with families. It's not always, but 50% time they travel with families, 50%. They don't have an underground.
+
+So let's say that there's a child playing in a construction site. First of all, it's dangerous; something might fall, but that's a different thing. The child might be asked, “Why don't we help you at that? I'll give you a chocolate.” The child, the small child of ten years old, will carry two bricks in his hand and go 6th floor, keep it there, and come down. Their family is being controlled in this process. And construction is one of the biggest side places for this.
+
+The other important part is if you think about the migration in Punjab that happens from Bihar specifically for agricultural work, right? Over there, people don't hire an individual; people hire families. The entire family is hired as agricultural work. And it's interesting that certain districts of Punjab are mapped onto certain districts of Bihar and Jharkhand. So, feudal lords, landlords, big farmers of this place who travel there bring laborers with them. They'll stay there. In many ways, what's happening is that again, the productive sphere and the people who control the productive sphere are also entering the reproductive space. That's why he's saying deepening labor control far beyond the work time.
+
+The other very important part of it is—I don't know whether you remember—how many of you remember the case of Kolhapuri chappal? What was the case? They were made by artisans and craftsmen, like under a hundred rupees or something, and then there was a brand who launched a brand. Do you remember the brand? Yes. So they launched Kolhapuri chappals as their own patented thing, and then everybody revolted or something, and then Prada recognized, okay, these are from India, and we are just reproducing it like this.
+
+By the way, the Kolhapuri chappal in itself is produced again by a marginalized community at the level of the homes. They don't have factories. Except for that one, even the Kolhapuri chappal centers—we have all, at least in Kolhapur, there are a lot of chappal centers where you sell exactly Kolhapuri chappals and other things. But even, I'm sure, they were outsourcing it to homes. The entire footwear industry in India, except for the big ones, comes from people's homes. Shoes are made in people's homes, and then they enter the market.
+
+The question here is that the reproductive sphere in itself, what Arshi was saying, was very much coming from the reproductive sphere, right? But it links to the global market. If you think about Bangladesh as a place which produces the highest number of international brands, textile brands—Nike, Gap, Tommy Hilfiger, I might mispronounce one of them, it's fine for me, or Adidas—all these things, right? If you think about the conditions of work where people are working 20 hours a day and sleep for 4 hours, they don't have a reproductive sphere anymore. That is the productive sphere. That is the reproductive sphere.
+
+In a very interesting book called Souls of Kaliur, which I'm just reading, it's about people who work in the outskirts of Delhi in metal factories. There's a lot of metal factories outside Delhi in those places. Somebody is just describing it as that while working, somebody just fell asleep. Work starts at nine in the night and it ends in the morning, eight-ish—12 hours on duty. Again, the nine shift will start till the 8th, 1 hour of the interview, right? Now all these people are entering the workplace. These men, they're all drunk. Because when will they have their drink? They work all throughout the night. And now, when the work is happening, they are falling asleep. And that is where this author goes on to say that sleep in itself, which is somebody's right, has been captured in the productive realm.
+
+By the way, what were they doing in the daytime? What do you think they were doing? Because I'm sure a lot of people might be thinking they were still working.
+
+I met somebody in Biagar last year. Around 65 years, he used to work as a night-shift guard in this hotel, okay. I asked, okay, when does your duty start? He said, around nine-ish. Hence, I go home at seven-ish, okay. I said, what do you do in the day? He said that I'm a barber by the day. So, his barber shop work that he does starts from around that exact hour, eight-ish. Seven-ish he goes; by eight, he's there in the shop. This morning crowd will come. Throughout the day, he's there. In the afternoon, he takes a nap. Again, he comes to bed.
+
+And it's interesting that I know him because anybody he sees smoking on the road at any time in the night, he'll ask for a cigarette. And I was thinking, what is his way? Why is he asking? Because he told me that this is the only guy I can stay awake. And he doesn't have money to wise. He's saving up on that money, and he was working through.
+
+So, in an interesting way, reproductive—when we think about social reproduction, it doesn't capture reproductive labor; it captures everything to do with care of yourself, also. If you want to say that I want to unwind, right, I am facing a burnout. You are facing a burnout because that work entered your reproductive time, space, sphere. That's why people feel burnout. Otherwise, they're more easily of a burnout because it doesn't work. You could never unwind, you couldn't do the things that you wanted to, you couldn't do rest, take rests, right.
+
+An interesting example from Triple ID is, uh, just before your class, last day before yesterday, we had a class, right?
+
+A person comes to me and says that, you know, I have a very difficult time.
+
+About—I want to discuss something that's a difficulty for me. And I said, what's the issue? I thought she was having a problem with the teaching and everything. She said, no, the problem is that I have exams, four exams in the same day. She has four papers only this semester. All her midsem papers are on the same day. What does it mean? It's insane.
+
+And I just told you a simple thing: that you see all the faculties who are taking the exams, the lean academics, and just write a letter that this cannot happen, and I will just—second, you will see the discriminant. At least, at least, if you people can't adjust, let me adjust and take a re-examination for her.
+
+What is happening here is that because she has to give those four exams in a day, if she has to do that, it means that she will not sleep for the last 48 hours, I'm for sure. You don't sleep anyways before examination. In these four exams, in two days she's not going to sleep.
+
+Your productive sphere has literally—or the production, or the production here means the want for efficiency, productivity. Tomorrow, you would be working in big Deloittes, earning a lot of money and samples. All those dreams and aspirations today take care of your reproduction, reproductive space, where you cannot even self-reproduce anymore.
+
+Do you have any questions? Last point, and then we'll talk about something else that Abdullah wanted to hear from two days.
+
+Do you have any questions?
+
+Two things. The first was that when you talk about creative, the examples Islam gave at that time was this steel factory, and you said that if you automate everything, people don't get to be creative. There are some sectors which don't like—it's tedious to have creativity. If you are employed for making a one-by-one-by-two steel, and if you vary the thickness of your gaming creates, it's—it's unwind to end up.
+
+The other thing was about the specific thing you said about China and diversifying their production. No, I think I heard about an incident. What happened was that the government wanted more steel to be produced, so they told everyone to make steel in their homes, and they made really bad steel, and then it just went to waste and affected—so, doing that, does it really work for every industry?
+
+No, it doesn't work for every industry. And the idea here is that it doesn't need to work for every. So, for example, I'll just think about it. Let's say that example, the steel question that you are saying here, or some other sector in which it will be very hazardous to either take the work home—very hazardous, people may just die because there is no protection—or the fact that the home might not have that kind of a means of production, that large-scale kind of thing that is required.
+
+At least the home can produce something much more sport, which is required as an ancillary. For example, if you think about the textile industry in Kamil Nad, in a space called Devur, a lot of these things that you see, these are blinders there, but curtains, right? Curtains are generally protected in huge racks. Like, it's just like 100 meters of cotton would be together, then they're cut, okay. That kind of situation. But the round rings that you have in the—that actually can be produced within a home.
+
+It's not that finesse a work, it's sheep steel, it's not even steel, it's some other kind of thing, it's a refuge of the steel industry. So, again, it is a very small part that is getting transferred there. Packaging, right? Industry, do you know what's a beauty? Imanchi, do you know what's a beauty? It's a substitute for cigarettes. People who cannot afford cigarettes, they have video. Okay, that entire industry is a social reproductive industry. There's no factories for video; it happens in home. It's at least 12,000 crores. Last I checked it, this was like seven years back; its valuation was 12,000 crores. Then, that we industrial India, I'm sure it has increased.
+
+So, you are not supposed to put everything out. Put out everything to the first sphere, but wherever you can, do it because it saves costs. That's the idea.
+
+But does anybody have any question?
+
+So, like, where exactly do we draw the line? Of replacing this in the—like, replacing the automation, but not related to the social reduction, right? Why do you draw the line?
+
+Why do you need a line? So, what you're saying, everything should be automated? Everything will be automated whether we want it or not.
+
+It would be pretty strange if I, as an agent in an LLM universe, teach you all as an LLM as an agent in this universe. I don't know what does that mean, yeah. I mean, we basically attacked the—that is a possibility, yeah.
+
+At the end of the day, everybody is sitting in a room. In this room can be comfortable. No, now there's two things. One is science fiction, where everything is possible, right?
+
+Interestingly, the best science fiction actually talks about how everything was not allowed to go that far. How there were people who fought against it. The best of science fiction actually does that, right? They give resistance at the heart of it, like the entire Pools Rolling Gwen Carol series, or if you think about Star Wars, for example. At the heart of it is that, yes, everything could have been like this, but some people said, “No, it can't go like this.”
+
+But I do believe that this time it can go that far. For example, there's this one thing. Do you remember there's this movie that came out? It had Leonardo DiCaprio, it had Meryl Streep as the President of the United States, and it had this fantastic actress, Jennifer Lawrence. What's it called? The one with the asteroid.
+
+The one with the asteroid, yes. And there's this Apple CEO who wanted—“Don't Look Up.”
+
+Huh?
+
+“Don't Look Up.”
+
+It was “Don't Look Up,” yes.
+
+“Don't Look Up,” yes. You should see that.
+
+So that's basically, again, the tech-bro kind of situation in which people are saying, “Let the asteroid come near us. We'll break the asteroid and take all the minerals out of it, and we'll be rich.” And it really hit the Earth, and the Earth got decimated.
+
+Okay, so the question here is that everything can go that way. What we are trying to do here is to understand the system as it is. The second part of the question is what it should be. That's Shaurya's question.
+
+Never do the lightning outside the logic. Cars are replacing—yeah, a lot of people did. A lot of people, even today. I know a friend in Hyderabad who works in a big company. He continuously keeps on writing about how public transport is being just taken out of the city.
+
+No, but then my context, or what I'm referring to, is a different puzzle. When a car came out as an innovation, why didn't people say, “Oh, this is going to replace the same thing”? With mobile phones, let's say mobile phones came in, it's literally killing the whole mailing system, I guess?
+
+In India, they are fundamentally different. An LLM is more about replacing the way you think, who you are, everything. I think recently we had an assignment in a course called AD, where there's a good chance that the professor used AI to make the assignment. To solve it, the thing is, we are also supposed to grade our peers for it. So I'm sure all of us use LLMs there. And it is really just the whole process of education there, which is an LLM feeding into an LLM.
+
+So, exactly, this is what I was talking about: me as an LLM engine teaching the LLM agents out there, then evaluating by LMEG. So you can just go around that.
+
+The question is, fundamentally, what happened in this world? I think you should read specifically about the question of computing in India and how much protest happened, or what kind of computing there should be in India. There are a lot of protests that happened. A new technology comes in; some of it is celebrated, some of it is debated.
+
+What is more debated? Right, what mostly is more debated is when the intention of the producer is in question. Here, elements are being debated so much because it's not held by nation-states. It still could have been debated, but less. It is being debated because it's not in the hands of you people to tinker with the big models, right? It's in the hands of the people who have questionable reputations.
+
+And the other thing, when I say questionable reputation, is not that they are sinister things, because they have to give back to their investors. That's the problem. Who literally, like in The Merchant of Venice, will take a pound of flesh. That money is the problem. Where so much of the question is coming in, that is where the intentions are in question.
+
+The other thing he said is that I was not, as a teacher, when I was doing my PhD, brought into this game telling me this is a new situation. But I am in this game today. The question is, how should I react?
+
+The same question can be asked as an upper-caste person in this country. Somebody might go on to say, “So what? Let the Dalits be there. They have a work to do there. Why should you solve it? Why should you think about it? It's going back. Let it go bad as well.”
+
+The question is: what is the intention of this stratification? What is the intention behind this technology? That's being questioned.
+
+But fundamentally, for this class, it's an understanding question. I don't think there's anything more than that.
+
+Sir, can we say that LLMs are being questioned so much because this time it is us who is getting access to it?
+
+Absolutely. It's about a certain privileged class getting hit. It's about scientists and mathematicians who sit in Yale and Oxford, who are trepidatious. There's so much trepidation there. That's why you're hearing about this. Otherwise, you wouldn't have heard about this at all.
+
+For example, when people get replaced in the factory, let's say one group of people gets replaced because they ask for a better wage. What comes in the newspaper? Nothing comes in the newspaper. You get replaced by some other people who are working for a lesser amount of money.
+
+Here, the question is: suddenly, a certain privileged class of people are like, "What's going to happen?" Sure, in ten years' time, there are serious questions about total IDs' existence. Like, if you can't give a job to at least 80% of the people who are going out from here, whatever the job is—and a dignified job, obviously, because they're paying so much in fees, right? How does the institute exist? I don't know.
+
+And then again, it's connected to the economy, it's connected to the US markets, it's connected to what's happening at the US job market. That will have a trickle-down effect in the Indian software industry, then it will have a trickle-down. So, in ten years, I have my job for the next ten years for sure. After that, I don't know what's going to happen to this mini spray.
+
+Shall I have a question about drawing the line? The only question that today I have, ma, as in I am having even for not this n what equation got solved. People still in this country, this just for fun's sake, because 8–10, I don't want to study and teach you anymore, that's why I'm saying this. People today, still being so much of rationalized, with so much of class privilege, education, still cry after a heartbreak. Okay? So, I really don't care if the equation got solved or not. In my life, in our lives, it really doesn't matter on an everyday basis.
+
+But what matters when we say about drawing the line is that we are right now having a 1.5-degree increase of global temperatures in the next two years, which means the Sundarbans, which is in my state, is going to be below the water, which means parts of fisheries in Bombay are going to be under the water, inundated in water.
+
+I am really concerned because all these LLM companies actually are one of the major reasons today for the carbon footprints that are being added. At least stop that. Let the tinkering continue, have fun with LLMs and agents. But this is bringing in destruction to people who didn't even sign up for this, right? There are people who have not still signed up for having ChatGPT on their phones. So, it's their lives that are getting affected right now. So, that's the question. I said, draw the line there at least right now. And it's serious business right now; that is 1.5 degrees sitting there.
+
+About the rest of the automation, isn't the idea, isn't the whole idea like that? Of course, things will be automated, and let them be automated. In the end, from the revenue, some part of that will go to everyone. So, in the case that everything is automated, then people get to live, and then the social sphere takes over the complete life, and they don't have to work anymore.
+
+Of course, that's hard to imagine because the government will then have no incentive to pay them above their survival—not bare survival. They'll get food and raffle tickets for healthcare and education. Otherwise, everything is automated, equivalent to not working. Then people will do their creative endeavor, I think.
+
+So, a new world comes up. That's fine, but the thing is that they are not incentivized to give you that much money. What is the series called in which the fungi take over the world?
+
+The Last of Us, of course. Have you seen The Last of Us? So, in that sense, I know it's not a great correlation, but when it enters the realm that you don't have a right to work anymore, today at least the idea here is that everybody should have a right to work anymore. That quota of survival that you will be getting as food will keep on decreasing.
+
+In that sense, one of the examples I can give you is in the slave economy, nobody had the right to work; you were forced to work. So, the debate that started in Southern America is: what is better? Do we let the slaves have sexual intercourse here and have babies here and rear them up? So, there will be a reproductive cost to that, right, in the fields? Or should we bump them off, kill them off by working, making them work for seven days a week, and get new slaves from Africa, which is cost-effective?
+
+This discussion, for me, is very much a part of a completely automated world, where rights are—how do you protect rights? And for that, I'm sure that is possible. But then the first discussion needs to happen: what is a society, who holds power, and how do you make the people in power accountable?
+
+That utopia is possible. Okay, there's a fantastic person called Aaron Bastani, and he writes about this automated utopia in a socialist state. So, there are people who believe that. That's great, so that's there, but it's not feasible as of now. Okay, I think we are done, right?
+
+People, so Sa Abdullah asked me about something and has been asking for a few days, right? So I will speak to him about it. He wanted to ask me about the partition issue of my family. He said that you said something. At some point in time, would you like to share something?
+
+People who want to leave before that, you can leave. Your attendance is taken. That's fine. You can skip this part. It's not a class. I just want to have a discussion with him. That's why I missed that. Guys who want to leave, leave. It's not a regimented class; it's fine if you leave.
+
+Okay, so what was your question? Can you repeat the question?
+
+No, I remember you remarked that your family had a telecount figure, but, yeah, a difficult issue with the partition, yeah. But this is just my father's side of the family, so my mother's side is from here also. But this was 1952, so India had already got its independence in '47. But the borders were still open. The borders were still open until, I think, '57 or something like that. People could really cross here and there. So the idea was that people could even go and visit their relatives, right?
+
+But the situation is that nobody travelled. Nobody really moved in and out because it was very dangerous. There were dacoits on the border spaces, people were getting killed, women were raped, and all those things.
+
+So my father is a 1953 or '54 born. So he was in his mother's womb when they were crossing the border. So that's very interesting, that the border crossing was very safe, but 270 kilometers from there, as in the Danavadi side, and here 150 kilometers inside, they reached a certain place. These two were very unsafe spaces, right?
+
+And it's interesting in the story how they keep on reiterating the idea of jackals and wolves. That has intrigued me. So if I were to actually shoot something or even draw something about partition, I would say, why are they talking about so many wild animals? It looks like in the Wild Wild West. There were snakes, there were jackals there, and there were wolves there.
+
+And I soon realized that, to be very honest, the mothers of the children really didn't see any jackals and wolves in this area. They were referring to other men. But they couldn't say this to the children. So they literally told a lie that there were wild animals there. This is something that I realize, because it's impossible that in Bengal, if you talk, everybody will say that there were jackals, and those areas don't have jackals in them. And if there are foxes, they're not that dangerous. If a fox is actually like a small dog, if you hit it with a rock, it will fall.
+
+So this is something that I very strongly remember from the stories that I have heard. The other thing that's very interesting is that these people who travelled from Bangladesh are known as Bangal, okay? And the people who are from this part of the country, they are known as Bhati. So, in this case, I am a Bhati. My baba is a Bangal and my mother is a Bhati, so it means Bhati. Also, Bhati here also means a container. In that sense, so I'm containing a couple of kinds of things together.
+
+So these Bangals have a very interesting thing: they have a very bad reputation. They are very moody people, right? They are very angry; they get angry very fast, right? They are very rude. So all the negative emotions are very much attached to this entire travel. And the Bhati people generally don't like this. I don't know why my grandmother got her daughter married to one, but that's the case.
+
+Now, the situation here is that all these things are actually true. I see a lot of anger in this crowd, especially when I remember the people with just the generation after the crossing and that older generation. They were very angry people, right? And I really understand their anger. It's a generational trauma that has just gone there and has just stayed there in that realm, right? And they're immensely insecure people, also.
+
+The second generation is in Singapore. That generation, I don't know about that. Even this generation, some of them are living today, are very insecure as people. They're always like something.
+
+So that's interesting, that when you see the contemporary context around SIR, you know what SIR is? So we are evaluating our voter list, okay? So if you are found to be not worthy, or you don't have documents to have said vote, you are not eligible to vote. Then, if you can't prove where your father was born by your father's matriculation certificate, you are not a citizen of this country. You would not have a voter ID, even though you have a passport, right? Even though you have studied, you're born here, you have a birth certificate in this country, your voting rights are being questioned.
+
+Around 4,000,000 people have lost their voting rights in this state in the last one month.
+
+In Delhi, every one out of three people doesn't have a voting bed today, as it stands. So in this situation, it's very interesting that the person who was most worried was my father and all these people, this first-generation Miguel. It was almost like they were through user. Even though he has worked in government service throughout his life, he has a matriculation certificate, he has a birth certificate, he has property here, he has a passport here. But they were the most scared people when this SIS started.
+
+So I just see these things as being that long-drawn partition that has happened, that has stayed some way in this space and memories and other things. I guess, yeah, I think the other interesting point—and this is something that I'm writing about, but I have not yet published this—is it's interesting that when the migrants entered from Bangladesh, it's a continuous border, right? Around 3,000 kilometers that we have with Bangladesh. So the entire border makes across the border. Everybody was entering from different points in that.
+
+A lot of people entered the northern part of Bengal, that's Vishnuabad, Bhawarumpur area, that area. A lot of people might have entered the southern part of Umbli area, right? And most of them wanted to come to Calcutta, nearby Calcutta, because the job opportunities were there. And these people don't have a—so, they have to work in the industrial capital, urban capital.
+
+So, in one of the travels that you see with these migrants around '53, they try to enter Kolkata. There are massive riots in Calcutta between migrant populations. They were fighting for space. So the southern part of Kolkata, I have a group of respondents who were not let to even enter that space. Beaten up, nobody's killed, but they are beaten up and thrown out.
+
+And it's interesting that people belonging to only the upper caste and having a certain kind of money could directly enter Goldara. Everybody else is—some went somewhere else. So my family went to somewhere in the Malda region, then they come to Mofosal, which is basically outside Kodak. It's just outside Kotka; there are some spaces. And then they enter Calcutta.
+
+My father enters Calcutta for the first time in the 1973 school. The first person from the family was able to set foot on Catalan Calvin. He used to come and go. The first person who started living in California was my—and I think my elder aunt, who got married into bankruptcy. I think these are the two people I could learn.
+
+So, I think that's also the interest in the Michael Spycho: where the resources are at. So, like, based on what, from the regions they came from? No, no, no, no, it's just that we can't accommodate more people in this neighbourhood. So, like, close the door behind it—the door. Yeah, absolutely, close the door.
+
+And there is no space to live when you—they won't even let you live on the streets because at the heart of it there will be a resource crunch. The government will see you and will have to try to provide for you as well, so their rations will go down if there's more mouths to feed. That's why it's happened.
+
+The other thing was, what triggered migrants crossing the border? Because I remember, of course, in '47 it happened, and then there were riots in '62 that led to migration. So why did your family specifically— I think it's just, I was telling you, they were becoming very uneasy with this entire idea of being a Hindu in that country. I think it's just the unease. And you can also say that directly something happened. Yeah, directly what happened was that people were directly telling them, “Just go and leave. You're not safe and secure here. Please leave.” Even the Muslim neighbors were telling them, “Please leave. It's not a safe space.”
+
+If you see Mehava Sanga, has anybody seen Meyvapa Sanga? The movie? Has anybody else seen Meyvapa Sanga? A Greek movie to watch. I didn't like the entire movie, but there is a very interesting thing where they say that the people who write it came from Mars. So, Nasirabdin Shah keeps on saying that the people who were writers actually came from the other planet, Mars. “Because my neighbors couldn't have killed me, right? They were my neighbors, they were my friends. They never killed me. It's the Martians who came here and killed me.”
+
+It's a very interesting way to think about that. So I always—that's a very similar story that people were saying: “Move out.” And they moved out also. The other thing is that there was a call from this side also that this is a much more safer environment. Because half of the family had moved, right, before my father's father moved. Some people just moved during '47 itself. There's also this call that, you know, this is a country that we should come and settle, and also when you think about opportunity, the fifties means it's the heyday of Nehruvian socialism.
+
+It's a land of aspiration also that's pulling people. Interestingly, when Bangladesh gets formed, a lot of people come back from Bangladesh, you know that.
+
+There's another interesting story: when Bangladesh gets formed, the religion—it's not a religion question, it's a language question. Bangla gets adopted. That's the fight, really. A lot of Hindi-speaking minorities move into the city of Calcutta, leaving the country. It's weird.
+
+So these things have been keeping on happening, and it's undocumented. A lot of people in my locality and the nearby areas are migrants from post-'71. They're all minorities, and they came back because of the language issue. They spoke Hindi.
+
+I don't think that. I heard that there were a lot of people that went from Bihar to East Pakistani.
+
+Exactly, and they come back and they don't go back to Bihar; they settle in Kolkata. That's the interesting part of it. A lot of them are there also. There are a lot of refugee colonies in Bangladesh for Urdu speakers because they supported the Pakistani and were not taken back to Pakistan, so they stayed in Monday.
+
+Are they the same people? Are these the same group of people?
+
+Isha, actually, you'll have Isha's class, right? Make sure to tell us, Isha, about exactly this community that you're talking about. She works on them. They're called—I forgot the name of that community. It's a certain kind of—it's not a slang, but it's a community name that they have in Bangladesh, specifically this community, who speaks, who do, and they actually support talks and works happening with them. And they had their own newspapers, which have gone out of print, so there's a lot of things that are there with this country. I don't know much about them.
+
+And the other thing, or the thing is said about the people that give the name they came from, do you think that relates to this non-acceptance that human beings can be evil and cruel, and we're just saying that, okay, I'm not going to accept that because the people lie over time?
+
+When you really—it's the same.
+
+Yeah. You create a narrative. There are two ways to deal with it, I think. One is that you create a narrative that all those people were bad. That's one way. Or the other way to imagine is that they were not people at all. So, e.g., in our religious scriptures, if you see, there's a way in which they say that it's not a human being. Shaitan are—the idea of the shaitan itself, shaitan itself, is a being, the demon itself. Right? The demon itself is reincarnated. Humans can't do that.
+
+And I think that is the way people deal with it. Either this group of people are the worst people, I'm going to hate them throughout my life. They are like this, all of them. Or the other way to say they were not humans.
+
+Districts. How do you otherwise—how do they cope with this idea of violence? What do they do in this?
+
+And one other thing was that with the partition with Pakistan on the west, I have heard that it was correlated with caste, in the sense that the people who were richer had the ability to go across the border, and the lower-caste people had to stay behind. Was that you and, from your situation?
+
+In Bangladesh, it's interesting that you say that they say that there's a lot of people who were sort of Bengal. The Hindus were the feudal lords there, that's what's said, and the minority was working as the labourers. That's actually not true. That's absolutely false kind of a thing.
+
+Yes, a lot of Hindu feudal lords had their Zamindari on the Bangladesh side, but there were also Muslim feudal lords there. It is much more, I'll say, a heterogeneous space, right? But over there, it's not really about Bengal. It is a very different kind of a story than Punjab.
+
+Yeah, that's it. That's it.
+
+In Bengal, people just ran away. A lot of rich people even ran away. But the advantage that they get is that if they bring in gold and some money, they get to live in California and enter Calcutta, which was not possible for a lot of people who didn't have that.
+
+What's interesting is that my grandfather very easily gets a job in a school as an English teacher because he was a lecturer in Dhaka University at that point in time. They used to only teach; there was no research and such. They used to teach there. So, in India, when he comes, he at least gets a teaching job, right? That's a privilege of caste and also class in the form of that certificate of Dhaka University.
+
+A lot of people who didn't have that kind of education, I don't know how the mobility would have happened for that company.
+
+I think we'll stop for today. We can still talk; I'll be around, but yeah.
+
+So we—okay. No, I'm not Saxon now, don't worry. I don't know how to select anybody else. Okay, I don't know, Java Superman said. Can we go so that how the
