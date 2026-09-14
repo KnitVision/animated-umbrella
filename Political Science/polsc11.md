@@ -17,390 +17,220 @@ aliases:
 # Ideology: ideas, functions, and social control
 
 > [!summary]
-> An **ideology** is a connected body of ideas that interprets political and social life, expresses values, proposes goals, and guides action. Ideologies help people make sense of the world, shape institutions and policy, bind groups together, and mobilize collective action. They may also support social control by making unequal arrangements appear natural or legitimate. Ideology influences conduct, but it does not mechanically determine what every person thinks or does.
+> An ideology connects ideas about how society works, what matters, and what should be done. It helps people explain politics, choose goals, form groups, and act together. The same power can discipline a group and protect an unequal order. Ideology shapes judgment, but people still argue with it, mix traditions, and change their minds.
 
 > [!info] Sources
-> The main sequence comes from Lecture 11. **[Book: Heywood]** marks material checked against Andrew Heywood's *Political Theory: An Introduction*, 3rd ed., especially the Introduction and the discussion of ideological hegemony on pp. 145-147.
+> This note reconstructs Lecture 11. Passages marked **[Book: Heywood]** draw on Andrew Heywood's *Political Theory: An Introduction*, 3rd ed., especially the Introduction and pp. 145-147 on ideological hegemony.
 
 ## From conscience to ideology
 
-Lecture 10 asks whether conscience can resist an unjust state. Lecture 11 complicates that question: the ideas through which people judge right and wrong are themselves shaped by social life.
+[[polsc10|Lecture 10]] placed conscience against unjust authority. This lecture makes the problem messier. Conscience is personal, but it is not formed in private. Families, schools, religions, political groups, media, and states all supply ideas about what is normal and right.
 
-People acquire beliefs through:
+People also identify with others who share those ideas. A belief becomes part of a group identity, and disagreement starts to mark the boundary between "us" and "them." Ideology names the larger pattern that joins such beliefs together.
 
-- Families and moral education
-- Schools and universities
-- Religions and cultural traditions
-- Social groups and political movements
-- States, laws, and public institutions
-- Media and technological systems
-- Personal experience and reflection
+## What counts as an ideology?
 
-These sources do not produce identical beliefs in everyone. They provide concepts, norms, identities, and explanations through which people interpret events.
+An idea is one belief or claim. Liberty is a concept. A theory connects claims to explain something. An ideology goes further by joining ideas, values, explanations, and political aims into a recognizable view of society.
 
-The connection to [[polsc10|Political Obligation, Conscience, and Civil Disobedience]] is direct. Conscience can challenge political authority, but ideology can shape what conscience recognizes as injustice in the first place.
+Liberalism, socialism, feminism, nationalism, and environmentalism count as ideologies because each speaks to several political questions. Each has something to say about present institutions, desirable change, and the means of achieving it.
 
-## Ideas, concepts, theories, and ideologies
-
-These terms overlap but should not be treated as synonyms.
-
-| Term | Meaning | Example |
-|---|---|---|
-| **Idea** | A thought, belief, value, or proposition | People should be free to criticize government |
-| **Concept** | A general category used to organize meaning | Liberty |
-| **Theory** | A connected explanation of how or why something occurs | Economic inequality shapes political influence |
-| **Ideology** | A structured body of ideas that interprets society and guides political action | Liberalism, socialism, feminism, nationalism |
-
-An isolated idea does not amount to an ideology. Ideology connects ideas to broader principles and usually has implications across more than one issue.
-
-For example, a libertarian commitment to individual liberty may influence views about markets, taxation, censorship, property, welfare, and state power. The ideas form a recognizable pattern because they derive from common principles.
+One detached belief is usually too thin. "All human beings matter" states a moral value. It becomes part of an ideology when it leads to a fuller account of rights, institutions, welfare, war, or citizenship.
 
 > [!important]
-> An ideology is not merely a label on a left-right scale. It is a connected account of the existing world, the values by which that world should be judged, and the action needed to preserve or change it.
+> An ideology links an account of the world to a view of what should be done about it.
 
-## Why ideological labels are difficult
+## Why labels mislead
 
-Terms such as **left**, **centre**, and **right** are relative to a political context. A policy described as centrist in one country or period may appear left-wing or right-wing in another.
+The class initially tries to place beliefs on a left, centre, and right scale. That scale is useful shorthand, but it travels badly. A centrist economic policy in one country may sit on the left in another. The location can also change over time.
 
-The scale also compresses distinct questions:
+The scale compresses too many disputes into one line. Someone may favour redistribution, oppose state censorship, support strict immigration rules, and demand stronger environmental regulation. One coordinate cannot explain that combination.
 
-- Economic ownership and redistribution
-- Personal liberty and moral regulation
-- National identity and immigration
-- Gender and family relations
-- Environmental protection
-- Centralization and local autonomy
+Ideologies also contain their own arguments. Liberalism includes classical liberal, welfare liberal, neoliberal, and libertarian positions. Feminists disagree about capitalism, family, law, sexuality, and the state. Calling a person "liberal" or "feminist" begins the analysis. It does not finish it.
 
-A person may draw from feminism on gender, liberalism on civil liberty, socialism on economic inequality, and environmentalism on development. Mixed commitments do not mean the person has no ideas. They show that lived political belief rarely fits a single pure category.
+Nor must a person accept one complete package. The lecture gives the example of drawing on feminism to understand gender, Marxism to understand class inequality, and liberalism to defend individual freedom. Most actual political belief is mixed in this way.
 
-### Ideologies have internal varieties
+## Three ways to study political ideas
 
-Labels also contain disagreement. Liberalism includes classical, modern, welfare, neoliberal, and libertarian strands. Socialism, feminism, nationalism, conservatism, and environmentalism are similarly diverse.
+The lecture moves through three levels. They are best understood as different questions rather than fixed stages.
 
-An ideology should therefore be studied through its concepts and arguments, not inferred from its name alone.
+### What is the idea?
 
-## Three levels for studying political ideas
+At the broadest level, political theory asks what concepts such as liberty, equality, justice, or authority mean. It also asks how political claims can be justified.
 
-The lecture identifies three levels of inquiry.
+**[Book: Heywood]** Heywood describes political theory as the analytical study of political ideas and doctrines. Its questions are often normative. Why should anyone obey the state? How should rewards be distributed? Where should individual liberty end?
 
-### 1. The nature of political ideas
+These are not questions that a survey or dataset can settle on its own. Before measuring justice, a researcher needs some account of what justice is.
 
-The first level asks broad philosophical questions:
+### How does a doctrine interpret it?
 
-- What is an idea or political concept?
-- What makes a belief political?
-- How are political values justified?
-- Can an idea be evaluated as true, false, right, or wrong?
-- How do history and language shape meaning?
+The next question concerns a specific concept or ideology. What does a libertarian mean by freedom? Why does a Marxist begin with class? Which forms of power concern feminists?
 
-**[Book: Heywood]** Political theory studies ideas and doctrines central to political thought. It asks normative questions about the ends and means of political action, including why people should obey the state, how rewards should be distributed, and where individual liberty should end.
+This work reconstructs the logic and history of a position. It also exposes disagreements hidden inside the label.
 
-This level is conceptual and normative. It does not begin by measuring a policy outcome. It clarifies what the policy is supposed to value.
+### What happens when it is applied?
 
-### 2. Specific concepts and ideologies
+The third question is empirical. How did a government translate an idea into law? Who gained from the policy? Did its results match its stated purpose?
 
-The second level examines particular ideas and the systems built around them:
+A study of Marxist economic policy in Vietnam belongs here. So does a study of whether digital municipal services reduced waiting time. Yet empirical work can push the researcher back toward theory. If faster government is the goal, why is speed valuable? When might slower deliberation produce a better decision?
 
-- What does liberty mean?
-- How do negative and positive liberty differ?
-- How do liberals, neoliberals, and libertarians interpret freedom?
-- Which concepts organize Marxism, feminism, or nationalism?
-- Where did an ideology develop, and what problem did it address?
+The levels feed into one another:
 
-At this level, the researcher reconstructs the internal logic of a doctrine. The task is not simply to announce that someone is a liberal or Marxist. It is to identify the meanings and connections that make the position coherent.
+`meaning of justice` → `principle of distribution` → `effect of a welfare policy`
 
-### 3. Application and consequences
+**[Book: Heywood]** Heywood separates political theory's analysis of ideas from empirical political theory, which uses explanatory claims to organize evidence. Political philosophy puts special weight on evaluating beliefs and clarifying concepts. In practice, good political analysis moves between all of them.
 
-The third level asks how ideas operate in practice:
+## Ideas join ends to means
 
-- Which policies follow from an ideological commitment?
-- How does an ideology shape institutions or technology?
-- Who benefits or loses when it is applied?
-- Do the observed results match the stated goals?
-- How do local conditions alter the doctrine?
+Calls for equality or progress sound clear until people ask how to achieve them. Ideology supplies an answer, and rival ideologies can point toward very different methods.
 
-This level is more empirical. A study might examine how Marxist economic policy affected Vietnam during a defined period or whether a digital reform actually made municipal services faster.
+The lecture compares Martin Luther King Jr. and Malcolm X. Both confronted racial domination, but they disagreed about nonviolence, integration, self-defence, and Black political independence. In India, Ambedkar put great weight on education, constitutional rights, representation, and law. The Dalit Panthers adopted a more militant politics shaped partly by Black radical movements.
 
-### Moving between levels
+These are not mere disagreements over technique. They rest on different readings of power and on different expectations about whether existing institutions can be reformed.
 
-The three levels are connected rather than sealed off.
+### Economic policy after independence
 
-`meaning of justice` → `a theory of just distribution` → `effects of a welfare policy`
+India faced poverty, food insecurity, inequality, and weak industrial capacity. A market-led approach promised growth through private enterprise. State socialism proposed planning and public ownership. Welfare and mixed-economy arguments tried to combine production with social provision.
 
-A researcher may begin with an empirical case and then return to a conceptual question. If a government values speed, for example, one can measure processing time. One can also ask why speed counts as good government and whether careful deliberation sometimes matters more.
+India did not apply any model in pure form. Planning, public industry, private business, and welfare policy existed together. This untidy mixture is more revealing than forcing the period under one label.
 
-## Political theory and empirical inquiry
+## Technology carries political choices
 
-**[Book: Heywood]** Political theory analyzes political ideas and concepts. Empirical political theory uses explanatory propositions to make sense of observable evidence. Political philosophy gives special attention to evaluating beliefs and clarifying contested concepts.
+The lecture's computing example is useful because technology often pretends to be outside politics.
 
-The approaches support one another:
+A centralized system concentrates data and processing. A federated system distributes them. Engineers can debate cost, reliability, and speed, but the design also decides who holds information and who may act without central permission.
 
-| Conceptual or normative work | Empirical work |
+Stafford Beer used cybernetics to think about communication, feedback, and control in large organizations. His work asked what computing was for and how it might serve social needs. Once that question appears, system architecture is no longer a purely technical choice.
+
+Digital identity, surveillance, content moderation, and open standards raise the same issue. Technical feasibility cannot decide whose freedom or authority should take priority.
+
+## What ideology does
+
+The lecture gives ideology four jobs. A single movement may perform all four at once.
+
+### It explains the world
+
+Ideology sorts events into a story. It names causes, victims, agents, and remedies. Poverty may appear as class exploitation, exclusion from markets, discrimination, weak growth, or personal failure. The explanation directs attention toward some facts and away from others.
+
+Coherence is not proof. An ideological explanation still has to face evidence and competing accounts.
+
+### It shapes political choices
+
+Ideas tell actors what deserves protection and what needs to change. A belief in equal access to education can support public funding and anti-discrimination rules. A stronger commitment to market choice may support private provision.
+
+Ideology therefore enters budgets, laws, institutions, and technical systems. It affects which conditions become public problems and which remedies appear sensible.
+
+### It acts as social cement
+
+Shared ideas give a party, movement, or nation a language of belonging. Members learn who "we" are, what history matters, and which goals justify cooperation.
+
+That solidarity can help excluded people organize. It can also harden the line between insiders and outsiders. Social cement holds a group together, but it may do so by deciding who does not belong.
+
+### It mobilizes and controls
+
+Ideology turns scattered grievances into collective action. It gives frustration a name, identifies allies, and offers a programme.
+
+The same process can become social control. A leader may present personal aims as the natural interest of the group. Institutions can reward loyalty, stigmatize dissent, and make one order seem inevitable.
+
+The class resists the easy conclusion that everything is social control. People push back, ignore messages, reinterpret doctrines, and combine ideas in ways leaders did not intend. Control is an attempt, not a guaranteed result.
+
+## The critical meaning of ideology
+
+So far, ideology has meant any organized political outlook. Marxist theory often uses the word more critically.
+
+**[Book: Heywood]** Destutt de Tracy coined *ideology* in 1796 for a proposed science of ideas. Marx later used it for ideas that hide the contradictions of class society. On this account, ideology makes exploitation appear normal and helps stabilize the class system.
+
+The two meanings should not be mixed carelessly:
+
+| Broad meaning | Critical Marxist meaning |
 |---|---|
-| Defines liberty, equality, or justice | Examines how a policy affects freedom or distribution |
-| Identifies a doctrine's values | Traces its institutional application |
-| Asks what ought to happen | Studies what did happen |
-| Evaluates reasons | Tests explanatory claims against evidence |
+| A structured political outlook | Ideas that conceal domination |
+| Applies to liberalism, socialism, feminism, and other doctrines | Focuses on distortion and class power |
+| Asks how beliefs explain and guide action | Asks whose rule those beliefs protect |
 
-John Rawls illustrates movement between levels. His work revived large questions about the meaning and principles of justice, then used those principles to judge institutions and distribution.
+### Hegemony
 
-## Ideology connects ends and means
+**[Book: Heywood]** Gramsci's idea of **hegemony** explains how ruling ideas gain authority throughout cultural and social life. A dominant class does not survive by force alone. Its view of property, work, merit, or order can start to look like common sense.
 
-Political communities pursue goals such as equality, prosperity, order, liberty, national strength, or sustainability. Ideology connects these goals to proposed methods.
+Hegemony does not erase all opposition. Rival ideas survive, but they compete with institutions that have greater command of education, media, and cultural production. The contest is real and unequal.
 
-The same goal can support competing routes:
+**[Book: Heywood]** Karl Mannheim made a related argument about the social roots of knowledge. A group's place in society affects how it sees the world. Berger and Luckmann later widened the claim by studying how societies construct what counts as knowledge.
 
-- Martin Luther King Jr. defended nonviolent civil resistance.
-- Malcolm X rejected dependence on gradual integration and defended a more militant politics of Black self-determination.
-- B. R. Ambedkar emphasized education, political representation, constitutional rights, and law.
-- The Dalit Panthers adopted a more militant cultural and political strategy influenced by Black radical movements.
+This is where ideology reconnects with conscience. People judge the state through concepts they did not invent alone.
 
-These differences are not only tactical. Each rests on judgments about power, history, agency, and the prospects of reform.
+## Influence is not mind control
 
-### Post-independence economic choice
+The lecture spends time resisting a mechanical picture of ideology. People do not simply absorb whatever a leader, school, or screen tells them.
 
-The lecture uses India's development debate to show ideology becoming policy. Leaders confronted poverty, inequality, food insecurity, and limited industrial capacity. Competing frameworks proposed different roles for markets, public ownership, planning, and welfare.
+They may comply without believing, accept one part of a doctrine and reject another, or revise their views after experience. Counter-ideologies also give dominated groups a language for resistance.
 
-| Broad approach | Core claim | Policy direction |
-|---|---|---|
-| Market-oriented liberalism | Private initiative and competition drive growth | Wider market freedom and limited state direction |
-| State socialism | Public control can direct resources toward collective goals | Planning and public ownership |
-| Mixed or welfare economy | Growth and social provision must be combined | Public sector, regulated markets, and welfare measures |
+This resembles Foucault's account in [[polsc7|Power: Relations, Resistance, and Social Control]]. Norms shape conduct, yet power also generates resistance.
 
-India did not choose a perfectly pure doctrine. Its mixed economy combined planning, public ownership, private enterprise, and welfare commitments. This is another reason ideological labels must not be treated as complete descriptions.
+**[Book: Heywood]** Heywood notes the same weakness in the dominant-ideology model of media. It underestimates the audience's own values and its ability to filter or reject messages.
 
-## Ideology beyond electoral politics
-
-Ideological choices appear in technical design as well as party manifestos.
-
-The lecture contrasts centralized and federated computing:
-
-- A centralized model places data and processing under a concentrated authority.
-- A federated model distributes storage, processing, or control across units.
-
-Both can be defended through technical arguments. They can also express political values such as efficiency, autonomy, access, coordination, privacy, and control.
-
-### Stafford Beer and cybernetics
-
-Stafford Beer treated computing and management as tools for organizing social systems. His cybernetic work asked how information and feedback could help institutions respond to changing conditions. The political question was not only how to build a machine, but whose purposes it should serve and where decision-making capacity should sit.
-
-> [!example]
-> A design decision becomes ideological when it embeds a view about who should possess information, authority, access, or control. The code may be technical; the choice of ends is political.
-
-This applies to digital identity, content moderation, recommendation systems, surveillance, open standards, and network architecture. Technical feasibility cannot decide which social values deserve priority.
-
-## Four functions of ideology
-
-The lecture organizes ideology around four main functions. They can overlap in the same political movement.
-
-### 1. Explanation and interpretation
-
-Ideology provides a lens through which people make sense of political and social life. It identifies causes, names problems, and separates relevant from irrelevant facts.
-
-Different ideologies may explain the same condition differently:
-
-| Condition | Possible ideological explanation |
-|---|---|
-| Poverty | Market exclusion, class exploitation, weak growth, discrimination, or personal responsibility |
-| Gender inequality | Patriarchy, unequal rights, cultural hierarchy, or economic dependence |
-| Environmental crisis | Unregulated growth, consumerism, weak technology, or failures of collective action |
-
-An ideology's explanation is not correct merely because it is coherent. Competing explanations must be judged through reasons and evidence.
-
-### 2. Orientation and policy direction
-
-Ideology provides goals and standards for political action. It helps actors decide what to preserve, reform, or abolish.
-
-A commitment to equal educational opportunity may support public funding, anti-discrimination rules, scholarships, or universal schooling. A different view of liberty and responsibility may favour private provision and individual choice.
-
-Ideas therefore shape law, economic policy, institutions, and technology. They influence which problems governments recognize and which remedies appear reasonable.
-
-### 3. Social cement and identity
-
-Ideology can bind people together through shared values, symbols, narratives, and goals. It tells members who "we" are and what the group stands for.
-
-This **social cement** may operate at different scales:
-
-- A party unites members around a programme.
-- A movement constructs solidarity among people with a shared grievance.
-- Nationalism links citizens through history, territory, or culture.
-- A state promotes constitutional values as a common civic identity.
-
-Social cohesion can enable cooperation. It can also produce boundaries between insiders and outsiders.
-
-### 4. Mobilization and social control
-
-Ideology organizes beliefs into a basis for collective action. It can turn private frustration into a public programme, recruit supporters, and coordinate action toward common ends.
-
-The same capacity can become social control. Leaders and institutions may use ideology to define normal conduct, demand loyalty, suppress alternatives, or justify hierarchy.
-
-The fourth function is therefore double-sided:
-
-| Mobilization | Social control |
-|---|---|
-| Gives scattered people a common language | Narrows which beliefs appear acceptable |
-| Makes collective action possible | Rewards conformity and punishes dissent |
-| Identifies shared goals | Presents leaders' goals as the group's natural interests |
-| Can challenge domination | Can stabilize domination |
-
-## The critical Marxist account
-
-**[Book: Heywood]** The word *ideology* was coined by Destutt de Tracy in 1796 for a proposed "science of ideas." Marx later gave it a critical meaning. In the Marxist tradition, ideology can conceal the contradictions of class society and reconcile exploited groups to their position.
-
-This use differs from the neutral definition of ideology as any structured political belief system.
-
-| Neutral use | Critical Marxist use |
-|---|---|
-| Every political doctrine can be called an ideology | Ideology distorts social reality in ways that support domination |
-| Focuses on structure and function | Focuses on mystification and class power |
-| Liberalism, socialism, and feminism are all ideologies | Ruling ideas help reproduce the ruling class's position |
-
-### Ideological hegemony
-
-**[Book: Heywood]** Antonio Gramsci explains stability through **hegemony**, the ascendancy of ruling ideas across social and cultural life. Dominant groups do not rely on force alone. Their assumptions can become common sense and shape how people interpret their own interests.
-
-Hegemony does not require the total elimination of opposition. Rival ideas can exist while competing on unequal terms. Institutions with greater control over education, media, culture, or intellectual production possess an advantage in defining what appears realistic.
-
-### The social construction of knowledge
-
-**[Book: Heywood]** Karl Mannheim connects beliefs to social position. Groups develop characteristic ways of seeing the world because their experience and interests differ. Berger and Luckmann extend this approach by examining how social interaction constructs what a society accepts as knowledge.
-
-The political implication is uncomfortable: people do not encounter public life as detached observers. They interpret it through socially produced categories.
-
-## Ideology does not erase agency
-
-A crude model of social control treats people as passive recipients. The lecture rejects this determinism.
-
-People can:
-
-- Interpret the same doctrine differently
-- Combine ideas from several traditions
-- Ignore or resist official messages
-- Revise beliefs after experience
-- Organize counter-ideologies
-- Comply outwardly without internal agreement
-
-This recalls Foucault's account in [[polsc7|Power: Relations, Resistance, and Social Control]]. Power operates through norms and self-regulation, but power relations also create possibilities for resistance.
-
-**[Book: Heywood]** Criticism of the dominant-ideology model makes the same point. Media messages do not mechanically create political attitudes because audiences filter or resist them through existing values and experience.
-
-> [!important]
-> Ideology has strength when it organizes perception and action. Strength is not the same as total control.
-
-## Ideas and ideology revisited
-
-The lecture closes with two tests for ideology:
-
-1. It contains a **collection of connected ideas**, not one detached belief.
-2. Those ideas show enough **consistency with larger principles** to guide interpretation and action.
-
-Complete logical consistency is uncommon. Ideologies develop through argument, historical change, and political compromise. The useful question is whether a recognizable set of principles connects positions across issues.
-
-### Is humanitarianism an ideology?
-
-The broad claim that all humans matter is a value. It becomes ideological when it develops a fuller account of institutions, rights, obligations, policy, and political action. A moral sentiment alone may be too thin to count as an ideology.
-
-This boundary is contestable. Ideology is an analytical category, not a natural object with an undisputed checklist.
+Ideology is powerful because it organizes perception and action. Calling it total control gives it too much credit.
 
 ## Religion and ideology
 
-Religion and ideology overlap, but they are not identical.
+Religion can include ritual, sacred authority, salvation, and claims about divine reality that do not reduce to politics. It becomes a religious ideology when religious principles or identity support a programme for public law, state power, territory, or citizenship.
 
-- A religion may include beliefs about divine reality, ritual, salvation, and sacred authority that exceed politics.
-- A **religious ideology** interprets political order through religious principles.
-- Secular ideologies can resemble religion by providing identity, moral purpose, symbols, and collective narratives.
-- Marxist and critical theorists may analyze religion as part of a wider ideological order when it helps reproduce social relations.
+Political Hindutva, Christian nationalism, political Islam, and religious Zionism fit this narrower description. Secular ideologies may also resemble religions by giving people identity, moral purpose, and a shared historical story.
 
-It is therefore more precise to ask how religious belief becomes political than to declare every religion an ideology without qualification.
+Marxist and other critical theories sometimes treat religion as part of an ideological order when it helps reproduce existing social relations. That is one interpretation of religion's political role, not a reason to use the two words as synonyms.
 
-Examples of religious ideologies include political Hindutva, Christian nationalism, political Islam, and religious Zionism. Each converts a religious or civilizational identity into claims about state, law, territory, or citizenship.
+## Exam-ready points
 
-## How to analyze an ideology
-
-Use this sequence:
-
-1. What account does it give of human nature and society?
-2. Which concepts and values are central?
-3. How does it describe the existing order?
-4. What does it identify as the main political problem?
-5. What future order does it favour?
-6. Which methods connect the present to that goal?
-7. Who are its likely agents, allies, and opponents?
-8. How does it shape policy or institutional design?
-9. What identity or solidarity does it construct?
-10. Whose interests does it support or challenge?
-11. How much internal disagreement does the label conceal?
-12. What happens when the ideology is applied in a specific context?
-
-## Exam-ready synthesis
-
-1. Ideology is a connected body of ideas that interprets society and guides political action.
-2. An idea is one belief; an ideology connects multiple beliefs to larger principles.
-3. A concept organizes meaning, while a theory offers a connected explanation.
-4. Left, centre, and right are context-dependent scales rather than complete ideologies.
-5. People can combine ideas from several ideological traditions.
-6. Ideologies contain internal varieties and disputes.
-7. Political ideas can be studied at conceptual, doctrinal, and applied levels.
-8. Conceptual analysis asks what ideas such as liberty or justice mean.
-9. Doctrinal analysis reconstructs a specific ideology's internal logic and history.
-10. Applied analysis studies policy, institutions, and observable consequences.
-11. Heywood treats political theory as the analytical study of political ideas and doctrines.
-12. Ideology connects political goals to proposed methods.
-13. Similar goals can generate competing strategies, as shown by King and Malcolm X or Ambedkar and the Dalit Panthers.
-14. India's mixed economy combined ideas rather than implementing a pure model.
-15. Technical design can embed political values about access, authority, and control.
-16. Ideology helps explain the world and orient policy.
-17. It provides social cement by creating identity and solidarity.
-18. It mobilizes collective action and may also support social control.
-19. Marxist theory uses ideology critically to describe ideas that conceal class domination.
-20. Gramsci's hegemony explains how ruling ideas acquire cultural ascendancy.
-21. Dominant ideology need not eliminate rival views; competition can remain unequal.
-22. Mannheim links ways of thinking to social position.
-23. Ideology influences people without mechanically determining every response.
-24. Religion can support a political ideology but is not automatically identical to ideology.
+1. An ideology connects ideas, values, explanations, goals, and political action.
+2. A single idea is usually too narrow to count as an ideology.
+3. Left, centre, and right change meaning across countries and periods.
+4. Ideological traditions contain disagreement, and people often mix traditions.
+5. Political ideas can be studied conceptually, as doctrines, and through their effects.
+6. Heywood treats political theory as the analysis of political ideas and doctrines.
+7. Ideology connects desired ends to proposed means.
+8. King and Malcolm X show how different views of power produce different strategies.
+9. India's mixed economy cannot be reduced to one pure doctrine.
+10. Technical systems embed choices about access, information, and control.
+11. Ideology explains the world, shapes policy, creates solidarity, and mobilizes action.
+12. Social cement can unite a group while excluding outsiders.
+13. Marxist theory uses ideology to describe ideas that conceal class domination.
+14. Gramsci's hegemony works through cultural authority as well as coercion.
+15. Ideology influences judgment without determining every response.
+16. Religion becomes political ideology when it supplies claims about public rule.
 
 ## Key terms
 
-- **Idea:** A thought, belief, value, or proposition.
-- **Concept:** General category used to organize political meaning.
-- **Theory:** Connected explanation that imposes order on observed phenomena.
-- **Ideology:** Structured body of political and social ideas that interprets the world and guides action.
-- **Political theory:** Analytical study of political ideas, concepts, doctrines, and the ends and means of political action.
-- **Normative inquiry:** Study of what ought to be valued or done.
-- **Empirical inquiry:** Study of observable conditions, causes, and consequences.
-- **World-view:** General framework through which people interpret social and political life.
-- **Social cement:** Shared ideas and values that bind a group or society together.
-- **Mobilization:** Organization of people and resources for collective action.
-- **Social control:** Processes that direct conduct and encourage conformity to an order.
-- **Mystification:** Concealment or distortion of social relations through ideas.
-- **Hegemony:** Gramsci's term for the cultural and ideological ascendancy that helps sustain domination.
-- **Ruling ideas:** Dominant beliefs that support the position of a ruling class or group.
-- **Counter-ideology:** Body of ideas that contests a dominant interpretation or social order.
-- **Religious ideology:** Political doctrine that translates religious principles or identity into claims about public order.
-- **Cybernetics:** Study of control, communication, and feedback in complex systems.
+- **Idea.** A belief, value, or proposition.
+- **Concept.** A general category used to organize meaning.
+- **Theory.** A connected explanation of events or relations.
+- **Ideology.** A body of ideas that interprets society and directs political action.
+- **Political theory.** The analysis of political concepts, doctrines, ends, and means.
+- **Normative inquiry.** Study of what ought to be valued or done.
+- **Empirical inquiry.** Study of observable conditions and consequences.
+- **Social cement.** Shared ideas that bind a political group together.
+- **Mobilization.** Organization of people for collective action.
+- **Social control.** Direction of conduct through rules, pressure, or shared beliefs.
+- **Mystification.** An account that hides or distorts social relations.
+- **Hegemony.** Gramsci's term for the cultural authority that helps sustain domination.
+- **Religious ideology.** A political programme grounded in religious principles or identity.
+- **Cybernetics.** The study of communication, feedback, and control in complex systems.
 
 ## Questions for revision
 
-1. What distinguishes an idea, concept, theory, and ideology?
-2. Why is the left-right scale an incomplete guide to ideology?
-3. Can a person draw from several ideologies at once?
-4. What are the three levels for studying political ideas?
-5. How do normative and empirical inquiry support one another?
-6. How does ideology connect political ends to means?
-7. What do King and Malcolm X show about ideological strategy?
-8. Why is post-independence India's economy difficult to describe through one pure ideology?
-9. How can a technical design choice be ideological?
-10. What are the four functions of ideology?
-11. How does ideology explain and orient political life?
-12. What does it mean to call ideology social cement?
-13. How do mobilization and social control differ?
-14. What is distinctive about the Marxist use of ideology?
-15. How does Gramsci's hegemony differ from direct coercion?
-16. Why can rival ideas exist under ideological domination?
-17. What does Mannheim mean by the social roots of knowledge?
-18. Why does ideology not eliminate personal agency?
-19. When does a broad moral value become an ideology?
-20. How do religion and religious ideology differ?
+1. What separates an idea, a theory, and an ideology?
+2. Why does the left and right scale mislead?
+3. Can someone draw on several ideologies at once?
+4. What are the three ways to study political ideas?
+5. Why must empirical work return to concepts?
+6. How does ideology connect ends and means?
+7. What do the lecture's civil-rights and Dalit examples show?
+8. Why is India's post-independence economy ideologically mixed?
+9. How can a computing architecture carry political values?
+10. What four jobs does ideology perform?
+11. How can social cement produce exclusion?
+12. When does mobilization become social control?
+13. What is distinctive about Marx's critical use of ideology?
+14. How does hegemony differ from direct coercion?
+15. Why does ideological influence stop short of mind control?
+16. When does religion become a political ideology?
 
 ## Sources
 
