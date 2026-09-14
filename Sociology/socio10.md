@@ -379,6 +379,18 @@ Both narratives make cruelty easier to explain. The first can reproduce collecti
 
 The difficult sociological task is to study how ordinary humans become capable of violence without naturalizing hatred toward an entire population.
 
+## Connections to the assigned readings
+
+> [!note] Page-number convention
+> The references below use PDF page numbers.
+
+- `SRT_WETCs.pdf`, pp. 2-4, defines social reproduction as the daily and intergenerational regeneration of labor and labor power. It traces the critique of treating productive labor as synonymous with paid labor and introduces housewifization through Maria Mies's Narsapur study.
+- The slides, pp. 5-8, warn against reducing social reproduction to care alone. For the Global South, they emphasize informality, global commodity chains, conjugated oppression, labor control beyond paid time, the transfer of reproductive costs to households, and the collapse of the boundary between work and life.
+- Alessandra Mezzadri, "On the Value of Social Reproduction," pp. 1-8 of `radical_philosophy_2_04_mezzadri-on-the-value-of-social-reproduction.pdf`, is the full argument behind the slides. Mezzadri identifies three ways reproductive activity enters value relations: tighter labor control, capital's externalization of reproductive costs, and the formal subsumption of fragmented household and informal work.
+- Keith Grint, *The Sociology of Work*, chapter 2, pp. 20-28 of `The sociology of work an introduction (Grint, Keith) .pdf`, challenges the image of work as historically separate from home and shows how gender shaped skill, status, domestic labor, and access to occupations.
+- Zarin Ahmad, "Marginal Occupations and Modernising Cities," pp. 2-10 of `AHMAD-MarginalOccupationsModernising-2013.pdf`, shows how technological change and the relocation of Delhi's abattoir reorganized work, space, caste-like occupational ties, kinship, and Muslim butchers' livelihoods. It is a concrete case of modernization changing production and social reproduction together.
+- The discussion of AI applies social reproduction theory to a newer labor process. Source creation, annotation, maintenance, mineral extraction, and household support should be named as distinct forms of labor rather than collapsed into the claim that an output is "automated."
+
 ## Exam-ready synthesis
 
 1. Social reproduction theory studies the labor that produces life and restores labor power.

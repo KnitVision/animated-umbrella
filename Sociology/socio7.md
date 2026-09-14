@@ -276,6 +276,17 @@ Food delivered to a protest creates a similar contradiction. Delivery workers ma
 > [!note]
 > Marxian analysis is strongest here as a method for tracing labor, value, and appropriation. It does not provide a simple formula for resolving every contradiction.
 
+## Connections to the assigned readings
+
+> [!note] Page-number convention
+> The references below use PDF page numbers.
+
+- `Alienation.pdf`, pp. 12-18, moves from alienation to labor power, surplus value, commodity fetishism, and exploitation. It supplies the conceptual sequence used in this lecture.
+- Tricontinental: Institute for Social Research, *The Rate of Exploitation: The Case of the iPhone*, pp. 24-36 of `iphonetricontinental.pdf`, explains commodity value, constant and variable capital, surplus value, and the rate of exploitation before applying them to the iPhone.
+- The iPhone case estimates the distribution of value across a global commodity chain. Its calculation is an argued model based on the report's assumptions, not a timeless property of every phone or production year.
+- Anthony Giddens, *Sociology*, chapter 9, pp. 115-119 of `giddens.pdf`, links Marx's class analysis to industrialization, ownership, the appropriation of workers' products, class consciousness, and revolution.
+- Raymond Aron's Marx selection in `main currents-1.pdf`, pp. 4-15 and 37-45, is useful for distinguishing Marx's analysis of capitalism from later political programs attributed to him.
+
 ## Exam-ready synthesis
 
 1. Labor power is the human capacity to work, and capital purchases its use for a period.

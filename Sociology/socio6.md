@@ -430,6 +430,17 @@ The lecture included several instructions about assessment:
 
 The transcript also mentions project-consultation slots, but the dates are incomplete and likely stale. Check the current course announcement for scheduling.
 
+## Connections to the assigned readings
+
+> [!note] Page-number convention
+> The references below use PDF page numbers.
+
+- `Alienation.pdf`, pp. 7-12, is the closest reading to the core of this lecture. It defines alienation as losing control over one's own activity and lays out estrangement from productive activity, the product, other people, and species-being.
+- Raymond Aron's Marx selection in `main currents-1.pdf`, pp. 31-37, places alienation in Marx's relation to Hegel and discusses the tension between work as human fulfilment and work reduced to a means of livelihood.
+- Keith Grint, *The Sociology of Work*, chapter 3, pp. 31-39 of `The sociology of work an introduction (Grint, Keith) .pdf`, compares Marx's account of alienation and exploitation with other classical approaches to work.
+- Grint, chapter 3, p. 37, identifies deskilling as a result of the capitalist division of labor: it cheapens labor, weakens worker control, and increases replaceability. This directly supports the sections on fragmented production and the appropriation of workers' knowledge.
+- The AI examples in the lecture are extensions of these arguments, not examples discussed by Marx. They should be presented as applications: systems trained on accumulated human work may transfer skill and control from workers to owners of the model and infrastructure.
+
 ## Exam-ready synthesis
 
 1. Alienation is forced estrangement produced by social relations, not merely a personal feeling of loneliness.

@@ -497,6 +497,16 @@ Sociology moves between these levels to understand:
 - How local communities connect across borders
 - How personal problems can have social causes
 
+## Connections to the assigned readings
+
+> [!note] Page-number convention
+> The references below use PDF page numbers, not the page numbers printed inside a book excerpt.
+
+- `Lecture 1 - Introduction to Sociology.pdf`, pp. 2, 4-6, directly supports the definitions of sociology, social institutions and processes, and the claim that socialization shapes individual paths while individuals reproduce social systems.
+- The same slides, pp. 7-8, apply the sociological imagination to coffee as a ritual, commodity, and historically normalized practice. This is the reading counterpart to the movement in these notes from personal choice to social relations.
+- Anthony Giddens, *Sociology*, chapter 1, pp. 6-9 of `giddens.pdf`, develops C. Wright Mills's sociological imagination through the coffee example. It connects an ordinary act to ritual, legal classifications, colonial trade, and global production.
+- Giddens, chapter 1, p. 43 of the PDF, frames structure and agency as a continuing theoretical problem. This supports the central claim here that structure constrains action but is also maintained or changed through action.
+
 ## Exam-Ready Synthesis
 
 1. Sociology studies the relationship between individuals and larger social formations.

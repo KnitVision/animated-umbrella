@@ -693,6 +693,18 @@ The lecture also provided project guidance.
 > [!warning]
 > The instructor explicitly cautioned against submitting AI-generated research writing. Regardless of tools used during preparation, every source, concept, and argument must be independently checked and understood.
 
+## Connections to the assigned readings
+
+> [!note] Page-number convention
+> The references below use PDF page numbers.
+
+- `Lecture 2 - Development of Sociology in India.pdf`, pp. 2-6, connects sociology's emergence to the Enlightenment, scientific method, colonial expansion, industrialization, urbanization, individualism, political revolution, and the nation-state.
+- The same slides, pp. 7-10, divide Indian sociology's development into colonial, nation-state, and post-1970s phases. They also explain why sociology was associated with Europe while anthropology was used to classify colonized populations.
+- The slides, pp. 17-26, trace colonial spatial and caste classifications, the Indological and field-based approaches, the Bombay and Lucknow schools, village studies, and later feminist, Dalit, subaltern, and postcolonial challenges.
+- Anthony Giddens, *Sociology*, chapter 1, pp. 16-27 of `giddens.pdf`, places Comte, Durkheim, Marx, and Weber within the disruption caused by revolution and industrialization. His overview supports treating sociology as a multi-paradigm discipline rather than a single cumulative theory.
+- Raymond Aron's Marx selection in `main currents-1.pdf`, pp. 4-15 and 37-45, presents Marx as an analyst of capitalism, class conflict, historical development, and the relation between mature political economy and the earlier philosophical writings.
+- Giddens, chapter 9, pp. 115-119 of the PDF, is the assigned short reading on Marx, class, and revolution. It connects industrialization, ownership, exploitation, class consciousness, and collective political action.
+
 ## Exam-Ready Synthesis
 
 1. Epistemology asks what knowledge is, how it is produced, and which methods make claims credible.

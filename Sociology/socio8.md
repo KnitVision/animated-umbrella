@@ -361,6 +361,18 @@ The closing discussion added the following course-project instructions:
 
 The transcript mentions submission times without enough date context to preserve them reliably. Check the current Moodle announcement for deadlines.
 
+## Connections to the assigned readings
+
+> [!note] Page-number convention
+> The references below use PDF page numbers.
+
+- Raymond Aron's Durkheim selection in `main currents-2.pdf`, pp. 5-12, compares mechanical solidarity based on resemblance with organic solidarity based on differentiation and interdependence.
+- Aron, pp. 20-22 and 29-35, explains Durkheim's use of suicide rates, social facts, constraint, classification, and concomitant variation. These pages support the move from individual cases to patterned social explanation.
+- Anthony Giddens, *Sociology*, chapter 1, pp. 20-22 of `giddens.pdf`, gives a concise account of egoistic, anomic, altruistic, and fatalistic suicide. Giddens also notes later criticism of Durkheim's official statistics and limited attention to influences outside society.
+- Keith Grint, *The Sociology of Work*, chapter 3, pp. 41-43 of `The sociology of work an introduction (Grint, Keith) .pdf`, connects the division of labor to Durkheim's claim that industrial differentiation can produce mutual dependence rather than only alienation.
+- Jonathan Parry, "Suicide in a Central Indian Steel Town," pp. 2-3 and 31-34 of `parry article.pdf`, is an empirical application and revision of Durkheimian reasoning. Parry links Bhilai's suicide pattern to economic liberalization, threatened class status, family tensions, and biased reporting practices.
+- The AI-judge and open-knowledge sections are lecture applications. They extend Durkheim's questions about regulation, specialization, legitimacy, and moral authority beyond the cases treated in the classical readings.
+
 ## Exam-ready synthesis
 
 1. Durkheim studies how division of labor changes social integration, regulation, and solidarity.

@@ -394,6 +394,16 @@ The movement should not be reduced automatically to its most visible leader. Ask
 
 Movements can threaten authority because an ideology may continue beyond any one participant's lifetime. Repressing a leader does not necessarily eliminate the shared idea, organization, or grievance.
 
+## Connections to the assigned readings
+
+> [!note] Page-number convention
+> The references below use PDF page numbers.
+
+- `Lecture 1 - Introduction to Sociology.pdf`, p. 4, groups caste, class, tribe or ethnicity, gender, religion, and family as social institutions or structures. It distinguishes them from processes such as power, urbanization, migration, industrialization, ecological change, resistance, and mobility.
+- The same slides, pp. 5-6, explain why an individual event must be placed inside the social systems in which people participate. This is the reading basis for moving from personal trouble to social issue.
+- Anthony Giddens, *Sociology*, chapter 1, pp. 20-22 of `giddens.pdf`, summarizes Durkheim's treatment of suicide rates as social evidence and also records objections to his use of official statistics. The second point matters because holism should not turn official categories into unquestioned facts.
+- Jonathan Parry, "Suicide in a Central Indian Steel Town," pp. 2-3 and 31-34 of `parry article.pdf`, shows this method in Bhilai. He links suicide patterns among public-sector workers to liberalization, workforce contraction, threatened class reproduction, and systematic under-reporting.
+
 ## Key Distinctions
 
 | Concept | Guiding question |

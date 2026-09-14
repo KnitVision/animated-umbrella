@@ -314,6 +314,17 @@ When examining an action, ask:
 
 This method joins interpretation to structural analysis. It neither reduces conduct to personal psychology nor treats people as passive effects of institutions.
 
+## Connections to the assigned readings
+
+> [!note] Page-number convention
+> The references below use PDF page numbers.
+
+- `Max Weber.pdf`, pp. 2-5, defines social action through subjective meaning, orientation to others, purpose, and *Verstehen*. These points are the basis of the lecture's distinction between behavior and social action.
+- The same slides, pp. 6-9, present instrumental, value-rational, affective, and traditional action. These are ideal types. A concrete action may combine several orientations.
+- The slides, pp. 10-12, connect instrumental rationality to formal rationalization, predictability, disenchantment, bureaucracy, and the "iron cage." This broadens rationality beyond individual cost-benefit calculation.
+- Raymond Aron's Weber selection in `main currents-2.pdf`, pp. 50-64, explains the four types of action, comprehensive sociology, subjective meaning, and causal explanation.
+- Aron, pp. 73-82, treats rationalization, value reference, value judgment, ideal types, and the limits of scientific knowledge. This supports the methodological point that interpreting meaning does not mean accepting an actor's explanation without analysis.
+
 ## Exam-ready synthesis
 
 1. Sociology is multi-paradigmatic, so Weber's perspective supplements rather than simply replaces Marx and Durkheim.

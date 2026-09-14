@@ -802,6 +802,17 @@ The family is an institution because it regulates behavior through roles, duties
 
 Urbanization is a process because populations, occupations, infrastructure, lifestyles, and institutions change over time as people and resources become concentrated in cities. A process unfolds; it is not a static category.
 
+## Connections to the assigned readings
+
+> [!note] Page-number convention
+> The references below use PDF page numbers.
+
+- `Intro-TKHS-II.pdf`, pp. 6-11, is the main reading companion to this lecture. It presents Berger's "art of skepticism," the attempt to understand before intervening, and the need to question what is taken for granted.
+- On pp. 8-9, the slides direct sociologists toward unofficial and socially disreputable worlds, including the criminal's view of law. This supports the sections on Venkatesh, Jamtara, hidden worlds, and the gap between respectable public accounts and participants' meanings.
+- On p. 10, the slides join debunking with relativization and a plurality of meanings. Relativization does not mean that every claim is equally sound. It means comparing the social conditions under which meanings become plausible.
+- Anthony Giddens, *Sociology*, chapter 2, pp. 72-78 of `giddens.pdf`, provides the methodological background for ethnography, access, and the problem of remaining close enough to understand participants without losing analytical distance.
+- Giddens, chapter 2, pp. 91-92, strengthens the warning about purchasing or scraping digital data: abundance does not remove obligations concerning privacy, confidentiality, consent, and legitimate collection.
+
 ## Exam-Ready Synthesis
 
 1. Information becomes sociological knowledge only when it is questioned, contextualized, and connected to perspective and consequence.

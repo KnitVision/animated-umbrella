@@ -453,6 +453,17 @@ Possible fields include:
 
 Interest and curiosity should guide the selection because sustained research becomes difficult when the topic is chosen only for marks.
 
+## Connections to the assigned readings
+
+> [!note] Page-number convention
+> The references below use PDF page numbers.
+
+- `Intro-TKHS-II.pdf`, pp. 2-3, uses Katherine Mayo's *Mother India* to make the lecture's first methodological point: seeing is not the same as understanding.
+- The same slides, pp. 6-11, summarize Peter Berger's sociological attitude as skepticism, controlled bias, attention to unofficial or disreputable worlds, debunking, and relativization. These are the reading anchors for the sections on skepticism, reflexivity, and looking behind appearances.
+- Anthony Giddens, *Sociology*, chapter 2, pp. 47-53 of `giddens.pdf`, discusses human subjects, ethics, science, objectivity, and the research process. Giddens does not ask researchers to have no commitments. He asks them to keep prior commitments from deciding how evidence is collected, analyzed, and reported.
+- Giddens, chapter 2, pp. 72-78, distinguishes qualitative and quantitative methods and explains the tension in fieldwork between closeness to participants and analytical distance. This qualifies any simple claim that objectivity means detachment from the field.
+- Giddens, chapter 2, pp. 91-92, treats privacy, confidentiality, and legitimate data collection as core problems in digital sociology. This directly supports the notes on payment systems, datasets, platform research, and research ethics.
+
 ## Exam-Ready Synthesis
 
 1. Sociology investigates social phenomena before attempting to solve social problems.
