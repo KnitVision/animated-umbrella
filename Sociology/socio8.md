@@ -18,7 +18,7 @@ aliases:
 # Emile Durkheim: social facts, solidarity, and regulation
 
 > [!summary]
-> Emile Durkheim asks how society remains integrated and regulated as capitalism replaces feudal life and the division of labor becomes more specialized. He treats **social facts** as sociology's main object and explains suicide rates through different levels of social integration and regulation. Small, relatively uniform societies develop **mechanical solidarity**, while specialized societies develop **organic solidarity** through interdependence. The transition can produce **anomie**. Changes in solidarity also change law, punishment, and authority. The lecture applies these ideas to education, gender recognition, AI judges, medical knowledge, bias, and institutional accountability.
+> Durkheim asks what holds a society together when capitalism breaks up feudal life and work becomes specialized. **Social facts** constrain people from outside any one individual. **Mechanical solidarity** rests on similarity; **organic solidarity** grows from dependence among different kinds of workers. A disrupted transition between them can produce **anomie**. These ideas also clarify changes in law, punishment, education, gender recognition, medical authority, and AI-assisted judgment.
 
 ## Durkheim's question
 

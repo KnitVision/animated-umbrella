@@ -14,12 +14,12 @@ aliases:
   - Society and Community
 ---
 
-# The Sociological Perspective: Berger, Community, and Common Sense
+# The sociological perspective: Berger, community, and common sense
 
 > [!summary]
-> The sociological perspective combines **skepticism, reflexivity, attention to hidden or disreputable worlds, relativization, and critical examination of common sense**. Peter Berger presents sociology as a disciplined attempt to look beyond official explanations and individual cases toward context, patterns, institutions, communities, and structures. This perspective also recognizes that researchers and technologies are socially positioned rather than perfectly neutral.
+> Peter Berger's sociological perspective begins with distrust of tidy official explanations. It combines **skepticism**, **reflexivity**, attention to disreputable or hidden worlds, **relativization**, and scrutiny of common sense. Individual cases make sense only in context, and neither researchers nor technologies occupy a neutral position outside society.
 
-## From Information to Wisdom
+## From information to wisdom
 
 Knowing is not automatically the result of thinking. People often receive information without examining its source, assumptions, or implications. If all knowledge were carefully reasoned, misinformation and disinformation would have little influence.
 
@@ -44,7 +44,7 @@ Possessing information about reservation, for example, does not itself produce a
 
 An opinion that merely repeats received information is not yet sociological knowledge.
 
-## Peter Berger and the Sociological Perspective
+## Peter Berger and the sociological perspective
 
 **Peter L. Berger**, especially in *Invitation to Sociology*, describes sociology as a distinctive way of seeing. The lecture organizes this attitude around several connected practices.
 
@@ -59,11 +59,11 @@ An opinion that merely repeats received information is not yet sociological know
 
 These are not isolated techniques. Together they prevent the sociologist from treating first impressions, moral judgments, or isolated cases as complete explanations.
 
-## Skepticism: Do Not Stop at the Immediate Cause
+## Skepticism: do not stop at the immediate cause
 
 As discussed in [[socio2|The Sociological Attitude]], skepticism is at the heart of sociology. It does not mean disbelieving everything. It means withholding final judgment until the context and pattern have been investigated.
 
-### Story: Hostel Stabbings and Regional Segregation
+### Story: hostel stabbings and regional segregation
 
 The lecturer described a stabbing during his time as a doctoral student. A person carrying alcohol attempted to enter a hostel or event, a scuffle followed, and someone was stabbed. A later hostel fight also involved knives and groups of young men.
 
@@ -88,7 +88,7 @@ Each explanation was plausible but incomplete. Further inquiry revealed a longer
 
 Skepticism moves analysis from an immediate trigger to the social conditions producing the event.
 
-## Can Sociology Be Value-Free?
+## Can sociology be value-free?
 
 Natural science is often presented as the model of objectivity. Under controlled conditions, the properties of a bacterium, virus, or physical system do not depend on the observer's caste, class, or gender. The same experiment should ideally produce the same result in India or Switzerland when all relevant conditions are held constant.
 
@@ -102,7 +102,7 @@ Social research differs because:
 
 A Marxist, feminist, functionalist, or interpretive sociologist may ask different questions and reach different explanations. Acknowledging this does not mean that every interpretation is equally valid. Claims still require evidence and transparent reasoning.
 
-### Reflexivity Rather Than a View From Nowhere
+### Reflexivity rather than a view from nowhere
 
 The lecture's practical response to the problem of value freedom is **reflexivity**:
 
@@ -114,7 +114,7 @@ The lecture's practical response to the problem of value freedom is **reflexivit
 
 Reflexive acknowledgment makes the conditions of knowledge visible and allows others to evaluate the account.
 
-### Story: Interviews in Gig-Worker Households
+### Story: interviews in gig-worker households
 
 During research with Ola/Uber drivers and delivery workers, the lecturer visited or stayed with workers' households. He noticed a consistent difference:
 
@@ -135,11 +135,11 @@ A reflexive account should therefore state:
 
 The limitation is itself sociological data: the conditions restricting the interview also reveal gender norms within the household.
 
-## The Natural Sciences Are Not Entirely Outside Society
+## The natural sciences are not entirely outside society
 
 The lecture initially contrasts social research with apparently objective science, then qualifies the distinction. A technical object may behave independently of the researcher's values, but selecting data, defining users, designing categories, and deploying a system remain social acts.
 
-### Story: Facial Recognition and Darker Skin
+### Story: facial recognition and darker skin
 
 A facial-recognition system appeared effective during demonstrations based on its ordinary dataset. A computer scientist requested that it be tested on photographs of people with darker skin. The model performed poorly and, in the lecture's account, sometimes categorized faces as unidentified objects rather than people.
 
@@ -155,7 +155,7 @@ The example shows how bias can enter through:
 
 Technical generalizability fails when the supposedly universal dataset represents only a narrow population.
 
-## Aadhaar: Inclusion, Exclusion, and Data Risk
+## Aadhaar: inclusion, exclusion, and data risk
 
 Aadhaar is promoted as a unique identity that can connect an individual to government services, bank accounts, mobile numbers, and other records. In the **JAM** framework, Jan Dhan accounts, Aadhaar, and mobile phones are intended to enable direct transfers and reduce leakage.
 
@@ -169,7 +169,7 @@ Its promised advantages include:
 
 The sociological question is not only whether biometric authentication technically works. It is who can reliably use it and what happens when it fails.
 
-### Story: Manual Workers and Worn Fingerprints
+### Story: manual workers and worn fingerprints
 
 The lecturer described stone breakers, agricultural laborers, and other manual workers whose fingerprints can become worn or difficult to scan after years of physical work.
 
@@ -182,7 +182,7 @@ This produces a paradox:
 
 The person's body is treated as an error by a system claiming universal identification.
 
-### Privacy and Centralization
+### Privacy and centralization
 
 Linking many records to one identifier also increases the consequences of data leakage or misuse. The lecture referred to reports of Aadhaar-related data exposure in Telangana and access by private actors. Regardless of the particular incident, the broader questions are:
 
@@ -195,7 +195,7 @@ Linking many records to one identifier also increases the consequences of data l
 > [!note]
 > An efficient system can simultaneously improve access for many people and create severe exclusion or privacy risks for others. Sociology investigates both outcomes.
 
-## Looking Behind Respectable Appearances
+## Looking behind respectable appearances
 
 Berger argues that sociologists are drawn toward what happens behind the scenes. They study subjects that others classify as too distasteful, criminal, intimate, sacred, or insignificant for investigation.
 
@@ -226,7 +226,7 @@ This does not erase violence or exploitation. It replaces a one-dimensional labe
 > [!warning]
 > Deep immersion raises ethical questions. Venkatesh's methods and relationships have themselves been debated, illustrating that access does not eliminate obligations concerning consent, harm, confidentiality, and researcher power.
 
-## Story: Jamtara, Cybercrime, Caste, and Mobility
+## Story: Jamtara, cybercrime, caste, and mobility
 
 The lecture discusses **Jamtara**, a district in Jharkhand widely associated in popular reporting with phishing and digital financial fraud. It describes research on young Dalit men involved in cyber scams.
 
@@ -243,11 +243,11 @@ The lecture's account emphasizes:
 
 The analysis does not excuse fraud or deny its victims. It explains why a specific illegal economy becomes meaningful within caste hierarchy, blocked mobility, migration, and digital opportunity.
 
-## Research Ethics and the Power to Purchase Data
+## Research ethics and the power to purchase data
 
 Studying unrespectable subjects does not permit exploitative methods. Researchers hold institutional, economic, and interpretive power over participants.
 
-### Story: Paying Auto Drivers for Browsing Histories
+### Story: paying auto drivers for browsing histories
 
 The lecturer described a study in which researchers offered auto-rickshaw drivers approximately Rs. 500 for access to their complete browser histories. The reported conclusion emphasized extensive pornography consumption.
 
@@ -263,7 +263,7 @@ The class identified several problems:
 
 The existence of pornography consumption among auto drivers says nothing distinctive without comparison. Legislators and privileged professionals have also been recorded viewing sexual content in workplaces, including legislative settings. Selecting only a poorer occupational group reproduces the presumption that deviance belongs to the lower classes.
 
-### Payment and Undue Inducement
+### Payment and undue inducement
 
 The lecture strongly cautions against paying interviewees because money can disproportionately recruit people with fewer resources and distort consent or responses. In research ethics more broadly, participant compensation is not always prohibited, but it must not become **undue inducement**.
 
@@ -277,11 +277,11 @@ Researchers must ask:
 
 The lecturer contrasted cash payment with modest hospitality, such as sharing pizza with student participants. Even hospitality should be disclosed and considered, but it usually carries less coercive force than buying intimate digital data.
 
-## Sexual Harassment: Cases, Structure, and Male Peer Culture
+## Sexual harassment: cases, structure, and male peer culture
 
 The lecture uses a campus sexual-harassment complaint to connect individual accountability with structural analysis.
 
-### Story: The Campus Email
+### Story: the campus email
 
 A woman student emailed the campus community describing prolonged stalking and harassment. During a later discussion, men criticized the institution:
 
@@ -292,7 +292,7 @@ A woman student emailed the campus community describing prolonged stalking and h
 
 Holding formal power accountable was necessary, but the lecturer asked whether the men had also challenged everyday behavior within male peer groups.
 
-### The Campus Is Not an Island
+### The campus is not an island
 
 A residential campus can feel like an island because students study, socialize, shop, and participate in cultural life within one bounded space. Sexual harassment, however, is not produced only inside the campus.
 
@@ -301,11 +301,11 @@ A residential campus can feel like an island because students study, socialize, 
 - A one-time awareness campaign cannot permanently solve the problem.
 - Institutional procedures must be combined with continuous cultural change.
 
-### Story: Gendered Abuse on the Football Field
+### Story: gendered abuse on the football field
 
 The lecturer recalled playing football in Delhi, where gendered and sexualized slurs appeared in almost every sentence. They were not reserved for anger; they functioned like punctuation. He participated in or tolerated that environment without questioning it at the time.
 
-This matters because harassment is sustained not only by exceptional offenders but also by ordinary peer culture:
+This matters because ordinary peer culture sustains harassment alongside the acts of individual offenders:
 
 - Women and marginalized genders are discussed as objects.
 - Gendered abuse becomes humorous or normal.
@@ -317,7 +317,7 @@ The first step is not a perfect solution but a disruption: one peer saying, "Thi
 > [!important]
 > Structural analysis does not remove individual responsibility. It shows how individual conduct is enabled, rewarded, ignored, or challenged by groups and institutions.
 
-## Scale of Analysis
+## Scale of analysis
 
 The harassment example can be investigated at several scales:
 
@@ -331,7 +331,7 @@ The harassment example can be investigated at several scales:
 
 Sociology generally seeks patterns beyond a single case while recognizing that individual cases still require fair procedures.
 
-## Story: The 2019 Hyderabad Encounter
+## Story: the 2019 Hyderabad encounter
 
 After the 2019 rape and murder of a veterinarian near Hyderabad, police killed four accused men in an alleged encounter before trial. Many members of the public praised the event as immediate justice.
 
@@ -348,11 +348,11 @@ This is not **instant justice** because speed without due process is not justice
 
 The example also illustrates skepticism: an emotionally satisfying official narrative must still be questioned.
 
-## Relativization: Comparing Contexts
+## Relativization: comparing contexts
 
 **Relativization** means examining how a belief or practice changes when placed in another social context. It does not mean that all conduct is morally acceptable. It prevents one local arrangement from being mistaken for the only natural one.
 
-### Comparing Campuses
+### Comparing campuses
 
 Gender relations and political behavior may differ among IIIT Hyderabad, the University of Hyderabad (HCU), and other campuses because of:
 
@@ -382,11 +382,11 @@ The comparison does not prove that one campus is perfectly progressive. It gener
 
 Relativization makes a familiar campus appear newly questionable by placing it beside another.
 
-## Debunking Generalization Through Base Rates
+## Debunking generalization through base rates
 
 Sociology distinguishes a striking individual event from a structural pattern.
 
-### Story: A Wife Kills Her Husband
+### Story: a wife kills her husband
 
 The lecture refers to a widely circulated story about a woman accused of killing her husband and concealing his body in a drum. In a public conversation involving actor **Richa Chadha**, a mother reportedly asked whether feminism and women's empowerment had made marriage dangerous for men. Her son feared marrying because a wife might kill him.
 
@@ -403,7 +403,7 @@ Individual acts by women must still be judged case by case. They do not establis
 > [!tip]
 > Ask both "Did this event occur?" and "How common is it relative to the pattern being claimed?"
 
-## Positionality, Research Teams, and Unequal Access
+## Positionality, research teams, and unequal access
 
 Acknowledging a limitation should lead to practical changes where possible. A male researcher unable to interview women privately can:
 
@@ -413,7 +413,7 @@ Acknowledging a limitation should lead to practical changes where possible. A ma
 - Treat missing private testimony as a limitation
 - Avoid generalizing men's accounts to an entire household
 
-### Story: Research With Women Micro-Influencers
+### Story: research with women micro-influencers
 
 The lecture describes research on women micro-influencers who aspire toward the visibility of figures such as Kusha Kapila. The study asks:
 
@@ -433,7 +433,7 @@ The example shows:
 - Support networks can function as informal therapy.
 - A researcher's inability to access data reflects existing gender inequality rather than mere methodological inconvenience.
 
-## What Is a Society?
+## What is a society?
 
 A **society** is a broad field of social relationships, institutions, structures, and processes that can be bounded analytically for research.
 
@@ -449,7 +449,7 @@ Asking how misinformation affects "Indian society" would require evidence across
 
 The researcher's definition of society determines which population and evidence are relevant.
 
-## Society and Community
+## Society and community
 
 A **community** is a more specific collectivity organized around shared identity, practice, norms, values, interests, location, or aspirations. It need not be territorially bounded.
 
@@ -471,7 +471,7 @@ Communities discussed in class include:
 - Student and alumni communities
 - Business communities
 
-### Characteristics of Community
+### Characteristics of community
 
 Communities often involve:
 
@@ -486,9 +486,9 @@ Communities often involve:
 
 Community may challenge individualism because membership influences choices that appear personal.
 
-## Stories of Community
+## Stories of community
 
-### Caste WhatsApp Groups in the United States
+### Caste WhatsApp groups in the United States
 
 The lecturer described an acquaintance entering the United States and immediately being added to a WhatsApp group connecting members of the same caste across the country.
 
@@ -501,13 +501,13 @@ The group's purpose was fraternity and mutual aid:
 
 Migration did not dissolve caste. Digital communication reconstructed caste community transnationally.
 
-### Student Rankings and Alumni Identity
+### Student rankings and alumni identity
 
 Within college, students may be separated symbolically by grade-point averages: the nine-pointer and the 5.5-pointer are treated as different kinds of people. Competitive ranking fragments a possible student community.
 
 After graduation, the same institution treats all graduates as an **alumni community**. The institution therefore both divides students through evaluation and unifies them later through brand, nostalgia, and networking.
 
-### Business Communities and Interest-Free Support
+### Business communities and interest-free support
 
 Some caste-based business communities lend capital to members through trust networks, sometimes without formal interest. A person seeking Rs. 5 lakh to start a business may obtain support unavailable through friendship alone or formal banking.
 
@@ -519,7 +519,7 @@ The benefit rests on:
 - Family and caste networks
 - Collective interest in members' economic success
 
-### Agarwal Migration to Telangana
+### Agarwal migration to Telangana
 
 The lecturer tells the story of an Agarwal student whose family runs a business in a small Telangana town and speaks Telugu.
 
@@ -531,7 +531,7 @@ The lecturer tells the story of an Agarwal student whose family runs a business 
 
 What begins as one relationship can become an intergenerational commercial community.
 
-### Community as Network Advantage
+### Community as network advantage
 
 Communities can provide:
 
@@ -545,7 +545,7 @@ Communities can provide:
 
 In societies where forming friendships or finding partners is difficult, inherited communities can supply ready-made social networks.
 
-### Community as Segregation
+### Community as segregation
 
 The same networks can:
 
@@ -558,7 +558,7 @@ The same networks can:
 
 Community is therefore neither inherently good nor bad. Its support and control must be studied together.
 
-## Dating Platforms, Markets, and Endogamy
+## Dating platforms, markets, and endogamy
 
 Dating apps appear to expand individual choice beyond family and local community. They reduce geographic constraints and present a wider pool of possible partners.
 
@@ -572,7 +572,7 @@ This apparent freedom contains a market logic:
 
 Love, often described as spontaneous and transcendent, is organized as a marketplace without ceasing to feel emotionally meaningful.
 
-### Dating as a Process
+### Dating as a process
 
 Dating is not one isolated practice but a process whose expected outcome varies:
 
@@ -583,7 +583,7 @@ Dating is not one isolated practice but a process whose expected outcome varies:
 
 Different stages activate different social expectations.
 
-### Story: Casual Partners Versus Marriage Partners
+### Story: casual partners versus marriage partners
 
 The lecture discusses research asking Indian men and women what they seek in casual relationships and in marriage.
 
@@ -605,13 +605,13 @@ The contradiction is sociologically important:
 - Marriage activates family, inheritance, status, and community boundaries.
 - Individual preference then reproduces caste and class structure.
 
-### Story: Planning to Fall in Love Within the Community
+### Story: planning to fall in love within the community
 
 The lecturer recalled a school friend who insisted that they would fall in love only with someone from their own community. The statement appears contradictory because falling in love is imagined as spontaneous.
 
 Yet people can structure where they socialize, whom they consider eligible, and which relationships they permit to deepen. Serendipity operates inside socially controlled boundaries.
 
-### What Is at Stake in Marrying Outside?
+### What is at stake in marrying outside?
 
 Students identified several possible costs:
 
@@ -625,7 +625,7 @@ Students identified several possible costs:
 
 An individual's choice is therefore shaped by consequences imposed through family and community.
 
-### Marriage, Property, and Purity
+### Marriage, property, and purity
 
 Endogamy maintains more than symbolic identity. Marriage determines:
 
@@ -639,7 +639,7 @@ The lecture rejects the moral label of an "illegitimate child": no child is inhe
 
 Caste persists partly through the norm that legitimate marriage and reproduction should occur within the group. People may follow this norm without consciously reasoning through purity or inheritance because it has become a taken-for-granted state of being.
 
-## Communities Can Also Protect Individual Freedom
+## Communities can also protect individual freedom
 
 Traditional communities can constrain individuals, but modern communities can support identities and choices rejected by family or dominant society.
 
@@ -663,11 +663,11 @@ The lecture invokes the **Black Panther Party** as a community formed in respons
 
 The example shows that a modern community can protect individuals when the state and inherited institutions fail them.
 
-## Ascribed and Achieved Communities
+## Ascribed and achieved communities
 
 The distinction between [[socio1#Ascribed and Achieved Status|ascribed and achieved status]] also applies to community membership.
 
-### Ascribed Community
+### Ascribed community
 
 Membership is assigned largely by birth or upbringing:
 
@@ -677,7 +677,7 @@ Membership is assigned largely by birth or upbringing:
 - Many religious identities
 - Inherited class location
 
-### Achieved Community
+### Achieved community
 
 Membership is entered through choice, practice, accomplishment, or shared interest:
 
@@ -690,7 +690,7 @@ Membership is entered through choice, practice, accomplishment, or shared intere
 
 The distinction is not absolute. People may reject ascribed membership, face barriers to achieved communities, or experience a chosen identity as deeply constitutive rather than optional.
 
-## Sociology's Relational Ladder
+## Sociology's relational ladder
 
 Sociology studies relationships across several levels:
 
@@ -709,19 +709,19 @@ It also examines every cross-relationship:
 
 Analysis moves up and down this ladder. A dating preference may feel individual, arise through family socialization, enforce community boundaries, and reproduce a society-wide hierarchy.
 
-## Common Sense as a Sociological Object
+## Common sense as a sociological object
 
 **Common sense** is knowledge treated as obvious, practical, and beyond question. Much of it is inherited from family, occupation, education, region, religion, and community.
 
 Sociology does not assume common sense is always false. It asks how it was produced, where it applies, and what evidence would challenge it.
 
-### Regional Stereotypes
+### Regional stereotypes
 
 Students arriving in Hyderabad may carry ideas about a "normal South Indian university" or whether Hyderabadis are peaceful, conservative, violent, welcoming, or culturally unfamiliar. These judgments often precede direct experience and come from media, family, and regional stereotypes.
 
 The sociological question is: **Where did this belief come from, and whose experience does it represent?**
 
-### Story: Black Cats and Bad Omens
+### Story: black cats and bad omens
 
 Negative stereotypes about cats include that they are selfish, scratch people, or would kill humans if able. A stronger inherited belief treats a black cat crossing the road as a bad omen.
 
@@ -729,7 +729,7 @@ The lecturer describes drivers stopping after a cat crossed the road and waiting
 
 Even people who call themselves rational may inhabit communities where this practice is ordinary. Its persistence demonstrates that common sense is socially shared rather than individually invented.
 
-### Are IIT Graduates Naturally the Best Coders?
+### Are IIT graduates naturally the best coders?
 
 A common professional belief is that IITs, IIITs, BITS, and similar institutions produce the best programmers. Their students may indeed receive strong training, but sociology asks how the belief became institutionalized.
 
@@ -745,7 +745,7 @@ Industrialization and credentialing transformed programming from a hobbyist prac
 
 The sociologist need not conclude that elite institutions produce poor coders. The task is to separate demonstrated skill from the prestige and labor-market power of credentials.
 
-### Women, Children, and the Good Life
+### Women, children, and the good life
 
 The claim that family and children are a woman's ultimate fulfillment is another piece of common sense. It can be expressed positively: motherhood brings joy, purpose, and a complete life.
 
@@ -759,23 +759,23 @@ Sociology asks:
 
 The point is not to deny that family can bring joy. It is to question why one life path is treated as women's universal destiny.
 
-## Social Structure, Institution, and Process
+## Social structure, institution, and process
 
 The lecture ends by distinguishing three concepts.
 
 | Concept | Meaning | Examples |
 |---|---|---|
-| **Social structure** | Enduring pattern that categorizes people and unequally enables or constrains action | Caste, class, gender, sexuality |
+| **Social structure** | Lasting pattern that categorizes people and unequally enables or constrains action | Caste, class, gender, sexuality |
 | **Social institution** | Stable system of norms, roles, and practices regulating behavior | Family, education, religion, state, market |
 | **Social process** | Continuing transformation or interaction through which social life changes | Urbanization, migration, industrialization, globalization |
 
-### Social Structure
+### Social structure
 
 Structures stratify people and shape their options. Caste, class, gender, and sexuality place people in unequal categories that allow some actions and penalize others.
 
 Sociology therefore challenges purely philosophical accounts of free will. Individual choice is real, but beliefs and practices are formed within conditions people did not choose.
 
-### Story: *Into the Wild* and Escaping Structure
+### Story: *Into the Wild* and escaping structure
 
 *Into the Wild* tells the story of Christopher McCandless, an Emory University graduate who rejected possessions and conventional expectations, abandoned his car, traveled across the United States, and eventually attempted to live in the Alaskan wilderness.
 
@@ -788,17 +788,17 @@ The story is often interpreted as escape from social structure. Sociology asks w
 
 Resistance to structure remains socially shaped.
 
-### Story: "Rajashree What?"
+### Story: "Rajashree what?"
 
 When the lecturer gives only a first name, some parents ask for the surname: "Rajashree what?" The surname helps place a stranger within caste, region, religion, language, or family background.
 
 The discomfort of not knowing the surname reveals the classificatory function of structure. People seek to locate others socially before deciding how to relate to them.
 
-### Social Institution
+### Social institution
 
 The family is an institution because it regulates behavior through roles, duties, inheritance, marriage rules, care, authority, and expectations. An institution need not be a building or formal organization.
 
-### Social Process
+### Social process
 
 Urbanization is a process because populations, occupations, infrastructure, lifestyles, and institutions change over time as people and resources become concentrated in cities. A process unfolds; it is not a static category.
 
@@ -813,7 +813,7 @@ Urbanization is a process because populations, occupations, infrastructure, life
 - Anthony Giddens, *Sociology*, chapter 2, pp. 72-78 of `giddens.pdf`, provides the methodological background for ethnography, access, and the problem of remaining close enough to understand participants without losing analytical distance.
 - Giddens, chapter 2, pp. 91-92, strengthens the warning about purchasing or scraping digital data: abundance does not remove obligations concerning privacy, confidentiality, consent, and legitimate collection.
 
-## Exam-Ready Synthesis
+## Exam-ready synthesis
 
 1. Information becomes sociological knowledge only when it is questioned, contextualized, and connected to perspective and consequence.
 2. Berger's sociological perspective emphasizes skepticism, debunking, unrespectability, relativization, and attention to social patterns.
@@ -830,7 +830,7 @@ Urbanization is a process because populations, occupations, infrastructure, life
 13. Common sense is socially produced and must itself become an object of investigation.
 14. Social structures stratify, institutions regulate, and processes transform social life.
 
-## Key Terms
+## Key terms
 
 - **Sociological perspective:** Way of seeing that questions appearances and connects individual experience to wider social patterns.
 - **Skepticism:** Disciplined refusal to accept a claim without investigating its evidence, assumptions, and context.
@@ -849,11 +849,11 @@ Urbanization is a process because populations, occupations, infrastructure, life
 - **Ascribed community:** Community membership largely assigned by birth.
 - **Achieved community:** Community membership entered through choice, practice, or accomplishment.
 - **Common sense:** Socially inherited knowledge treated as obvious and self-evident.
-- **Social structure:** Enduring pattern of categorization and inequality that enables and constrains action.
+- **Social structure:** Lasting pattern of categorization and inequality that enables and constrains action.
 - **Social institution:** Stable system of roles, norms, and practices regulating an area of social life.
 - **Social process:** Continuing pattern of interaction or transformation over time.
 
-## Questions for Revision
+## Questions for revision
 
 1. Why does possessing information not necessarily amount to sociological knowledge or wisdom?
 2. What practices constitute Berger's sociological perspective?

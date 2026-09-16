@@ -18,7 +18,7 @@ aliases:
 # Karl Marx: alienation, deskilling, and the labor process
 
 > [!summary]
-> Marx treats capitalism as progressive relative to feudalism because it loosens inherited ties to land, caste, and occupation. Yet wage labor creates a different loss of freedom. Industrial production separates workers from the **product**, **other workers**, the **labor process**, and their **species-being**, or distinctively human capacity for conscious and creative work. Division of labor raises productivity by fragmenting skill. Management and machines then capture workers' knowledge, make workers easier to replace, and turn human activity into measurable output. AI continues this process by learning from skilled labor while weakening occupational communities and threatening the workers whose knowledge trains it.
+> Capitalism loosens some inherited ties to land, caste, and occupation, but wage labor creates another kind of dependence. Marx calls the resulting separation from the **product**, **other workers**, the **labor process**, and human creative capacity **alienation**. Fragmented work raises productivity while letting management and machines absorb workers' knowledge. AI extends that pattern: it learns from skilled labor, then can weaken the occupations and communities that produced the skill.
 
 ## Alienation in ordinary speech and in Marx
 

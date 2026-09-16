@@ -16,12 +16,12 @@ aliases:
   - Modernity and Conflict Theory
 ---
 
-# Origins of Sociology: Modernity, Industrialization, and Conflict Theory
+# Origins of sociology: modernity, industrialization, and conflict theory
 
 > [!summary]
-> Sociology emerged not from the isolated insight of one thinker but from a long transformation of European society involving the **Reformation, Renaissance, Scientific Revolution, colonialism, capitalism, and Industrial Revolution**. These processes weakened feudal and religious authority, accelerated migration and social mobility, and created the problem of understanding **modernity** scientifically. Sociology consequently developed as a **multi-paradigm discipline**, including functionalist, conflict, interactionist, and interpretive approaches. The lecture then introduces Marxian conflict theory: material conditions shape consciousness, history proceeds through class struggle, and apparently national conflicts or protests may conceal unequal class interests.
+> Sociology arose from changes that made European society hard to explain in its old terms. The **Reformation**, **Renaissance**, **Scientific Revolution**, colonialism, capitalism, and the **Industrial Revolution** weakened feudal and religious authority while accelerating migration and social mobility. Different theories answered this disorder differently. Marxian conflict theory starts from material conditions and class struggle, then asks whose interests lie beneath apparently national conflicts or public protests.
 
-## Epistemology: How Do We Know?
+## Epistemology: how do we know?
 
 **Epistemology** is the study of knowledge. It asks:
 
@@ -34,9 +34,9 @@ aliases:
 Answers to these questions generate both **methodologies** and **disciplines**. A discipline is therefore not merely a collection of facts. It is also an organized way of asking questions, gathering evidence, and deciding what constitutes a valid explanation.
 
 > [!important]
-> Sociology did not emerge simply because a singular genius “invented” it. It became possible and necessary at a particular social and historical moment.
+> Sociology did not emerge simply because a singular genius "invented" it. It became possible and necessary at a particular social and historical moment.
 
-## Historical Setting for the Emergence of Sociology
+## Historical setting for the emergence of sociology
 
 The emergence of sociology must be understood through a matrix of connected historical processes rather than a single linear cause.
 
@@ -52,7 +52,7 @@ The emergence of sociology must be understood through a matrix of connected hist
 > [!note] Chronology
 > The lecture treated these developments as overlapping movements. Standard historical dating places the Renaissance before and alongside the Reformation, and the Industrial Revolution primarily in the late eighteenth and nineteenth centuries.
 
-## Reformation and the Crisis of Church Authority
+## Reformation and the crisis of Church authority
 
 In feudal Europe, power was broadly divided between monarchy and church:
 
@@ -61,7 +61,7 @@ In feudal Europe, power was broadly divided between monarchy and church:
 
 The Catholic Church did not merely offer one spiritual interpretation among many. It exercised institutional authority over what counted as religious truth and proper conduct.
 
-### Sin, Confession, and Institutional Power
+### Sin, confession, and institutional power
 
 The lecture used confession and the payment for absolution to illustrate how spiritual authority could become a material institution. If forgiveness could be mediated through clergy or purchased through practices associated with indulgences, wealthy people could appear to cleanse their consciences without repairing the harm they caused.
 
@@ -75,7 +75,7 @@ The sociological point is not simply theological. It concerns the relationship a
 
 A rich person and a poor person did not encounter the institution on equal terms. Spiritual authority could therefore reproduce material inequality.
 
-### Protestant Challenge
+### Protestant challenge
 
 The **Protestant Reformation** challenged the Catholic Church's centralized authority. It was not simply a spontaneous movement of the poor. Monarchs, elites, and other powerful groups also supported it because religious independence could strengthen their own political authority.
 
@@ -89,7 +89,7 @@ The Reformation therefore involved:
 - A weakening of one institution's monopoly over truth
 - Conditions favorable to wider intellectual inquiry
 
-## Scientific Temper and the Renaissance
+## Scientific temper and the Renaissance
 
 Religious scripture increasingly appeared unable to answer every question about the physical world. Claims about the Earth, planets, anatomy, and nature became subjects of observation rather than matters settled exclusively by doctrine.
 
@@ -103,11 +103,11 @@ Religious scripture increasingly appeared unable to answer every question about 
 
 The Renaissance contributed to this transformation through art, anatomy, invention, and the reimagining of inherited religious representations.
 
-### Art as Reimagination
+### Art as reimagination
 
 Artists such as Michelangelo and Rembrandt did more than decorate accepted ideas. Their work gave visual form to bodies, heaven, religious stories, and everyday life. Representing scriptural worlds through human creativity opened space between inherited text and new interpretation.
 
-### Anatomy and the Human Body
+### Anatomy and the human body
 
 The study and dissection of corpses treated the body as something that could be opened, observed, represented, and explained. Artists and anatomists worked at the boundary between art and emerging science.
 
@@ -121,11 +121,11 @@ Truth also investigated through observation, representation, and experiment
 
 The Renaissance was therefore a quest to understand both the **inner world of the body** and the **outer physical world** beyond what religious authority had already declared.
 
-## Colonialism and the Material Basis of Industrialization
+## Colonialism and the material basis of industrialization
 
 New ideas alone could not finance factories, machinery, research, or large-scale production. The Industrial Revolution also required a **material base**.
 
-The lecture locates a crucial part of that base in European colonial extraction, first especially from Latin America and later from Africa and Asia. European empires transferred precious metals, raw materials, land, and labor into European accumulation.
+The lecture locates a central part of that base in European colonial extraction, first especially from Latin America and later from Africa and Asia. European empires transferred precious metals, raw materials, land, and labor into European accumulation.
 
 ### *Open Veins of Latin America*
 
@@ -143,7 +143,7 @@ Colonialism supported industrial capitalism by providing:
 > [!important]
 > Industrialization and colonialism were not separate histories. Industrial production depended on unequal global pipelines of extraction and sale.
 
-### Raw Materials and Markets
+### Raw materials and markets
 
 Industrial capitalism requires both inputs and buyers:
 
@@ -159,11 +159,11 @@ Further accumulation and expansion
 
 As European resources became insufficient and domestic markets remained limited, colonies supplied coal, minerals, agricultural materials, and consumers. Colonial expansion thus continued alongside industrialization.
 
-## Dialectics: History Is Not Linear
+## Dialectics: history is not linear
 
 The historical account is sociological because it rejects a simple chain in which one event mechanically causes the next.
 
-### Linear Causation
+### Linear causation
 
 A linear model assumes:
 
@@ -173,7 +173,7 @@ A → B → C → D
 
 Even a complicated linear model may only add more variables leading toward a predetermined outcome.
 
-### Dialectical Process
+### Dialectical process
 
 A **dialectical** approach sees history as a process of contradiction, interaction, feedback, and unintended consequences. Causes and outcomes affect one another, while new conditions emerge from their interaction.
 
@@ -198,11 +198,11 @@ Relevant elements included:
 > [!note]
 > Dialectical explanation does not deny causation. It rejects the assumption that historical causation is isolated, one-directional, and perfectly predictable.
 
-## Industrial Revolution and the Collapse of Feudalism
+## Industrial Revolution and the collapse of feudalism
 
 The Industrial Revolution weakened the **feudal order** and created new relations of labor, production, class, and settlement.
 
-### Organization of the Feudal Estate
+### Organization of the feudal estate
 
 A feudal estate or **fiefdom** centered on the **manor**, where the feudal lord and household lived. The surrounding land was divided into plots cultivated by **serfs**.
 
@@ -223,7 +223,7 @@ Women also performed agricultural, household, and manor labor, though this labor
 | Exercised political and economic authority | Received subsistence and limited customary protections |
 | Could transfer control of the estate | Was attached to the transferred land |
 
-### Capitalism as a Progressive Force
+### Capitalism as a progressive force
 
 Marx did not describe capitalism only as evil or call simply for the killing of capitalists. Relative to feudalism, capitalism was historically **progressive** because it:
 
@@ -236,7 +236,7 @@ Marx did not describe capitalism only as evil or call simply for the killing of 
 
 Its progress was incomplete and contradictory. Formal freedom did not remove exploitation. A worker freed from a lord could still be compelled by poverty to sell labor to a capitalist.
 
-### Simplified Historical Sequence in Marxist Thought
+### Simplified historical sequence in Marxist thought
 
 The lecture presented a broad stage model:
 
@@ -254,7 +254,7 @@ Communism
 
 This is a simplified account of historical materialism rather than a universal timetable followed identically by every society.
 
-## Migration, Urbanization, and Modern Society
+## Migration, urbanization, and modern society
 
 The weakening of feudal relations displaced and released rural populations. Industrial centers such as Manchester and Lancashire attracted people seeking work and survival.
 
@@ -272,7 +272,7 @@ Migration was intensified by:
 
 Industrialization produced a seemingly continuous **great migration** toward cities. Urban centers expanded around mills and factories, creating social arrangements that appeared mobile, unstable, crowded, and historically new.
 
-## Modernity as Sociology's Founding Problem
+## Modernity as sociology's founding problem
 
 These transformations generated sociology's foundational questions:
 
@@ -280,7 +280,7 @@ These transformations generated sociology's foundational questions:
 2. How can modern society be studied scientifically?
 3. How do we study people whose locations, occupations, identities, and relationships keep changing?
 
-### Sociology and Anthropology
+### Sociology and anthropology
 
 The lecture draws an introductory contrast:
 
@@ -292,7 +292,7 @@ The lecture draws an introductory contrast:
 
 This is a historical distinction, not an absolute disciplinary boundary today. Both disciplines now study movement, modernity, cities, institutions, and local meaning.
 
-### Modernity, Freedom, and Movement
+### Modernity, freedom, and movement
 
 Modernity promises liberation from inherited restrictions such as:
 
@@ -313,7 +313,7 @@ The lecture connects **freedom** to the capacity to move:
 
 Modern freedom remains constrained. Sociology studies both the promise of mobility and the structures that prevent equal access to it.
 
-### Geographical and Social Mobility
+### Geographical and social mobility
 
 **Geographical mobility** means movement across physical locations, such as migration from village to city.
 
@@ -321,7 +321,7 @@ Modern freedom remains constrained. Sociology studies both the promise of mobili
 
 The lecture uses **Sanskritization** as an example. In M. N. Srinivas's formulation, a lower-status caste may adopt practices associated with locally dominant or higher castes in an attempt to claim higher status. Such imitation seeks mobility but does not necessarily abolish the hierarchy itself.
 
-## Functionalism and the Organic Analogy
+## Functionalism and the organic analogy
 
 **Herbert Spencer** compared society to a biological organism. Just as organs perform distinct functions that contribute to a body, different institutions and groups perform functions contributing to society.
 
@@ -333,7 +333,7 @@ Family + economy + religion + state + education → functioning society
 
 This **organic analogy** influenced functionalist approaches. Society is understood as an interdependent system whose parts contribute to order, continuity, and survival.
 
-### Problems With the Organic Analogy
+### Problems with the organic analogy
 
 Marxian and other critical perspectives object that the analogy can naturalize hierarchy.
 
@@ -347,13 +347,13 @@ Marxian and other critical perspectives object that the analogy can naturalize h
 > [!important]
 > A society differs from a body because its members interpret their conditions, resist assigned roles, struggle over resources, and transform institutions.
 
-## Evolution, Competition, and Social Hierarchy
+## Evolution, competition, and social hierarchy
 
-Herbert Spencer used evolutionary ideas to describe social competition and popularized the phrase **“survival of the fittest.”** Darwin later adopted the phrase, although biological evolution concerns the differential survival and reproduction of traits, not a moral rule that socially powerful people deserve to dominate.
+Herbert Spencer used evolutionary ideas to describe social competition and popularized the phrase **"survival of the fittest."** Darwin later adopted the phrase, although biological evolution concerns the differential survival and reproduction of traits, not a moral rule that socially powerful people deserve to dominate.
 
 The lecture warns against translating biological evolution directly into social hierarchy.
 
-### Social Darwinist Misuse
+### Social Darwinist misuse
 
 A crude social interpretation assumes:
 
@@ -363,25 +363,25 @@ A crude social interpretation assumes:
 - Poverty demonstrates inferiority.
 - Inequality is both natural and progressive.
 
-This reasoning ignores the unequal starting conditions and institutions that determine who can compete for powerful positions. A person assigned the metaphorical role of a “toe” is not equally eligible to become the “brain.” Competition often occurs within an already privileged group.
+This reasoning ignores the unequal starting conditions and institutions that determine who can compete for powerful positions. A person assigned the metaphorical role of a "toe" is not equally eligible to become the "brain." Competition often occurs within an already privileged group.
 
 ### Darwin, Lamarck, and Dawkins
 
 - **Charles Darwin:** Natural selection explains how heritable variations become more or less common through differential reproduction.
 - **Jean-Baptiste Lamarck:** Proposed an earlier evolutionary account associated with the inheritance of acquired characteristics.
-- **Richard Dawkins:** In *The Selfish Gene*, described gene-centered selection; “selfish” genes do not imply that fully formed human beings ought to behave selfishly.
+- **Richard Dawkins:** In *The Selfish Gene*, described gene-centered selection; "selfish" genes do not imply that fully formed human beings ought to behave selfishly.
 
 Dawkins's argument was enthusiastically interpreted by some market actors as validating ruthless economic competition. That interpretation confuses a biological model with a social and moral prescription.
 
 Marx's objection is that class power cannot be justified by treating society as a natural arena in which the strongest individual wins. Political leaders, investors, and owners often belong to the same dominant class and do not personally undergo the risks imposed on workers and soldiers.
 
-## Sociology as a Multi-Paradigm Discipline
+## Sociology as a multi-paradigm discipline
 
 Sociology contains multiple **paradigms**: organized viewpoints with their own concepts, questions, and methodologies.
 
 Personal opinion alone is not a sociological paradigm. A viewpoint becomes sociological when it develops a disciplined method for investigating and supporting claims.
 
-### Four Broad Schools
+### Four broad schools
 
 | School | Central concern | Typical question |
 |---|---|---|
@@ -390,16 +390,16 @@ Personal opinion alone is not a sociological paradigm. A viewpoint becomes socio
 | **Functionalism** | Interdependence, social order, institutions, and functions | How does this institution contribute to the operation or continuity of society? |
 | **Interpretive / Weberian sociology** | Subjective meaning, authority, rationalization, and social action | What meaning do actors attach to their conduct? |
 
-No single school is simply the “best” theory for every question. Each reveals some dimensions and can obscure others.
+No single school is simply the "best" theory for every question. Each reveals some dimensions and can obscure others.
 
 > [!note]
 > Networking can be studied interactionally because networks are formed through repeated relationships, exchanges, meanings, and expectations.
 
-## Colonial Anthropology and the Study of India
+## Colonial anthropology and the study of India
 
 The development of sociology in India was entangled with colonial anthropology and colonial knowledge production.
 
-### Anthropometry and Race Science
+### Anthropometry and race science
 
 Colonial researchers measured skulls, noses, limbs, and other bodily features and connected those measurements to supposedly distinct races or social groups. The appropriate term here is **anthropometry**, not psychometry.
 
@@ -411,19 +411,19 @@ These practices:
 - Supplied a scientific appearance to racism
 - Helped justify colonial domination
 
-The existence of “human zoos,” in which colonized people were exhibited to European audiences, demonstrates the extreme dehumanization within this worldview.
+The existence of "human zoos," in which colonized people were exhibited to European audiences, demonstrates the extreme dehumanization within this worldview.
 
-### Dehumanization and Colonial Rule
+### Dehumanization and colonial rule
 
 Violence and exploitation are easier to justify when the colonized are represented as less than fully human. Racist knowledge was therefore not external to colonialism; it helped make domination appear civilizing, rational, and legitimate.
 
 Later anthropologists increasingly rejected crude racial measurement and emphasized respectful fieldwork, long-term engagement, and understanding people within their own social contexts. This did not automatically remove every colonial hierarchy, but it changed the methodological ideal.
 
-## Book View and Field View
+## Book view and field view
 
 Two approaches became central to the study of Indian society:
 
-### Book View
+### Book view
 
 The **book view** understands society through classical texts, scriptures, legal codes, and written traditions. European Indologists such as **Max Müller** became influential interpreters of India despite relying primarily on Sanskrit texts and scholarly networks rather than direct fieldwork in India.
 
@@ -435,7 +435,7 @@ Limits of the book view include:
 - Ignoring regional and historical variation
 - Describing society as timeless
 
-### Field View
+### Field view
 
 The **field view** studies how people actually live through observation, interviews, participation, and local research.
 
@@ -455,7 +455,7 @@ It investigates:
 
 The two views can complement each other, but neither should automatically stand in for the whole of Indian society.
 
-## Institutional Development of Indian Sociology
+## Institutional development of Indian sociology
 
 The lecture identifies the Universities of **Bombay** and **Lucknow** as early centers for the teaching and institutional development of sociology in India.
 
@@ -479,7 +479,7 @@ Later developments expanded the field toward:
 
 Indian sociology developed through a tension among colonial categories, textual Indology, field research, nationalism, and attempts to understand the specific forms of inequality and change in India.
 
-## Marx and Conflict Theory
+## Marx and conflict theory
 
 **Conflict theory** understands society through unequal control of material resources and continuing struggle among groups with opposed interests.
 
@@ -487,7 +487,7 @@ Marx's central proposition is often summarized as:
 
 > The history of society is a history of class struggles.
 
-### Class Relations Across Modes of Production
+### Class relations across modes of production
 
 | Social order | Dominant class | Subordinate class | Central relation |
 |---|---|---|---|
@@ -496,34 +496,34 @@ Marx's central proposition is often summarized as:
 
 Class is not simply a difference in income. It concerns a person's relationship to productive resources and the power to control or appropriate the labor of others.
 
-### Bourgeoisie and Proletariat
+### Bourgeoisie and proletariat
 
 - **Bourgeoisie:** Those who own or control the means of production and accumulate profit.
 - **Proletariat:** Those who do not own sufficient productive property and therefore sell their labor power for wages.
 
 Modern corporations complicate the image of one visible factory owner. Investors, boards, executives, managers, developers, testers, and workers occupy different positions. Ownership may take the form of **finance capital** dispersed through shares and institutions, but control and rewards remain unequal.
 
-## Marx Against a Fixed Human Nature
+## Marx against a fixed human nature
 
 Marx rejects explanations that treat greed, selfishness, compassion, or obedience as permanent and context-free human traits.
 
-Claims such as “capitalism exists because humans are naturally greedy” remove social accountability by presenting a historical system as an unavoidable expression of biology.
+Claims such as "capitalism exists because humans are naturally greedy" remove social accountability by presenting a historical system as an unavoidable expression of biology.
 
 The lecture connects this move to other forms of fatalism:
 
-- “This is simply our culture.”
-- “It is written in tradition.”
-- “Society has always been this way.”
-- “People cannot change their nature.”
+- "This is simply our culture."
+- "It is written in tradition."
+- "Society has always been this way."
+- "People cannot change their nature."
 
 Such statements can excuse practices like gender oppression or sati by transferring responsibility from actors and institutions to an allegedly permanent order.
 
 > [!important]
 > For Marx, people make history under material and social conditions they did not choose. Human capacities and aspirations are shaped through those conditions rather than fixed outside history.
 
-## Material Conditions Shape Consciousness
+## Material conditions shape consciousness
 
-Marx turns idealist philosophy toward material life. Rather than beginning with “I think, therefore I am,” he asks:
+Marx turns idealist philosophy toward material life. Rather than beginning with "I think, therefore I am," he asks:
 
 - What allows a person to eat and survive?
 - Who produced the food they consume?
@@ -540,7 +540,7 @@ Material and social existence → shapes consciousness, ideas, and aspirations
 
 This does not mean ideas are irrelevant. It means ideas arise within concrete relations of production, labor, family, education, and class.
 
-### Engineering Students and Aspirations
+### Engineering students and aspirations
 
 If few students in an engineering institution imagine becoming novelists, musicians, or rock stars, that pattern should not be explained as coincidence or innate preference alone. Their aspirations are shaped by:
 
@@ -554,7 +554,7 @@ If few students in an engineering institution imagine becoming novelists, musici
 
 People's desired futures are socially produced as well as individually imagined.
 
-## Profit, Accumulation, and Continuing Struggle
+## Profit, accumulation, and continuing struggle
 
 Marx focuses on the consolidation of material resources in the form of ownership and profit.
 
@@ -575,11 +575,11 @@ Class struggle may appear as:
 - Political movements
 - Struggles over welfare, taxation, or privatization
 
-## Protest as Hidden Class Struggle
+## Protest as hidden class struggle
 
 The lecture interprets protests over examination leaks and recruitment failures as class conflict. Students dependent on fair public examinations demand accountability from political and economic elites whose children can often access expensive private or foreign education.
 
-The conflict is therefore not merely “students versus an administrative error.” It involves unequal dependence on public institutions:
+The conflict is therefore not merely "students versus an administrative error." It involves unequal dependence on public institutions:
 
 | Less privileged aspirants | Wealthy and politically connected groups |
 |---|---|
@@ -589,11 +589,11 @@ The conflict is therefore not merely “students versus an administrative error.
 
 From a Marxian perspective, the language of accountability can reveal an underlying struggle between those who depend on a system and those with enough power to escape or govern it.
 
-## War, Imperialism, and Class Interest
+## War, imperialism, and class interest
 
 Conflict theory asks whether wars presented as national struggles also serve class interests.
 
-### Who Participates and Who Benefits?
+### Who participates and who benefits?
 
 Relevant questions include:
 
@@ -606,7 +606,7 @@ Relevant questions include:
 
 The fact that an entire country is invoked does not mean all classes participate equally or benefit equally.
 
-### Military-Industrial Complex
+### Military-industrial complex
 
 The **military-industrial complex** is the relationship among governments, armed forces, weapons manufacturers, contractors, financiers, and political interests that materially benefit from continued military expenditure and conflict.
 
@@ -626,9 +626,9 @@ War can sustain:
 This does not mean every war has one simple economic cause. It means national, religious, or security narratives should be examined alongside the material interests they may conceal.
 
 > [!important]
-> Conflict theory asks not only why opposing states fight, but why peace may threaten actors who profit economically or politically from continued hostility.
+> Conflict theory asks why opposing states fight and why peace may threaten actors who profit economically or politically from continued hostility.
 
-## Cultural Illustration: *Devdas* and Masculinity
+## Cultural illustration: *Devdas* and masculinity
 
 The lecture briefly invokes *Devdas* as a cultural text about masculinity. Devdas loses his relationship with Paro, turns to alcohol, receives care from Chandramukhi, and dies without overcoming his suffering.
 
@@ -642,7 +642,7 @@ A sociological reading can ask:
 
 The example anticipates the broader sociological study of masculinity as socially produced rather than biologically fixed.
 
-## Connecting the Lecture's Argument
+## Connecting the lecture's argument
 
 ```text
 Challenge to religious authority
@@ -666,23 +666,23 @@ Sociology and its multiple paradigms
 Functionalist order ↔ Marxian conflict ↔ interaction ↔ interpretation
 ```
 
-## Course Project Instructions
+## Course project instructions
 
 The lecture also provided project guidance.
 
-### Topic Proposal
+### Topic proposal
 
 - Submit one or more possible social problems through the course portal.
 - For each topic, write approximately **100 words** explaining precisely what the topic means.
-- Narrow broad themes to a specific context. For example, “gender violence” should specify whether it concerns marriage, intimate relationships, strangers, streets, workplaces, or another setting.
+- Narrow broad themes to a specific context. For example, "gender violence" should specify whether it concerns marriage, intimate relationships, strangers, streets, workplaces, or another setting.
 
-### Research and Consultation
+### Research and consultation
 
 - Use credible literature and, where suitable, media reports.
 - A systematic dataset is optional if the project instead presents a strong literature-based analysis.
 - Meet the instructor for a short consultation to refine the question.
 
-### Final Submission and Assessment
+### Final submission and assessment
 
 - Final essay: at least **2,500 words**, including references.
 - Citation is required.
@@ -705,19 +705,19 @@ The lecture also provided project guidance.
 - Raymond Aron's Marx selection in `main currents-1.pdf`, pp. 4-15 and 37-45, presents Marx as an analyst of capitalism, class conflict, historical development, and the relation between mature political economy and the earlier philosophical writings.
 - Giddens, chapter 9, pp. 115-119 of the PDF, is the assigned short reading on Marx, class, and revolution. It connects industrialization, ownership, exploitation, class consciousness, and collective political action.
 
-## Exam-Ready Synthesis
+## Exam-ready synthesis
 
 1. Epistemology asks what knowledge is, how it is produced, and which methods make claims credible.
 2. Sociology emerged from a social-historical transformation rather than the work of a single isolated genius.
 3. The Reformation weakened centralized church authority, while Renaissance and scientific inquiry expanded observation and reinterpretation.
-4. Colonial extraction provided wealth, raw materials, labor, and markets crucial to European industrialization.
+4. Colonial extraction provided wealth, raw materials, labor, and markets central to European industrialization.
 5. A dialectical approach treats history as an interaction of contradictions, feedback, and unintended consequences rather than a linear chain.
 6. Industrialization weakened feudal relations, released serfs from attachment to land, and expanded capitalist wage labor.
 7. Capitalism was historically progressive relative to feudalism but produced new forms of exploitation and class inequality.
 8. Migration, urbanization, and mobility made modern society dynamic and created sociology's problem of studying modernity scientifically.
 9. Modernity links freedom to physical, occupational, intellectual, and social movement, though access to mobility remains unequal.
 10. Spencer's organic analogy explains social interdependence but risks naturalizing fixed hierarchy and neglecting agency and conflict.
-11. Biological evolution does not morally justify social inequality; “survival of the fittest” is often misapplied through Social Darwinism.
+11. Biological evolution does not morally justify social inequality; "survival of the fittest" is often misapplied through Social Darwinism.
 12. Sociology is multi-paradigmatic: conflict, interactionist, functionalist, and interpretive schools ask different questions with different methods.
 13. Colonial anthropometry turned racist hierarchy into apparent science and helped justify domination.
 14. The book view studies textual ideals, while the field view investigates actual social practices and their variation.
@@ -727,7 +727,7 @@ The lecture also provided project guidance.
 18. Protests and wars may express class interests hidden beneath the languages of administration, nation, or security.
 19. The military-industrial complex explains how organized interests can profit from continued militarization and war.
 
-## Key Terms
+## Key terms
 
 - **Epistemology:** Study of knowledge, its sources, methods, scope, and validity.
 - **Methodology:** Organized principles governing how inquiry is conducted and evidence interpreted.
@@ -763,7 +763,7 @@ The lecture also provided project guidance.
 - **Class struggle:** Conflict between classes with opposed material interests and unequal relationships to production.
 - **Military-industrial complex:** Network of military institutions, government, contractors, and businesses benefiting from defense expenditure and war.
 
-## Questions for Revision
+## Questions for revision
 
 1. How does epistemology help explain the formation of academic disciplines?
 2. Why should sociology's emergence be understood historically rather than attributed to one thinker?
@@ -778,7 +778,7 @@ The lecture also provided project guidance.
 11. What is the difference between geographical mobility and social mobility?
 12. What does Sanskritization explain, and what are its limits as mobility?
 13. How does Spencer's organic analogy explain society, and why does Marxian theory reject it?
-14. Why is “survival of the fittest” an inadequate justification for class hierarchy?
+14. Why is "survival of the fittest" an inadequate justification for class hierarchy?
 15. What makes sociology a multi-paradigm discipline rather than a collection of personal opinions?
 16. How do conflict, interactionist, functionalist, and interpretive schools differ?
 17. How did anthropometry contribute to colonial race theory and dehumanization?

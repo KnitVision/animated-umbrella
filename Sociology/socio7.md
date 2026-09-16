@@ -18,7 +18,7 @@ aliases:
 # Capitalist exploitation: labor power, aspiration, and consumption
 
 > [!summary]
-> Capitalism extracts surplus by extending and intensifying **labor power**, but modern workers may also discipline and overwork themselves. Production now stretches across global commodity chains, while a small group of hard-to-replace employees receives creative freedom, prestige, and shares. The wider system sustains itself through aspirations of upward mobility, consumer choice, and exceptional success stories. **Commodity fetishism** hides the labor and exploitation inside products, while digital platforms can even convert resistance to exploitation into profitable content.
+> Capitalism extracts surplus from **labor power**, sometimes by making workers police and overwork themselves. Global commodity chains scatter production across countries, while a small, hard-to-replace group may receive autonomy, prestige, and shares. Stories of mobility and consumer choice make this unequal system look open to everyone. **Commodity fetishism** hides the labor inside products, and digital platforms can even sell resistance back as content.
 
 ## From exploitation to self-exploitation
 
@@ -188,7 +188,7 @@ Capitalism advertises itself through exceptions:
 
 One person may genuinely succeed. The story becomes ideological when that exception is used to imply that everyone had an equal chance and that failure proves insufficient effort.
 
-The sociological question is not only, "How did this person succeed?" It is also, "How many people performed similar labor but did not receive the same result, and why?"
+The sociological question goes beyond "How did this person succeed?" It also asks, "How many people performed similar labor but did not receive the same result, and why?"
 
 ## Illusions that stabilize capitalism
 

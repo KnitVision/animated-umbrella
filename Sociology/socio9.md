@@ -14,10 +14,10 @@ aliases:
   - Types of Social Action
 ---
 
-# Max Weber: Social Action and Rationalities
+# Max Weber: social action and rationalities
 
 > [!summary]
-> Max Weber makes **social action** the central unit of sociology. An action becomes social when an actor gives it a subjective meaning and orients it toward another person or group. Weber distinguishes four ideal types of social action: **instrumentally rational**, **value-rational**, **affective**, and **traditional**. Real conduct usually mixes several types. The sociologist's task is to interpret the actor's meaning, identify the audience and purpose, and then connect the action to wider institutions and patterns of power.
+> Weber begins with **social action**: conduct that carries a subjective meaning and is directed toward another person or group. His four ideal types are **instrumentally rational**, **value-rational**, **affective**, and **traditional** action. Actual conduct usually mixes them. Sociological explanation must recover the actor's meaning and audience, then connect both to institutions and power.
 
 ## Sociology as a multi-paradigm discipline
 
@@ -155,7 +155,7 @@ Celebrating another community's festival offers a contrasting possibility. A per
 
 ### The constitutional audience
 
-The phrase **"We, the People of India"** presents citizens as the authors of the Constitution. It opposes the idea that political authority was granted by a monarch or colonial ruler. A public act of exclusion can therefore be read as directed not only at its immediate victim but also at the constitutional idea of a shared citizenry.
+The phrase **"We, the People of India"** presents citizens as the authors of the Constitution. It opposes the idea that political authority was granted by a monarch or colonial ruler. A public act of exclusion can therefore target its immediate victim and the constitutional idea of a shared citizenry.
 
 ## Gendered violence as social action
 

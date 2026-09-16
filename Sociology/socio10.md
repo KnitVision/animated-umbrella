@@ -15,10 +15,10 @@ aliases:
   - Care Work and Automation
 ---
 
-# Social Reproduction: Care, Automation, and Labor Control
+# Social reproduction: care, automation, and labor control
 
 > [!summary]
-> Social reproduction theory extends Marxian analysis beyond the factory and office. Households and communities reproduce both **life** and **labor power** through childbirth, food, cleaning, care, rest, education, and emotional support. Capitalism depends on this work while often treating it as natural, feminine, and wageless. Automation and AI do not eliminate labor. They capture past labor, depend on hidden workers and material infrastructure, and can shift more people toward wagelessness. In the Global South, caste, class, gender, informality, migration, and global commodity chains complicate the simple division between male wage work and female domestic work.
+> Paid work depends on the work that keeps people alive and able to return the next day. Social reproduction theory brings childbirth, food, cleaning, care, rest, education, and emotional support into the analysis of capitalism. Much of this labor is treated as natural, feminine, and undeserving of wages. Automation and AI do not erase labor either. They store past work, rely on hidden workers and physical infrastructure, and can leave more people without wages. In the Global South, caste, class, gender, informality, and migration make any neat split between male wage work and female domestic work impossible.
 
 ## Extending Marx beyond the workplace
 
@@ -276,7 +276,7 @@ Phones and remote access let managers demand work on evenings, weekends, and hol
 
 ### Dormitory labor regimes
 
-In a **dormitory labor regime**, an employer, contractor, or labor intermediary controls not only the worksite but also housing, food, movement, and family life.
+In a **dormitory labor regime**, an employer, contractor, or labor intermediary controls the worksite, housing, food, movement, and family life.
 
 Migrant workers may travel as families rather than isolated individuals. Contractors who recruit a family gain access to several forms of labor:
 

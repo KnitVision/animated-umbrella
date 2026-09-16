@@ -13,14 +13,14 @@ aliases:
   - Agency and Structure
 ---
 
-# Introduction to Sociology: Agency and Structure
+# Introduction to sociology: agency and structure
 
 > [!summary]
-> Sociology studies the relationship and tension between individuals and larger social groups. Its central question is how people's **agency** operates within **structures** made of unequal power relations among institutions such as family, caste, class, gender, religion, the state, and the market.
+> Sociology asks how much room people have to act inside arrangements they did not choose. **Agency** names the capacity to act; **structure** names the institutions and unequal power relations that shape the available choices. Family, caste, class, gender, religion, the state, and the market all matter here.
 
-## What Is Sociology?
+## What is sociology?
 
-Sociology is the systematic study of society, social relationships, institutions, and interaction. More specifically, this lecture defines it as the study of the tension between:
+Sociology systematically studies society, social relationships, institutions, and interaction. Here, the focus is the tension between:
 
 - The **individual or self**
 - **Family and friends**
@@ -32,7 +32,7 @@ Unlike psychology, which often begins with the individual mind, sociology asks h
 > [!important]
 > Sociology does not treat the individual and society as separate. It studies how each is formed through its relationship with the other.
 
-## Agency and Structure
+## Agency and structure
 
 ### Agency
 
@@ -50,7 +50,7 @@ Agency does not mean unlimited freedom. People choose from options made availabl
 
 ### Structure
 
-**Structure** refers to enduring social arrangements that enable, restrict, and organize action. Structures include institutions, norms, hierarchies, rules, and established relationships of power.
+**Structure** refers to lasting social arrangements that enable, restrict, and organize action. Structures include institutions, norms, hierarchies, rules, and established relationships of power.
 
 Examples include:
 
@@ -63,7 +63,7 @@ Examples include:
 - The state and law
 - Markets and privatization
 
-### Their Relationship
+### Their relationship
 
 Agency and structure are not mutually exclusive explanations.
 
@@ -81,7 +81,7 @@ For example, a teacher may personally choose a teaching method, but workload, cu
 | Can the person resist prevailing expectations? | What are the costs of resistance? |
 | How does action change the surroundings? | How do power relations reproduce the surroundings? |
 
-## Sociology and Social Problems
+## Sociology and social problems
 
 Sociology is often described as a discipline that helps solve social problems. Before solving one, however, sociologists must ask:
 
@@ -94,7 +94,7 @@ Sociology is often described as a discipline that helps solve social problems. B
 
 The lecture uses the Indian education system to demonstrate this method.
 
-## Education as a Social System
+## Education as a social system
 
 Problems identified in the education system included:
 
@@ -117,7 +117,7 @@ Problems identified in the education system included:
 
 These issues are not isolated. Each is connected to other institutions and power relations.
 
-### Structural, Individual, or Both?
+### Structural, individual, or both?
 
 | Issue | Structural dimension | Individual dimension |
 |---|---|---|
@@ -132,7 +132,7 @@ These issues are not isolated. Each is connected to other institutions and power
 > [!note]
 > Labeling a problem "structural" does not mean individuals have no agency. It means their choices occur under pressures and unequal conditions that cannot be explained by personality alone.
 
-## Competition and Merit
+## Competition and merit
 
 The lecture distinguishes **working toward a goal** from **competition**.
 
@@ -149,17 +149,17 @@ This illustrates how:
 
 The expression **"चार लोग क्या कहेंगे"** (*What will people say?*) captures the influence of an imagined audience. Social comparison can shape choices even when no specific observer directly commands the individual.
 
-## Hierarchy of Disciplines
+## Hierarchy of disciplines
 
 The preference for STEM over arts, humanities, and social sciences is both structural and social.
 
-### Structural Sources
+### Structural sources
 
 - Employment opportunities appear more direct or visible in STEM.
 - Institutions and markets assign different rewards and prestige to disciplines.
 - Unequal exposure means some groups have less information about non-STEM careers.
 
-### Social and Individual Reproduction
+### Social and individual reproduction
 
 - Families encourage subjects associated with secure employment or status.
 - Gender norms may frame science and computing as masculine.
@@ -168,7 +168,7 @@ The preference for STEM over arts, humanities, and social sciences is both struc
 
 The same course of study can therefore carry different meanings in different social locations. What appears to be free choice may reflect prior socialization and unequal access to alternatives.
 
-## Institutions and Relations of Power
+## Institutions and relations of power
 
 The lecture's central proposition is:
 
@@ -199,7 +199,7 @@ These institutions interact rather than operate independently. For example, educ
 
 Power lies in the capacity of these relationships to enable some actions, identities, and futures while disabling others.
 
-## The Jenga Model of Society
+## The Jenga model of society
 
 The classroom used a Jenga tower to model the education system.
 
@@ -209,7 +209,7 @@ The classroom used a Jenga tower to model the education system.
 - The tower's instability represented unintended effects on the wider system.
 - Refusing to remove blocks preserved the **status quo**.
 
-### Lessons From the Model
+### Lessons from the model
 
 1. **Problems are interdependent:** changing one element affects others.
 2. **Reform is difficult:** a simple solution can destabilize connected arrangements.
@@ -221,11 +221,11 @@ The classroom used a Jenga tower to model the education system.
 > [!warning]
 > A proposal that claims one action will completely solve a long-standing social problem ignores structural interdependence.
 
-### Limits of the Analogy
+### Limits of the analogy
 
 The tower suggests a fixed structure, but actual society is dynamic. People can redesign institutions, build alternatives, change power relations, and collectively create new possibilities. Reform need not only mean carefully removing existing pieces.
 
-## Choice and Unequal Opportunity
+## Choice and unequal opportunity
 
 Structures present people with sets of options, but the number and quality of those options differ.
 
@@ -233,11 +233,11 @@ Structures present people with sets of options, but the number and quality of th
 - Another may have only one viable path because of poverty, family responsibility, location, or discrimination.
 - A formal right to choose does not guarantee a meaningful range of choices.
 
-### Example: Economic Constraint
+### Example: economic constraint
 
 A child whose earning parent dies may have to leave school and become a migrant worker. This outcome involves action, but calling it a free choice conceals the absence of realistic alternatives.
 
-### Example: Gender and Education During COVID-19
+### Example: gender and education during COVID-19
 
 When colleges closed, some women were expected to perform unpaid household labor or marry rather than continue education. Their altered educational trajectories emerged from the interaction of:
 
@@ -263,7 +263,7 @@ It includes:
 - Aspirations and imagined futures
 - Ordinary habits and communication
 
-Structures shape not only which choices are available but also what individuals learn to desire. A student may come to want engineering because family, peers, markets, status hierarchies, and institutions have made that path seem natural or desirable.
+Structures shape the available choices and what people learn to desire. A student may come to want engineering because family, peers, markets, status hierarchies, and institutions have made that path seem natural or desirable.
 
 > [!important]
 > Structure does not merely block action from outside. It helps form the self that acts.
@@ -285,11 +285,11 @@ Sources of socialization include:
 
 Socialization explains why the same option can appear respectable and realistic to one group but risky or unacceptable to another.
 
-## Ascribed and Achieved Status
+## Ascribed and achieved status
 
 Sociology distinguishes two forms of status.
 
-### Ascribed Status
+### Ascribed status
 
 An **ascribed status** is assigned without being chosen, often at birth.
 
@@ -301,7 +301,7 @@ Examples include:
 - Birthplace
 - Social identities assigned by others
 
-### Achieved Status
+### Achieved status
 
 An **achieved status** is acquired through action, performance, or later life processes.
 
@@ -312,7 +312,7 @@ Examples include:
 - Institutional membership
 - Some relationships and social roles
 
-### The Connection
+### The connection
 
 The distinction is analytical rather than absolute. Ascribed status affects the resources, recognition, and opportunities available for attaining achieved status.
 
@@ -325,7 +325,7 @@ For example:
 
 Thus, even achievements attributed to individual merit are socially conditioned.
 
-## Caste Beyond Reservation
+## Caste beyond reservation
 
 The lecture challenges the argument that reservation itself creates or sustains caste discrimination.
 
@@ -338,7 +338,7 @@ Removing reservation would not automatically eliminate caste because caste opera
 - Dating and marriage
 - Everyday interaction
 
-### Dating-App Example
+### Dating-app example
 
 Digital dating platforms reduce limits of physical proximity and make initial communication easier. Yet caste preferences can reappear when users seek long-term relationships or marriage.
 
@@ -348,7 +348,7 @@ This demonstrates that:
 - Apparently personal romantic choices can reproduce social boundaries.
 - The platform's affordances enable agency, while family and caste structures continue to shape its use.
 
-## Gender as Structure and Practice
+## Gender as structure and practice
 
 Gender is not limited to a male-female binary; it includes a broader spectrum of identities. Gender inequality is structural because it is embedded in:
 
@@ -360,7 +360,7 @@ Gender is not limited to a male-female binary; it includes a broader spectrum of
 
 It is also reproduced by individuals who continue discriminatory behavior, including those who understand the inequality involved.
 
-### Computing and Masculinity
+### Computing and masculinity
 
 The belief that computing is naturally masculine is socially produced rather than evidence of innate ability.
 
@@ -371,7 +371,7 @@ The belief that computing is naturally masculine is socially produced rather tha
 
 This is a circular process: structure shapes participation, and unequal participation is used to justify the structure.
 
-## Mental Health: Sociological Perspective
+## Mental health: sociological perspective
 
 A purely individual explanation may frame mental health as a matter of personality, diagnosis, meditation, or personal coping. Sociology asks how everyday well-being is also shaped by:
 
@@ -394,11 +394,11 @@ Individual mental conditions remain real, but they do not capture the whole soci
 
 The two lenses can complement one another. Sociology rejects reducing a structurally produced condition to personal failure.
 
-## Imagined Communities and Digital Communication
+## Imagined communities and digital communication
 
 Social media allows people who never meet to share language, symbols, identities, and political demands. Such a group can form an **imagined community**: members experience connection despite not knowing most other members personally.
 
-### Shared Language
+### Shared language
 
 Generation-specific slang, gestures, memes, images, and political references can:
 
@@ -410,7 +410,7 @@ Generation-specific slang, gestures, memes, images, and political references can
 
 Language is therefore not merely a tool for describing a movement. It can help create the movement's community.
 
-### Political Symbols and Memory
+### Political symbols and memory
 
 When a new generation uses figures or symbols from past movements, historical discourse has not disappeared. It is being reinterpreted for a new context. Collective action draws on both new digital forms and inherited political memory.
 
@@ -427,9 +427,9 @@ When a new generation uses figures or symbols from past movements, historical di
 
 Online communication allows protest language, strategies, and solidarity to move across national boundaries. A community formed around a local issue may therefore become transnational.
 
-These flows are not frictionless. States, platforms, language, censorship, inequality, and political conflict can facilitate or obstruct them.
+These flows are not frictionless. States, platforms, language, censorship, inequality, and political conflict can help or obstruct them.
 
-## Misinformation and Disinformation
+## Misinformation and disinformation
 
 Digital communication can transmit harmful content as well as solidarity and knowledge.
 
@@ -449,7 +449,7 @@ Repeatedly amplifying an isolated event can create a misleading picture of an en
 
 The spread of anti-Rohingya content through Facebook in Myanmar illustrates how platform communication can contribute to severe offline violence.
 
-## Platform Affordances and Governance
+## Platform affordances and governance
 
 An **affordance** is an action that a technology's design makes possible or easier.
 
@@ -462,7 +462,7 @@ Examples include:
 
 Technology does not determine a single outcome. The same affordance can be used differently within different social structures.
 
-### Design and Responsibility
+### Design and responsibility
 
 When a platform knowingly supplies a feature that predictably enables abuse, responsibility cannot be placed only on individual users. Sociological analysis distributes responsibility across:
 
@@ -478,7 +478,7 @@ This is the field of **platform governance**: how platforms create rules, enforc
 > [!note]
 > "The user chose to do it" is an incomplete explanation when a platform designed, promoted, or profited from the capability that made the action easy and scalable.
 
-## From Self to Society
+## From self to society
 
 The lecture's complete sociological chain is:
 
@@ -507,7 +507,7 @@ Sociology moves between these levels to understand:
 - Anthony Giddens, *Sociology*, chapter 1, pp. 6-9 of `giddens.pdf`, develops C. Wright Mills's sociological imagination through the coffee example. It connects an ordinary act to ritual, legal classifications, colonial trade, and global production.
 - Giddens, chapter 1, p. 43 of the PDF, frames structure and agency as a continuing theoretical problem. This supports the central claim here that structure constrains action but is also maintained or changed through action.
 
-## Exam-Ready Synthesis
+## Exam-ready synthesis
 
 1. Sociology studies the relationship between individuals and larger social formations.
 2. Agency is the capacity to act; structure is the network of institutions and power relations that enables and restricts action.
@@ -520,11 +520,11 @@ Sociology moves between these levels to understand:
 9. Digital language creates imagined communities and carries collective action across borders through globalization.
 10. Platform design and governance help determine whether digital affordances support community, manipulation, or harm.
 
-## Key Terms
+## Key terms
 
 - **Sociology:** Study of society, social relationships, institutions, and the relationship between individuals and groups.
 - **Agency:** Capacity to act and make choices within social conditions.
-- **Structure:** Enduring arrangement of institutions, norms, hierarchies, and power relations.
+- **Structure:** Lasting arrangement of institutions, norms, hierarchies, and power relations.
 - **Institution:** Durable system of roles, norms, and relationships organizing social life.
 - **Power relation:** Unequal capacity to enable, constrain, or shape another actor's options.
 - **Status quo:** Existing social arrangement, especially when preserved rather than transformed.
@@ -539,7 +539,7 @@ Sociology moves between these levels to understand:
 - **Misinformation:** Inaccurate information spread without intent to deceive.
 - **Disinformation:** Inaccurate or manipulated information deliberately spread to deceive.
 
-## Questions for Revision
+## Questions for revision
 
 1. How does sociology differ from an exclusively psychological account of behavior?
 2. Why are agency and structure not opposing explanations?
