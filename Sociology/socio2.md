@@ -458,11 +458,35 @@ Interest and curiosity should guide the selection because sustained research bec
 > [!note] Page-number convention
 > The references below use PDF page numbers.
 
-- `Intro-TKHS-II.pdf`, pp. 2-3, uses Katherine Mayo's *Mother India* to make the lecture's first methodological point: seeing is not the same as understanding.
-- The same slides, pp. 6-11, summarize Peter Berger's sociological attitude as skepticism, controlled bias, attention to unofficial or disreputable worlds, debunking, and relativization. These are the reading anchors for the sections on skepticism, reflexivity, and looking behind appearances.
-- Anthony Giddens, *Sociology*, chapter 2, pp. 47-53 of `giddens.pdf`, discusses human subjects, ethics, science, objectivity, and the research process. Giddens does not ask researchers to have no commitments. He asks them to keep prior commitments from deciding how evidence is collected, analyzed, and reported.
-- Giddens, chapter 2, pp. 72-78, distinguishes qualitative and quantitative methods and explains the tension in fieldwork between closeness to participants and analytical distance. This qualifies any simple claim that objectivity means detachment from the field.
-- Giddens, chapter 2, pp. 91-92, treats privacy, confidentiality, and legitimate data collection as core problems in digital sociology. This directly supports the notes on payment systems, datasets, platform research, and research ethics.
+### Seeing is not yet understanding
+
+The slides open with Katherine Mayo's *Mother India* and the warning that **seeing is not understanding**. Observation does not arrive with its own explanation. A photograph, shocking case, or visible practice can be real while the interpretation attached to it is selective or politically loaded. The researcher must ask who chose the scene, what is outside the frame, how the practice developed, and what purpose the account serves. (`Intro-TKHS-II.pdf`, pp. 2-3)
+
+This is the methodological point behind sir's discussion of Mayo and the drain-inspector critique. Reporting a filthy drain is not the same as explaining the city. Likewise, observing dowry does not by itself explain how marriage markets, property, gendered dependence, prestige, and violence hold the practice together. A quick moral reaction may be understandable, but sociology has to reconstruct the relations that produced what was seen.
+
+### Berger's sociological attitude
+
+Peter Berger describes sociology as an attempt to understand before rushing to intervention. His "art of skepticism" asks the researcher to question what a society takes for granted and to look behind its official account. Berger is drawn to unofficial and disreputable worlds because respectable institutions often describe themselves in flattering terms. A study of law is incomplete if it records only the law's view of the criminal and never the criminal's view of the law. **Debunking** exposes the interests or arrangements hidden by an official story. **Relativization** compares meanings across settings instead of treating one local custom as universal. The result is a cosmopolitan imagination able to recognize several socially produced meanings without declaring every claim equally true. (`Intro-TKHS-II.pdf`, pp. 6-11)
+
+Sir's examples follow this sequence. Prisoners, Bauls, bar workers, families involved in dowry, and users excluded by digital payments may look irrational from outside. Their conduct becomes intelligible once the researcher studies the rules, risks, dependencies, and meanings of their setting. Understanding does not require approval. It prevents condemnation from replacing explanation.
+
+### Objectivity means disciplined involvement
+
+Giddens rejects the fantasy that researchers begin without values. Research questions often grow from commitments concerning poverty, inequality, health, or rights. The demand for objectivity applies most strongly to what happens next. Researchers must prevent those prior commitments from deciding how they collect evidence, interpret disagreement, or report results. Good work balances **involvement**, which makes a serious question possible, with **relative detachment**, which keeps the preferred answer from controlling the inquiry. (`giddens.pdf`, pp. 47-53)
+
+This is close to sir's account of **reflexivity**. A researcher's caste, class, gender, institutional position, and political commitments affect access and interpretation. Naming that position does not automatically remove bias, but hiding it makes the bias harder to examine. Value freedom is therefore an intellectual discipline, not a claim to be a person without values.
+
+### Method follows the question
+
+Giddens distinguishes quantitative methods, which measure patterns across many cases, from qualitative methods, which recover context and meaning in depth. Neither is sufficient for every problem. Interviews may reveal how women understand unpaid domestic work, while a survey can show how widely that division of labor is distributed. Combining methods can place individual voices inside a larger pattern. (`giddens.pdf`, pp. 72-78)
+
+Ethnography is especially useful for the hidden worlds discussed in class. By spending time with a group, the researcher can learn how participants understand their conduct. The strength of this method creates its main danger. Too much distance produces a shallow outsider's account; too much identification can make the researcher lose analytical perspective. Small field studies are also hard to generalize. These limits explain why reflexivity and comparison matter.
+
+### Ethics does not disappear when data is available
+
+Research on people raises questions about informed consent, privacy, anonymity, data storage, deception, and possible harm. Giddens contrasts older covert research with newer practice in which participants are told the study's purpose, protected through pseudonyms and secure storage, and sometimes invited to comment on interpretations. Participants are not raw material. (`giddens.pdf`, pp. 47-53)
+
+Digital data requires the same caution. Online traces are not "natural" facts waiting to be collected. Platform design and human decisions determine what is recorded, ranked, cleaned, and made visible. Giddens's example of the Samaritan Radar app is instructive. An attempt to identify people at risk of suicide alerted their followers without consent and was shut down after criticism about stigma and privacy. Public availability therefore does not settle whether collection is legitimate. This directly supports sir's warning about buying browsing histories, scraping platforms, or treating payment as proof of free consent. (`giddens.pdf`, pp. 91-92)
 
 ## Exam-ready synthesis
 

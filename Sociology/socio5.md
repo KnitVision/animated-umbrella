@@ -698,12 +698,46 @@ The lecture also provided project guidance.
 > [!note] Page-number convention
 > The references below use PDF page numbers.
 
-- `Lecture 2 - Development of Sociology in India.pdf`, pp. 2-6, connects sociology's emergence to the Enlightenment, scientific method, colonial expansion, industrialization, urbanization, individualism, political revolution, and the nation-state.
-- The same slides, pp. 7-10, divide Indian sociology's development into colonial, nation-state, and post-1970s phases. They also explain why sociology was associated with Europe while anthropology was used to classify colonized populations.
-- The slides, pp. 17-26, trace colonial spatial and caste classifications, the Indological and field-based approaches, the Bombay and Lucknow schools, village studies, and later feminist, Dalit, subaltern, and postcolonial challenges.
-- Anthony Giddens, *Sociology*, chapter 1, pp. 16-27 of `giddens.pdf`, places Comte, Durkheim, Marx, and Weber within the disruption caused by revolution and industrialization. His overview supports treating sociology as a multi-paradigm discipline rather than a single cumulative theory.
-- Raymond Aron's Marx selection in `main currents-1.pdf`, pp. 4-15 and 37-45, presents Marx as an analyst of capitalism, class conflict, historical development, and the relation between mature political economy and the earlier philosophical writings.
-- Giddens, chapter 9, pp. 115-119 of the PDF, is the assigned short reading on Marx, class, and revolution. It connects industrialization, ownership, exploitation, class consciousness, and collective political action.
+### Why sociology emerged in modern Europe
+
+The reading does not explain sociology as the invention of one brilliant thinker. It identifies a cluster of changes that made society itself appear as a new object of inquiry. The Enlightenment and Scientific Revolution gave authority to observation, evidence, measurement, and hypothesis. Religious authority weakened. Colonial expansion transferred wealth to Europe and confronted Europeans with societies they classified as "other." Industrialization shifted production away from agriculture, expanded markets and cities, changed families and classes, and broke decisively with feudalism. Political revolutions challenged monarchy and made accountable government imaginable. Individualism gave more weight to achieved status and personal choice. (`Lecture 2 - Development of Sociology in India.pdf`, pp. 2-6)
+
+Giddens places Comte, Durkheim, Marx, and Weber inside this disruption. Comte wanted a science capable of restoring order. Durkheim studied the new forms of solidarity that might hold differentiated societies together. Marx treated capitalism as an antagonistic class system. Weber examined meaningful action and the rationalization of economic, legal, religious, and political life. They share a historical problem but do not give one cumulative answer. This is why sociology remains multi-paradigmatic. (`giddens.pdf`, pp. 16-27)
+
+### Sociology and colonial anthropology
+
+The slides divide Indian sociology into three broad phases. In the colonial phase, Europe was associated with history, science, and modernity, while colonized societies were assigned to anthropology and described as static, spiritual, or premodern. This division was political. Colonial administrators needed information about the people and territory they governed. Gazetteers, censuses, ethnographies, racial theories, and anthropometric measurements created categories of caste, tribe, race, village, estate, and cultural region that made society easier to administer. (`Lecture 2 - Development of Sociology in India.pdf`, pp. 7-10, 17-20)
+
+These records did not merely describe India. They helped produce an official version of it. The village appeared self-sufficient and harmonious; caste and tribe became the essence of social organization; changing relations of class, political alliance, and interdependence receded. The **Indological approach** added another bias by reading society through Sanskrit scriptures. Because Brahmins controlled much of the access to and interpretation of those texts, textual ideals could be mistaken for the lives of everyone in India.
+
+The Bombay School, associated with G. S. Ghurye, combined Indology with the claim that Hindu civilization supplied a cohesive Indian identity. It established caste, kinship, and family as central subjects, but could also turn upper-caste Hindu values into the national norm. The Lucknow School, associated with Radhakamal Mukherjee and D. P. Mukherji, was more empirical, analytical, interdisciplinary, and oriented toward the present. (`Lecture 2 - Development of Sociology in India.pdf`, pp. 21-23)
+
+### Nation, village, and later challenges
+
+After independence, M. N. Srinivas replaced the scriptural "book view" of caste with a field view based on village ethnography. This made local variation visible and produced concepts such as Sanskritization and Westernization. Yet the village studies often portrayed occupational interdependence as harmony, blurred the difference between village and caste, and ignored tribes, religious minorities, new interest groups, and the researcher's relation to the people studied. A. R. Desai's Marxist approach instead examined the ruling class, development planning, new agrarian and industrial classes, and movements against dominant groups. (`Lecture 2 - Development of Sociology in India.pdf`, pp. 23-25)
+
+From the 1970s, social movements, regional diversity, new entrants into higher education, communalization, globalization, and criticism of state-led development unsettled the older national sociology. Feminist, Dalit, Adivasi, subaltern, and postcolonial perspectives asked who had been treated as the representative Indian subject and who had been left outside the discipline's categories. (`Lecture 2 - Development of Sociology in India.pdf`, pp. 25-26)
+
+This history supports sir's warning about the organic analogy and the harmonious village. Interdependence can coexist with stigma, coerced work, unequal land ownership, and exclusion from knowledge. A field view improves on a book view only if it also examines power.
+
+### Marx's account of capitalist change
+
+Raymond Aron begins with Marx's mature analysis in *The Communist Manifesto*, *A Contribution to the Critique of Political Economy*, and *Capital*. Its center is the antagonistic character of capitalism. Competition drives the bourgeoisie to transform production and create a world market. The system expands productive capacity at extraordinary speed, yet property and income remain unequal. The conflict between productive forces and existing relations of production becomes the basis for crisis and class struggle. (`main currents-1.pdf`, pp. 4-15)
+
+Marx distinguishes the economic base, made of productive forces and relations of production, from legal, political, and ideological institutions in the superstructure. This is not a claim that every idea is a direct mechanical effect of the economy. It is a research direction: explain dominant ideas and institutions through the material relations in which people live. People enter relations of production that they did not individually choose, and those relations shape consciousness. This is the reading behind sir's example of engineering aspirations. A preference may feel personal while family resources, education, labor markets, and respectable career ideals have already organized what can be desired.
+
+Giddens presents class as a shared relation to the means of production. Under feudalism, landowners visibly appropriated produce or labor from serfs. Under capitalism, owners purchase labor power and retain the surplus produced beyond wages and production costs. Mechanization can raise total wealth while making work repetitive and separating workers from their products. Shared exploitation may generate class consciousness and collective action, though later history has not followed Marx's revolutionary forecast in a simple way. (`giddens.pdf`, pp. 115-119)
+
+### What to carry into sir's conflict examples
+
+Marx's framework asks four questions that apply beyond the nineteenth-century factory:
+
+1. Who controls the resources needed for production?
+2. Who must sell labor or depend on an institution to survive?
+3. Who receives the surplus or gains the power created by collective work?
+4. When a dispute is described as administrative, national, or cultural, which class interests remain hidden?
+
+Examination protests fit this pattern when some students depend on public recruitment while wealthy families can buy alternatives. War can be examined through the classes that decide, fight, pay, and profit. These applications do not prove that class explains every conflict. They use Marx's strongest insight: equal national or institutional language can conceal unequal material positions.
 
 ## Exam-ready synthesis
 

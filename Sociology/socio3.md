@@ -807,11 +807,33 @@ Urbanization is a process because populations, occupations, infrastructure, life
 > [!note] Page-number convention
 > The references below use PDF page numbers.
 
-- `Intro-TKHS-II.pdf`, pp. 6-11, is the main reading companion to this lecture. It presents Berger's "art of skepticism," the attempt to understand before intervening, and the need to question what is taken for granted.
-- On pp. 8-9, the slides direct sociologists toward unofficial and socially disreputable worlds, including the criminal's view of law. This supports the sections on Venkatesh, Jamtara, hidden worlds, and the gap between respectable public accounts and participants' meanings.
-- On p. 10, the slides join debunking with relativization and a plurality of meanings. Relativization does not mean that every claim is equally sound. It means comparing the social conditions under which meanings become plausible.
-- Anthony Giddens, *Sociology*, chapter 2, pp. 72-78 of `giddens.pdf`, provides the methodological background for ethnography, access, and the problem of remaining close enough to understand participants without losing analytical distance.
-- Giddens, chapter 2, pp. 91-92, strengthens the warning about purchasing or scraping digital data: abundance does not remove obligations concerning privacy, confidentiality, consent, and legitimate collection.
+### Skepticism changes the question
+
+Berger's "art of skepticism" is not blanket disbelief. It is a refusal to stop at the first available explanation. The sociologist asks how an account became obvious, whose interests it protects, and what evidence would unsettle it. Berger also separates understanding from immediate intervention. Acting before reconstructing the problem can reproduce the relations that caused it. (`Intro-TKHS-II.pdf`, pp. 6-11)
+
+The hostel-stabbing example shows this method in practice. Alcohol and anger may explain the immediate escalation, but they cannot explain why violence repeatedly formed along regional lines. Once the history of hostel allocation, group rivalry, masculinity, and retaliation enters the account, an isolated fight becomes an institutional pattern. Skepticism has not denied the trigger. It has found the conditions that made the trigger consequential.
+
+### Why hidden worlds matter
+
+Berger asks sociologists to study the unofficial and the socially disreputable. Law can be studied through statutes and police records, but also through the way a person labelled criminal encounters the law. Matters treated as sacred, shameful, or distasteful may reveal how a society draws its moral boundaries. (`Intro-TKHS-II.pdf`, pp. 8-9)
+
+This explains the value of the Venkatesh and Jamtara cases. Entering a gang's social world can reveal governance, income, protection, and community relations that disappear when the group is described only as criminal. Research with young Dalit men involved in cybercrime can show how caste, aspiration, exclusion, technical skill, and mobility enter illegal work. None of this excuses violence or fraud. It replaces a thin moral label with a causal account.
+
+**Debunking** and **relativization** complete the method. Debunking looks behind a respectable appearance or official claim. Relativization compares the meanings of the same practice across settings. A campus rule, marriage preference, or gesture of respect may work differently elsewhere. This plurality does not make evidence optional. It means that a claim has to be judged inside the social conditions that give it meaning. (`Intro-TKHS-II.pdf`, p. 10)
+
+### Ethnography, access, and distance
+
+Giddens defines ethnography as sustained first-hand study through observation, participation, and interviews. It can show both what people do and how they understand what they do. That is why it suits gangs, occupational groups, influencers, and other settings whose public image differs from everyday life. (`giddens.pdf`, pp. 72-78)
+
+Access is never neutral. Gender, caste, class, age, institutional affiliation, and personal networks affect who will speak and what the researcher can see. Sir's example of research with women micro-influencers makes this concrete. A male researcher may miss conversations that participants share with a woman researcher. A team with different social positions can therefore produce better evidence, provided it records how each relationship shaped the data.
+
+Ethnography also has limits. It studies small groups, depends heavily on the researcher's skill, and cannot automatically represent a city or country. Close identification may turn the researcher into an insider who no longer questions the group's account. Too much distance prevents trust and produces only rehearsed answers. Reflexivity keeps this tension visible; it does not magically solve it.
+
+### Digital traces are made, not found
+
+Giddens questions the description of online data as "naturally occurring." People produce the activity, companies design the devices and rankings, and analysts decide what counts as data. A download count may tell us about users, or it may tell us that an app store promoted one item more heavily. The platform is part of the evidence. (`giddens.pdf`, pp. 91-92)
+
+The same pages stress confidentiality, privacy, and legitimate collection. Data visible to a company or obtainable through payment is not automatically ethical research material. The Samaritan Radar case shows why. Monitoring posts to predict suicide risk sounded helpful, but notifying followers without the account holder's consent risked exposure and stigma. This supports sir's objection to purchasing browsing histories from economically vulnerable auto drivers. Payment can intensify unequal power, and a large dataset can still rest on bad consent.
 
 ## Exam-ready synthesis
 

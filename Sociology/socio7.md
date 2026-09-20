@@ -281,11 +281,43 @@ Food delivered to a protest creates a similar contradiction. Delivery workers ma
 > [!note] Page-number convention
 > The references below use PDF page numbers.
 
-- `Alienation.pdf`, pp. 12-18, moves from alienation to labor power, surplus value, commodity fetishism, and exploitation. It supplies the conceptual sequence used in this lecture.
-- Tricontinental: Institute for Social Research, *The Rate of Exploitation: The Case of the iPhone*, pp. 24-36 of `iphonetricontinental.pdf`, explains commodity value, constant and variable capital, surplus value, and the rate of exploitation before applying them to the iPhone.
-- The iPhone case estimates the distribution of value across a global commodity chain. Its calculation is an argued model based on the report's assumptions, not a timeless property of every phone or production year.
-- Anthony Giddens, *Sociology*, chapter 9, pp. 115-119 of `giddens.pdf`, links Marx's class analysis to industrialization, ownership, the appropriation of workers' products, class consciousness, and revolution.
-- Raymond Aron's Marx selection in `main currents-1.pdf`, pp. 4-15 and 37-45, is useful for distinguishing Marx's analysis of capitalism from later political programs attributed to him.
+### Labor power makes surplus possible
+
+The alienation slides move from estranged labor to the distinction between **labor** and **labor power**. A worker does not sell a finished amount of labor in advance. The worker sells the capacity to work for a period. That capacity is formally free because it belongs to the worker, but a person without land, tools, or capital must sell it to live. (`Alienation.pdf`, pp. 12-18)
+
+The iPhone reading explains why Marx calls labor power a peculiar commodity. Its exchange value appears as the wage needed to reproduce the worker. Its use inside production creates new value. Once workers have produced value equivalent to their wages, the remaining part of the day is **surplus labor time**. The value created then is **surplus value**, retained by capital. (`iphonetricontinental.pdf`, pp. 24-31)
+
+This makes sir's point about the working day clearer. Capital can increase surplus by extending hours, speeding work, reorganizing tasks, or raising productivity. Self-exploitation does not abolish the relation. Deadlines, rankings, career ambition, and fear of replacement can push workers to lengthen their own effective working day without a supervisor issuing each command.
+
+### Reading the value of a commodity
+
+The iPhone report divides a commodity's value into three parts:
+
+| Category | Meaning | iPhone example in the report |
+|---|---|---|
+| Constant capital, `c` | Value transferred from materials, machinery, buildings, and energy | Components and production equipment |
+| Variable capital, `v` | Wages paid for labor power | Test and assembly labor, estimated from available component data |
+| Surplus value, `s` | New value remaining after constant and variable capital | The part appropriated by capital |
+
+The report defines the rate of exploitation as `s/v`. Its iPhone X model starts with a US sale price of `$999`, estimates constant capital at `$370.89` and variable capital at `$24.55`, and assigns the remaining `$603.56` to surplus value. This produces `603.56 / 24.55 = 2458%`. The political force of the number is straightforward: a tiny share of the modeled value goes to manufacturing wages while a much larger share is controlled elsewhere in the chain. (`iphonetricontinental.pdf`, pp. 32-36)
+
+The calculation is not a timeless fact about every iPhone. The authors explicitly simplify by treating price as an expression of value, estimating secret wage data, excluding or spreading some research and design costs, and assigning the residual to surplus. Distribution, taxes, intellectual property, marketing, and changing suppliers complicate the model. Use the figure as an argued estimate that makes value distribution visible, not as a universal constant.
+
+### Commodity fetishism and the global chain
+
+Commodity fetishism makes relations among people appear as qualities of an object. A phone appears valuable because of design, brand, and technical power. The miners, component workers, assemblers, logistics workers, and households that reproduce those workers disappear behind the finished commodity. Sir's global commodity chain restores those relations. It also shows why consumer choice is partial. Choosing between brands does not reveal or transform the labor conditions built into both products.
+
+This helps explain data rent and platform labor. A platform can appear to offer a free service while users supply attention, content, behavioral information, and network effects. The commodity form hides who is working and where value is captured.
+
+### Class, consciousness, and the limits of prediction
+
+Giddens summarizes Marx's definition of class through a shared relationship to the means of production. Capitalists own productive assets; proletarians live by selling labor power. Capitalism hides exploitation more effectively than feudal dues because the wage looks like payment for the whole working day. Concentrating workers in common conditions could, Marx thought, turn a class "in itself" into a class "for itself" capable of collective action. (`giddens.pdf`, pp. 115-119)
+
+The reading also records major criticisms. Modern class structures include managers, professionals, skilled workers, gendered and racial divisions, and contradictory positions that do not fit two camps neatly. Workers in advanced capitalist societies did not carry out the revolution Marx expected, and class is only one source of identity. These objections do not erase exploitation. They warn against assuming that shared conditions automatically produce solidarity.
+
+Raymond Aron similarly separates Marx's analysis from later doctrines presented in his name. Marx's lasting claim is that capitalism is dynamic and productive because competition forces constant change, yet antagonistic because ownership divides the people who control production from those who must sell labor. (`main currents-1.pdf`, pp. 4-15, 37-45)
+
+This is the reading link to sir's discussion of aspiration. Exceptional success stories encourage each worker to imagine becoming an owner or elite employee. The possibility is real for a few, which makes the promise persuasive. Sociology then asks how many people do comparable work without moving upward and whether ownership has changed when an employee receives prestige, autonomy, or a small number of shares.
 
 ## Exam-ready synthesis
 

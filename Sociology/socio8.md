@@ -366,12 +366,48 @@ The transcript mentions submission times without enough date context to preserve
 > [!note] Page-number convention
 > The references below use PDF page numbers.
 
-- Raymond Aron's Durkheim selection in `main currents-2.pdf`, pp. 5-12, compares mechanical solidarity based on resemblance with organic solidarity based on differentiation and interdependence.
-- Aron, pp. 20-22 and 29-35, explains Durkheim's use of suicide rates, social facts, constraint, classification, and concomitant variation. These pages support the move from individual cases to patterned social explanation.
-- Anthony Giddens, *Sociology*, chapter 1, pp. 20-22 of `giddens.pdf`, gives a concise account of egoistic, anomic, altruistic, and fatalistic suicide. Giddens also notes later criticism of Durkheim's official statistics and limited attention to influences outside society.
-- Keith Grint, *The Sociology of Work*, chapter 3, pp. 41-43 of `The sociology of work an introduction (Grint, Keith) .pdf`, connects the division of labor to Durkheim's claim that industrial differentiation can produce mutual dependence rather than only alienation.
-- Jonathan Parry, "Suicide in a Central Indian Steel Town," pp. 2-3 and 31-34 of `parry article.pdf`, is an empirical application and revision of Durkheimian reasoning. Parry links Bhilai's suicide pattern to economic liberalization, threatened class status, family tensions, and biased reporting practices.
-- The AI-judge and open-knowledge sections are lecture applications. They extend Durkheim's questions about regulation, specialization, legitimacy, and moral authority beyond the cases treated in the classical readings.
+### Solidarity changes form
+
+Durkheim's problem is not simply whether modern society has less solidarity. He asks what kind of bond can hold together people who no longer share the same work, beliefs, and daily life. Raymond Aron explains **mechanical solidarity** as cohesion through resemblance. A strong collective conscience covers much of the individual's life, and repressive law punishes an offense as an attack on the whole group. **Organic solidarity** grows through differentiation. Specialized people depend on work performed by others, and restitutive law repairs contracts and relationships among distinct roles. (`main currents-2.pdf`, pp. 5-12)
+
+Keith Grint stresses the argument's optimism. Against claims that urbanization and specialization would dissolve society, Durkheim thought the division of labor could free people from the isolation of self-sufficient units and create mutual dependence. Individuality and solidarity could grow together. (`The sociology of work an introduction (Grint, Keith) .pdf`, pp. 41-43)
+
+This is where sir's comparison with Marx matters. The same factory can create objective interdependence and alienated experience. Workers rely on one another to produce the commodity, as Durkheim sees, while ownership and fragmented tasks keep them from controlling or even recognizing that cooperation, as Marx sees.
+
+### Normal and abnormal divisions of labor
+
+Durkheim did not treat every specialization as healthy. **Anomie** appears when older regulation collapses before new norms and institutions stabilize. Meaningless work, unregulated markets, and goals without realistic means prolong it. **Forced division of labor** appears when inherited inequality assigns positions that do not correspond to ability. Durkheim therefore opposed inheritance and wanted occupational associations to mediate between individuals and the distant state. (Grint, pp. 41-43)
+
+His account of "natural" ability remains a serious weakness. Durkheim sometimes accepted gendered capacities as natural and treated domestic specialization as harmonious. Grint points out the contradiction: a predisposition becomes an actual division of labor only through social organization. Sir's criticism follows from this. If nutrition, schooling, caste, wealth, and patriarchy determine whose ability develops and receives recognition, merit cannot be observed outside structure.
+
+### Social facts and sociological proof
+
+For Durkheim, social facts exist beyond any one person and constrain conduct. Law, language, money, marriage, credentials, and suicide rates have this external force. Aron describes Durkheim's preferred method as **concomitant variation**: if two social conditions vary together across comparable groups, the pattern supports a causal explanation. Sociology therefore works through classification and comparison rather than through a final story about one individual. (`main currents-2.pdf`, pp. 20-22, 29-35)
+
+Suicide supplies the hardest case. Giddens summarizes four types produced by extremes of integration and regulation:
+
+| Type | Social condition |
+|---|---|
+| Egoistic | Too little integration |
+| Altruistic | Excessive integration and subordination to the group |
+| Anomic | Too little regulation, often during rapid disruption |
+| Fatalistic | Excessive regulation and blocked futures |
+
+Durkheim's achievement was to make a seemingly private act sociologically explainable. His weakness was treating official suicide statistics as more objective than they were and giving limited attention to non-social influences. (`giddens.pdf`, pp. 20-22)
+
+### Parry tests Durkheim in Bhilai
+
+Jonathan Parry found that suicide around the Bhilai Steel Plant was concentrated among secure public-sector workers and their families, not the poorest informal laborers. Liberalization and downsizing made it harder for these families to reproduce their privileged class position across generations. Young men could no longer expect plant jobs; retirees faced declining security; education, consumption, marriage, and "compassionate appointments" became sources of conflict. (`parry article.pdf`, pp. 2-3, 31-34)
+
+The case both uses and troubles Durkheim. BSP workers often belonged to larger households and stable work groups, so greater integration did not protect them. Nor could many cases be placed neatly into one type. Was a death after caste exclusion caused by weak integration or overpowering collective control? Were status aspirations under-regulated desires or oppressive peer expectations? Parry argues that class mobility and class reproduction explain more than the two axes alone.
+
+Official data also reflected law and police practice. Families concealed conflict to avoid abetment charges, harassment, or stigma. Police records demanded one cause, so multiple pressures became "economic difficulties." The rate and its causes were social products twice over: society affected the deaths, and institutions affected how deaths were classified.
+
+### Extending the reading to AI and expertise
+
+The readings do not discuss AI judges. Sir's example applies Durkheim's questions to a new institution. Law depends on shared moral authority, role differentiation, and accountable procedures. A model may classify past cases consistently, but statistical regularity is not legitimacy. If it reproduces biased records, cannot explain an unprecedented case, or gives richer users access to a better system, it changes regulation without creating just solidarity.
+
+The same applies to professional knowledge. A medical or legal field is an organic division of labor held together by communication, training, disagreement, and responsibility. Replacing those relations with a closed answer system may improve retrieval while weakening the group that validates knowledge. A trustworthy tool must be able to express uncertainty and remain answerable to human institutions.
 
 ## Exam-ready synthesis
 

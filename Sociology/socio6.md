@@ -435,11 +435,44 @@ The transcript also mentions project-consultation slots, but the dates are incom
 > [!note] Page-number convention
 > The references below use PDF page numbers.
 
-- `Alienation.pdf`, pp. 7-12, is the closest reading to the core of this lecture. It defines alienation as losing control over one's own activity and lays out estrangement from productive activity, the product, other people, and species-being.
-- Raymond Aron's Marx selection in `main currents-1.pdf`, pp. 31-37, places alienation in Marx's relation to Hegel and discusses the tension between work as human fulfilment and work reduced to a means of livelihood.
-- Keith Grint, *The Sociology of Work*, chapter 3, pp. 31-39 of `The sociology of work an introduction (Grint, Keith) .pdf`, compares Marx's account of alienation and exploitation with other classical approaches to work.
-- Grint, chapter 3, p. 37, identifies deskilling as a result of the capitalist division of labor: it cheapens labor, weakens worker control, and increases replaceability. This directly supports the sections on fragmented production and the appropriation of workers' knowledge.
-- The AI examples in the lecture are extensions of these arguments, not examples discussed by Marx. They should be presented as applications: systems trained on accumulated human work may transfer skill and control from workers to owners of the model and infrastructure.
+### Alienation is a relation of control
+
+The slides define alienation as a condition in which people's own activity becomes an independent power that confronts and controls them. This is more precise than unhappiness at work. A worker may like colleagues or take pride in a task and still lack control over the labor process and its result. Alienation is built into the social relation, not measured by mood alone. (`Alienation.pdf`, pp. 7-12)
+
+The four relations cover much of a worker's life:
+
+| Relation | What is lost | Connection to sir's examples |
+|---|---|---|
+| Productive activity | Work is coerced, repetitive, and organized by another person. | The assembly-line worker or tightly measured teaching assistant cannot decide how the whole task should be done. |
+| Product | What the worker makes belongs to an owner and returns as an independent commodity. | Software, cloth, or research can become company property that the producer neither controls nor can afford. |
+| Other people | Ownership places workers under another person's authority and competition separates workers from one another. | Ranking, individual performance metrics, and replaceability weaken occupational solidarity. |
+| Species-being | Human creative and cooperative capacities shrink into activity performed only to survive. | A skilled craft becomes a narrow motion; a creative profession becomes output against a deadline. |
+
+### Objectification is not automatically alienation
+
+Keith Grint draws an important distinction from Marx. **Objectification** occurs whenever people give material form to an idea or ability. The finished object stands apart from its maker, but it can still express the maker's creativity. Under capitalism, the worker lacks the means of production and sells labor power to an owner producing for profit. Objectification then becomes alienation because the worker loses control of the product, the process, and the purpose of production. (`The sociology of work an introduction (Grint, Keith) .pdf`, pp. 31-39)
+
+This is why Marx's target is capitalism rather than machinery by itself. Industrial technology can increase productive capacity. The social question is who owns it, who designs the work, and who receives the gain. Sir's dark-factory example makes the distinction vivid. Automation could remove dangerous drudgery under collective provision. Under wage dependence, the same machine can remove the worker's income and bargaining power.
+
+Grint also identifies a tension inside Marx. The early Marx treats creative work as the place where people realize their human capacities. In later work, freedom lies beyond necessary material production, even in a post-capitalist society. The tension matters for the class question about whether understanding the whole production process would end alienation. Knowledge and creative control can improve work, but freedom may still require shorter necessary labor and more time outside production.
+
+### Division of labor and deskilling
+
+Fragmentation separates a craft into narrow tasks. For Marx, this is not a temporary defect in industrialization. It lets capital control work. Management can record the worker's practical knowledge, turn it into procedures or machinery, and hire people who need less training. Labor becomes cheaper and easier to replace. The worker loses bargaining power because neither the skill nor the whole production process remains under worker control. (`The sociology of work an introduction (Grint, Keith) .pdf`, p. 37)
+
+This explains sir's sequence from Ford's assembly line to rationalization, deskilling, and the **usurpation of knowledge**. A productivity gain is never merely technical. When knowledge moves from workers into machinery owned by the firm, control moves with it. The IKEA example shows the same process reaching consumers: the company saves assembly labor by transferring part of production to the buyer.
+
+### Alienation and exploitation are related but different
+
+Grint distinguishes Marx's early philosophical concern with alienation from the later economic analysis of exploitation. Capital purchases **labor power**, the capacity to work, rather than a fixed quantity of completed labor. During production, workers create more value than they receive as wages. The owner appropriates the difference as surplus. The wage can make the exchange look equal even though control inside the workplace is unequal. (`The sociology of work an introduction (Grint, Keith) .pdf`, pp. 31-39)
+
+Alienation asks what happens to human control and creativity. Exploitation asks how the value produced by labor is divided. Higher pay may reduce hardship without giving workers control over the process or product. Conversely, a worker with some autonomy may still produce surplus for an owner.
+
+### Applying Marx to AI
+
+Marx did not write about generative AI, so the application must keep the analogy visible. Models are trained on accumulated writing, art, code, annotation, and correction. When an organization turns that collective knowledge into a proprietary system, past living labor becomes **dead labor** controlled through infrastructure and ownership. If the system then standardizes tasks, reduces training, or makes skilled workers more replaceable, it repeats the movement Grint describes from worker knowledge to capital-owned machinery.
+
+The strongest claim is about control, not that every use of AI has the same effect. Ask who supplied the knowledge, whether they consented, who owns the model, which tasks are fragmented, and who receives the productivity gain. Those questions connect sir's examples to Marx without pretending the technology appears in the original reading.
 
 ## Exam-ready synthesis
 

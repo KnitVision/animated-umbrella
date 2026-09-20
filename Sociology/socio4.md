@@ -399,10 +399,30 @@ Movements can threaten authority because an ideology may continue beyond any one
 > [!note] Page-number convention
 > The references below use PDF page numbers.
 
-- `Lecture 1 - Introduction to Sociology.pdf`, p. 4, groups caste, class, tribe or ethnicity, gender, religion, and family as social institutions or structures. It distinguishes them from processes such as power, urbanization, migration, industrialization, ecological change, resistance, and mobility.
-- The same slides, pp. 5-6, explain why an individual event must be placed inside the social systems in which people participate. This is the reading basis for moving from personal trouble to social issue.
-- Anthony Giddens, *Sociology*, chapter 1, pp. 20-22 of `giddens.pdf`, summarizes Durkheim's treatment of suicide rates as social evidence and also records objections to his use of official statistics. The second point matters because holism should not turn official categories into unquestioned facts.
-- Jonathan Parry, "Suicide in a Central Indian Steel Town," pp. 2-3 and 31-34 of `parry article.pdf`, shows this method in Bhilai. He links suicide patterns among public-sector workers to liberalization, workforce contraction, threatened class reproduction, and systematic under-reporting.
+### Institutions, structures, and processes
+
+The introductory slides separate relatively stable social arrangements from processes of change. Caste, class, tribe or ethnicity, gender, religion, and family classify people and organize expectations. Power, urbanization, migration, industrialization, resistance, ecological change, and mobility describe relations or movements that pass through those arrangements. (`Lecture 1 - Introduction to Sociology.pdf`, p. 4)
+
+The categories overlap in practice. A school is an institution with rules and sanctions. Its hierarchy places students, teachers, staff, and administrators in unequal positions. Migration or privatization may then alter who enters it and how authority works. This supports sir's distinction without turning it into three sealed boxes: institutions organize conduct, structures distribute positions, and processes reproduce or change both.
+
+The slides also state that people participate in systems larger than themselves. Socialization shapes their paths of least resistance, while their conduct makes the system happen. This is the bridge from a personal trouble to a social issue. A single suicide, punishment, or act of harassment has an individual history. A recurring pattern across a group requires an account of the institution and structure around it. (`Lecture 1 - Introduction to Sociology.pdf`, pp. 5-6)
+
+### Durkheim's wager and its limit
+
+Durkheim treated suicide as a decisive test for sociology because it appears intensely private. He compared rates rather than trying to explain one death from a final trigger. Stable differences among groups suggested that degrees of social integration and regulation shaped the probability of suicide. Giddens summarizes the four types: egoistic suicide follows weak integration, altruistic suicide follows excessive integration, anomic suicide follows weak regulation, and fatalistic suicide follows oppressive regulation. (`giddens.pdf`, pp. 20-22)
+
+The method is holistic, but official rates are not transparent facts. Later critics showed that coroners, police, families, and record systems classify ambiguous deaths differently. A pattern in the statistics may partly reflect a pattern in reporting. Holism therefore cannot mean trusting aggregate data without asking how institutions produced it.
+
+### Parry's Bhilai study
+
+Jonathan Parry keeps Durkheim's central move and revises it through ethnography. In Bhilai, suicide was concentrated in households tied to secure public-sector employment, the local **aristocracy of labor**, rather than among the poorest informal workers. The Bhilai Steel Plant cut its direct workforce from about 65,000 in the late 1980s to 31,500 by 2010. Sons who once expected to inherit a route into stable employment now faced contract work or unemployment. Retirement also threatened families accustomed to a public-sector wage, housing, benefits, and status. Liberalization created a crisis of **class reproduction**: families feared falling into the informal "labor class" from which they had distinguished themselves. (`parry article.pdf`, pp. 2-3, 31-34)
+
+This finding complicates any claim that deprivation alone predicts suicide. Public-sector households had stronger work groups and often larger kin networks, yet they showed greater vulnerability. Their integration carried exacting expectations concerning education, consumption, marriage, and the transfer of status to children. The pressure came from a threatened social position, not simply a lack of social ties.
+
+Parry also shows how institutions manufacture the official record. Indian law criminalized attempted suicide and punished abetment. Families therefore had reason to hide conflict, avoid police harassment, and present a death as an accident or the result of vague "economic difficulties." Police forms demanded one motive even when debts, marriage, employment, alcohol, status anxiety, and family conflict operated together. Solidary families could coordinate concealment more effectively. Integration may therefore affect whether a death enters the statistics as much as whether it occurs.
+
+> [!important] Reading-class connection
+> Sir's movement from personal trouble to social issue requires two steps. Look for patterned social causes, as Durkheim did, and investigate how the data itself was produced, as Parry did. Aggregate evidence is necessary, but its categories remain social facts that need explanation.
 
 ## Key distinctions
 

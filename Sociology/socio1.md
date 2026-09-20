@@ -502,10 +502,31 @@ Sociology moves between these levels to understand:
 > [!note] Page-number convention
 > The references below use PDF page numbers, not the page numbers printed inside a book excerpt.
 
-- `Lecture 1 - Introduction to Sociology.pdf`, pp. 2, 4-6, directly supports the definitions of sociology, social institutions and processes, and the claim that socialization shapes individual paths while individuals reproduce social systems.
-- The same slides, pp. 7-8, apply the sociological imagination to coffee as a ritual, commodity, and historically normalized practice. This is the reading counterpart to the movement in these notes from personal choice to social relations.
-- Anthony Giddens, *Sociology*, chapter 1, pp. 6-9 of `giddens.pdf`, develops C. Wright Mills's sociological imagination through the coffee example. It connects an ordinary act to ritual, legal classifications, colonial trade, and global production.
-- Giddens, chapter 1, p. 43 of the PDF, frames structure and agency as a continuing theoretical problem. This supports the central claim here that structure constrains action but is also maintained or changed through action.
+### The sociological imagination
+
+The introductory slides define sociology through the relationship between individuals and the larger society. Caste, class, gender, religion, family, and ethnicity are relatively stable arrangements. Power, migration, urbanization, industrialization, resistance, and mobility are processes that move through or alter those arrangements. This matches sir's insistence that an educational problem cannot be assigned neatly to either the student or the institution. The person acts inside several social systems at once. Through socialization, those systems shape what feels sensible or possible. Through repeated action, people keep the systems running. (`Lecture 1 - Introduction to Sociology.pdf`, pp. 2, 4-6)
+
+C. Wright Mills calls the ability to move between a life and its social setting the **sociological imagination**. Giddens describes it as the effort to "think ourselves away" from familiar routines. A private choice then becomes evidence about institutions, history, and power. Losing a job is a personal trouble when it happens to one person. Mass unemployment is a public issue because it points to economic change. The same move appears throughout sir's examples. One student's stress may involve personal circumstances, but a pattern of stress across a campus directs attention to grading, competition, workload, and inequality. (`giddens.pdf`, pp. 6-9)
+
+### What a cup of coffee contains
+
+Both the slides and Giddens use coffee because it looks like a purely personal choice. Once examined sociologically, it contains several layers:
+
+| Layer | What the reading adds | Link to class |
+|---|---|---|
+| Ritual | Meeting for coffee may matter more than the drink itself. The act organizes routine and interaction. | Everyday habits belong to a lifeworld and carry shared meanings. |
+| Classification | Caffeine alters the brain, yet many societies treat it as an ordinary legal substance rather than "drug use." | Institutions and norms decide which categories appear natural. |
+| Labor and trade | Coffee joins consumers in richer countries to growers, pickers, transport workers, and companies across the world. Many workers remain poorly paid. | A commodity connects an individual to distant class relations and globalization. |
+| History | Coffee became ordinary in Europe through colonial expansion and global trade. Its present familiarity hides that history. | Socialization turns a historical arrangement into common sense. |
+| Politics | Choosing fair-trade, organic, independent, or corporate coffee can express a political or moral position. | Consumption has agency, but markets and available choices structure it. |
+
+The point is not that every coffee drinker must reconstruct the whole commodity chain before taking a sip. The example teaches a method. Start with a familiar action, ask what made it possible, and follow its links outward. (`Lecture 1 - Introduction to Sociology.pdf`, pp. 7-8; `giddens.pdf`, pp. 6-9)
+
+### Structure exists through action
+
+Giddens rejects the image of social structure as a finished building standing outside people. He uses **structuration** for the continuing process through which human action reproduces or changes patterned relationships. Millions of purchases help shape the coffee market. Obedience gives a government authority; collective refusal can withdraw that authority. Structure therefore has real force without being immovable. (`giddens.pdf`, p. 43)
+
+This sharpens the agency-structure relation taught in class. Family expectations, caste, gender, markets, and educational rules restrict a student's options, but none of these institutions operates by itself. People interpret rules, enforce them, comply with them, and sometimes resist them. The Jenga model is useful for showing interdependence, but structuration corrects its main weakness. Society is not a fixed tower. Its pieces are being rebuilt through action all the time.
 
 ## Exam-ready synthesis
 

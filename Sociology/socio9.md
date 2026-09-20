@@ -319,11 +319,46 @@ This method joins interpretation to structural analysis. It neither reduces cond
 > [!note] Page-number convention
 > The references below use PDF page numbers.
 
-- `Max Weber.pdf`, pp. 2-5, defines social action through subjective meaning, orientation to others, purpose, and *Verstehen*. These points are the basis of the lecture's distinction between behavior and social action.
-- The same slides, pp. 6-9, present instrumental, value-rational, affective, and traditional action. These are ideal types. A concrete action may combine several orientations.
-- The slides, pp. 10-12, connect instrumental rationality to formal rationalization, predictability, disenchantment, bureaucracy, and the "iron cage." This broadens rationality beyond individual cost-benefit calculation.
-- Raymond Aron's Weber selection in `main currents-2.pdf`, pp. 50-64, explains the four types of action, comprehensive sociology, subjective meaning, and causal explanation.
-- Aron, pp. 73-82, treats rationalization, value reference, value judgment, ideal types, and the limits of scientific knowledge. This supports the methodological point that interpreting meaning does not mean accepting an actor's explanation without analysis.
+### Social action begins with meaning and orientation
+
+The Weber slides define an action as social when the actor attaches a subjective meaning to it and takes account of other people's conduct. The audience need not be physically present. An applicant writing a CV anticipates an employer; a person following a ritual responds to a community and tradition; a public act of violence addresses victims, supporters, and an imagined political public. (`Max Weber.pdf`, pp. 2-5)
+
+**Verstehen** means interpretive understanding. The sociologist reconstructs the motive that makes conduct intelligible to the actor. Empathy is a method here, not approval. Understanding why a mob, bureaucrat, student, or religious believer acts does not settle whether the conduct is true, lawful, or moral.
+
+Raymond Aron presents Weber's method as three linked tasks. Sociology must interpret the subjective meaning, organize that meaning into concepts, and explain the action causally. An actor may misunderstand their own motive, and an observer's first interpretation may be wrong. Meaning must therefore be investigated and compared with evidence; it cannot simply be guessed. (`main currents-2.pdf`, pp. 50-64)
+
+### Four ideal types of action
+
+Weber's types isolate the dominant orientation of an action:
+
+| Type | Basis | Reading example | Link to class |
+|---|---|---|---|
+| Instrumentally rational | Means selected for a clear goal | An engineer designing a bridge | A student chooses any effective tactic to improve rank. |
+| Value-rational | Fidelity to a value despite the cost | A captain remains with a sinking ship from honor | A person resists abuse because the principle matters even if intervention fails. |
+| Affective | Immediate emotion or state of mind | A parent strikes a child in anger | Fear, grief, or revenge drives conduct in an extreme situation. |
+| Traditional | Custom that has become habitual | A customary form of greeting | A marriage or religious practice continues because "this is what we do." |
+
+These are **ideal types**, not boxes into which every case fits cleanly. An honor killing may combine tradition, affect, instrumental intimidation, and a claimed value. The point is to ask which orientation dominates a particular part of the action. (`Max Weber.pdf`, pp. 6-9; `main currents-2.pdf`, pp. 50-64)
+
+Weber also defines instrumental rationality from the actor's available knowledge. A person can act rationally toward a goal and still use factually ineffective means because their information is wrong. This distinction explains why rationality is not the same as truth or moral worth.
+
+### Rationalization and the iron cage
+
+Modern institutions expand action organized around calculation, rules, files, credentials, predictable procedures, and specialized offices. Weber calls this **rationalization**. Bureaucracy can be accurate and consistent because an official follows impersonal rules rather than personal preference. The cost is that means-end calculation can crowd out tradition, emotion, and substantive values. The individual becomes one function inside an organization. (`Max Weber.pdf`, pp. 10-12; `main currents-2.pdf`, pp. 73-82)
+
+The **iron cage** is this experience of living inside systems that demand calculability and predictability. Disenchantment accompanies it. Science and administration make the world more controllable but do not tell people which ultimate values to choose. This connects with sir's examples of grades, CVs, proprietary software, development projects, and AI-supported decisions. Each system may be efficient according to its stated goal while narrowing the values and forms of life that count.
+
+### Values enter research without dictating the result
+
+Weber separates **value relevance** from **value judgment**. Values help a researcher select a topic from an infinite reality. Someone studies caste discrimination because equality matters to them, or studies bureaucracy because freedom matters. Once the question is selected, the researcher must not turn the desired political conclusion into an empirical finding. Evidence and causal argument remain answerable to other investigators. (`main currents-2.pdf`, pp. 73-82)
+
+Science can clarify facts, likely consequences, internal consistency, and the means required for a goal. It cannot scientifically prove the final value that everyone ought to serve. A development project may efficiently maximize electricity or revenue, but sociology can still show who chose that goal and who bears displacement. The decision between competing ultimate values remains political and ethical.
+
+### Ideal types simplify without pretending to copy reality
+
+An ideal type deliberately sharpens selected features into a conceptual model. "Instrumentally rational action" or "bureaucracy" is not a claim that any real case has only those features. Researchers compare the model with a messy case to identify mixtures, absences, and departures. The concept is useful because it does not reproduce reality in full.
+
+Weber's causal method is similarly plural. Economy, religion, law, and politics can influence one another. His account of Protestant belief and capitalist conduct was not the reverse of economic determinism. It showed that a religious worldview could organize what actors understood as their interests, while an established capitalist system could later discipline conduct regardless of belief. This is the reading basis for sir's claim that Weber supplements a one-way material explanation rather than simply rejecting economic power.
 
 ## Exam-ready synthesis
 

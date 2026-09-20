@@ -384,12 +384,53 @@ The difficult sociological task is to study how ordinary humans become capable o
 > [!note] Page-number convention
 > The references below use PDF page numbers.
 
-- `SRT_WETCs.pdf`, pp. 2-4, defines social reproduction as the daily and intergenerational regeneration of labor and labor power. It traces the critique of treating productive labor as synonymous with paid labor and introduces housewifization through Maria Mies's Narsapur study.
-- The slides, pp. 5-8, warn against reducing social reproduction to care alone. For the Global South, they emphasize informality, global commodity chains, conjugated oppression, labor control beyond paid time, the transfer of reproductive costs to households, and the collapse of the boundary between work and life.
-- Alessandra Mezzadri, "On the Value of Social Reproduction," pp. 1-8 of `radical_philosophy_2_04_mezzadri-on-the-value-of-social-reproduction.pdf`, is the full argument behind the slides. Mezzadri identifies three ways reproductive activity enters value relations: tighter labor control, capital's externalization of reproductive costs, and the formal subsumption of fragmented household and informal work.
-- Keith Grint, *The Sociology of Work*, chapter 2, pp. 20-28 of `The sociology of work an introduction (Grint, Keith) .pdf`, challenges the image of work as historically separate from home and shows how gender shaped skill, status, domestic labor, and access to occupations.
-- Zarin Ahmad, "Marginal Occupations and Modernising Cities," pp. 2-10 of `AHMAD-MarginalOccupationsModernising-2013.pdf`, shows how technological change and the relocation of Delhi's abattoir reorganized work, space, caste-like occupational ties, kinship, and Muslim butchers' livelihoods. It is a concrete case of modernization changing production and social reproduction together.
-- The discussion of AI applies social reproduction theory to a newer labor process. Source creation, annotation, maintenance, mineral extraction, and household support should be named as distinct forms of labor rather than collapsed into the claim that an output is "automated."
+### Reproducing workers and labor power
+
+Social reproduction theory asks how capitalism obtains workers who arrive able to work each day and how another generation of workers is produced. Food, sleep, cleaning, childbirth, child-rearing, education, health care, emotional support, and community life regenerate **laborers** and their **labor power**. Much of this activity occurs outside the workplace and receives no wage, but paid production depends on it. (`SRT_WETCs.pdf`, pp. 2-4)
+
+Early feminist writers challenged a Marxian habit of treating "productive" and "paid" as synonyms. Selma James and Maria Rosa Dalla Costa argued that capitalism depends on biological and social reproduction outside its recognized sites of value production. Maria Mies's study of lacemakers in Narsapur went further. Women produced goods for the world market inside homes, yet employers treated them as housewives whose earnings were secondary. **Housewifization** hid market production inside a supposedly domestic role and used that label to devalue the work.
+
+Mezzadri explains the political stakes. A wage records the cost capital pays for labor power, not the full value of the work and life that produces it. Defining labor only through wages excludes the people whose unwaged activity sustains production. It also divides labor struggles from struggles over care, households, land, migration, and community survival. (`radical_philosophy_2_04_mezzadri-on-the-value-of-social-reproduction.pdf`, pp. 1-8)
+
+### Work and home were never cleanly separate
+
+Keith Grint challenges the story that men have always worked outside for wages while women have remained in a private domestic sphere. Before industrialization, the home was often a site of collective production and families depended on several incomes. Women worked in mining, masonry, carpentry, brickmaking, agriculture, textiles, and domestic service, though gender shaped tasks, pay, recognition, and access to guilds. (`The sociology of work an introduction (Grint, Keith) .pdf`, pp. 20-28)
+
+Industrial capitalism reorganized this inequality rather than inventing it from nothing. The male breadwinner became a norm even when many households could not survive on a man's wage. Married women were pushed out of some occupations, confined to cheap home production or domestic service, and denied the status attached to "skill." Grint's sharpest point is that skill itself was often defined as male property. Men received differentiated ranks and titles; women's work could remain generically "women's work" even when it required expertise.
+
+This history supports sir's criticism of the productive/reproductive split. Work from home does not create the overlap between household and production. It makes an older overlap visible again under digital management.
+
+### Why the Global South changes the theory
+
+Mezzadri argues that social reproduction cannot be reduced to care, especially in the **majority world**, where informal and informalized labor dominates. Her cited International Labour Organization estimates put informal or informalized employment at 85.8 percent in Africa, 71.4 percent in Asia and the Pacific, and 69.6 percent across emerging and developing economies. Globally, the estimate is 61.2 percent. These workers include casual laborers, vulnerable self-employed producers, disguised wage workers, and home-based workers tied to global commodity chains. (`radical_philosophy_2_04_mezzadri-on-the-value-of-social-reproduction.pdf`, pp. 5-8)
+
+Class exploitation here joins caste, gender, migration status, race, and stigma. Mezzadri calls this **conjugated oppression**. In India, an informal worker may be cheap because the labor market is unequal and because caste or gender assigns the worker less mobility and recognition. The forms of domination do not merely sit next to each other. They help organize the same labor relation.
+
+### Three ways reproduction enters value production
+
+Mezzadri identifies three channels:
+
+1. **Labor control extends beyond paid time.** Dormitories and industrial hostels let employers or contractors govern housing, mobility, food, and conduct. Unpaid time helps produce a compliant worker. Production and reproduction become one labor regime.
+2. **Capital transfers reproductive costs outward.** When employers and the state do not fund health, housing, care, retirement, or periods without work, households, villages, and communities absorb the cost. Their unpaid labor subsidizes low wages and raises exploitation.
+3. **Fragmented production enters homes and villages.** Global chains distribute small tasks to home-based and informal workers. The household becomes a site of commodity production, and the time of work cannot be separated cleanly from the time of life.
+
+These are stronger claims than saying care is socially useful. They explain mechanisms through which reproductive arrangements increase surplus extraction. (`SRT_WETCs.pdf`, pp. 5-8; Mezzadri, pp. 5-8)
+
+### Delhi's abattoir as a concrete case
+
+Zarin Ahmad studies the 2009 closure of Delhi's 95-year-old Idgah abattoir and the shift to a mechanized plant at Ghazipur, about 20 kilometres away. Official language presented relocation, sanitation, mechanization, and privatization as urban improvement. For Muslim Qureshi butchers and Dalit workers, the change reorganized livelihood, community, space, and control. (`AHMAD-MarginalOccupationsModernising-2013.pdf`, pp. 2-10)
+
+The Qureshi biradri joined occupation, endogamy, neighborhood, mutual credit, dispute settlement, political organization, and support during illness or death. These networks also imposed social control, but they gave workers in a stigmatized occupation security in a hostile city. Moving the workplace therefore meant more than a longer commute. It separated work from the familiar social world that sustained it.
+
+At Ghazipur, higher fees and transport costs reduced earnings. Distance mattered because fresh meat is perishable and checkpoints created opportunities for bribery. A private operator controlled access to a formerly municipal facility. Imported machinery designed for larger European cattle did not always suit smaller Indian animals or local slaughter practices. Large firms could absorb the capital cost and control more of the chain; independent skilled butchers were pushed toward daily-wage work. Modernization increased technical scale while reducing many workers' autonomy and making inherited skill less valuable.
+
+Ahmad does not argue that families must remain trapped in hereditary occupations. Her point is that exit should be a real choice. A policy that destroys a livelihood without education, capital, consultation, or another route into work produces displacement, not mobility. This is the exact connection between sir's discussion of technology and social reproduction: changing the production site also changes commuting, food, kinship, credit, identity, care, and the household's capacity to survive.
+
+### Applying the argument to AI
+
+An AI output looks automatic only when its labor chain is hidden. Writers and artists produce source material; annotators classify it; engineers and technicians maintain models and data centers; miners and factory workers produce hardware; energy and water workers sustain infrastructure; households reproduce every one of those workers. Users then add prompts, corrections, and behavioral data.
+
+Social reproduction theory adds two questions to the ordinary automation debate. First, which costs are transferred to workers, families, and communities when jobs disappear or always-on work expands? Second, whose earlier labor becomes a privately owned productive asset? Naming each layer avoids the empty claim that "AI did it" and shows where value, control, and wagelessness move.
 
 ## Exam-ready synthesis
 
